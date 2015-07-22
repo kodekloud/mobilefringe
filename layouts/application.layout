@@ -49,67 +49,41 @@
         <link rel='shortlink' href='http://www.mobilefringe.com/' />
     </head>
     <body data-spy="scroll" data-target=".navbar-collapse" class="home page page-id-181 page-template-default">
-        <!-- BEGIN OUTTER -->
-        <div class="outter">
-            <!-- BEGIN NAVBAR -->
-            <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-                <div class="container-fluid">
-                    <!-- Brand and toggle get grouped for better mobile display -->
-                    <div class="navbar-header">
-                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#nav-menu" style="margin-top: 20px;">
-                            <span class="sr-only">Toggle navigation</span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
-                        <a class="navbar-brand" href="http://www.mobilefringe.com">
-                            <img src="http://www.mobilefringe.com/wp-content/uploads/2014/11/MFlogo.png" class="logo" style="width:150px" title="">
-                        </a>
-                    </div>
-                    <!-- Collect the nav links, forms, and other content for toggling -->
-                    <div class="navbar-collapse collapse" id="nav-menu">
-                        <ul id="menu-main-menu" class="nav navbar-nav navbar-right">
-                            <li id="menu-item-404" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="#full-support" class="sscroll">PRODUCTS</a></li>
-                            <li id="menu-item-428" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="#background-video" class="sscroll">MALL MAVERICK</a></li>
-                            <li id="menu-item-382" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="#377-2" class="sscroll">DEVELOPMENT</a></li>
-                            <li id="menu-item-432" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="#app-portfolio-mobile-apps" class="sscroll">RECENT WORK</a></li>
-                            <li id="menu-item-354" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown"><a href="#" class="no-scroll dropdown-toggle" data-toggle="dropdown">MORE<b class="caret"></b></a>
-                                <ul class="dropdown-menu" role="menu">
-                                    <li id="menu-item-458" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/full-client-list/" class="no-scroll">CLIENT LIST</a></li>
-                                    <li id="menu-item-457" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/our-portfolio/" class="no-scroll">OUR PORTFOLIO</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </div>
-                    <!-- /.navbar-collapse -->
+        <!-- BEGIN NAVBAR -->
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container-fluid">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#nav-menu" style="margin-top: 20px;">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="http://www.mobilefringe.com">
+                        <img src="http://www.mobilefringe.com/wp-content/uploads/2014/11/MFlogo.png" class="logo" style="width:150px" title="">
+                    </a>
                 </div>
-                <!-- /.container-fluid -->
-            </nav>
-            <!-- END NAVBAR -->
-    		
-			
-                <section id="footer">
-                    <div class="section-wrapper">
-                        <footer class="footer white section-wrapper" style="padding-top: 0px;">
-                            <nav class="footer-nav">
-                                <ul id="menu-secondary-menu" class="">
-                                    <li id="menu-item-529" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/full-client-list/" class="no-scroll">Clients List</a></li>
-                                    <li id="menu-item-530" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/our-portfolio/" class="no-scroll">Our Apps</a></li>
-                                    <li id="menu-item-324" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/about-mobile-fringe/" class="no-scroll">About Us</a></li>
-                                    <li id="menu-item-657" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/home-3/iwork-mobilefringe/" class="no-scroll">Work @ Mobile Fringe</a></li>
-                                    <li id="menu-item-680" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/privacy-policy/" class="no-scroll">Privacy Policy</a></li>
-                                </ul>
-                            </nav>
-                            <p class="copyright">© 2014 Mobile Fringe Inc. All rights reserved</p>
-                            <div class="footer-logo">
-                                <img src="http://www.mobilefringe.com/wp-content/uploads/2014/11/MFlogo.png" class="logo" style="width:150px" title="">
-                            </div>
-                            <div class="spacer big"></div>
-                        </footer>
-                    </div>
-                </section>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="navbar-collapse collapse" id="nav-menu">
+                    <ul id="menu-main-menu" class="nav navbar-nav navbar-right">
+                        <li id="menu-item-404" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="#full-support" class="sscroll">PRODUCTS</a></li>
+                        <li id="menu-item-428" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="#background-video" class="sscroll">MALL MAVERICK</a></li>
+                        <li id="menu-item-382" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="#377-2" class="sscroll">DEVELOPMENT</a></li>
+                        <li id="menu-item-432" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="#app-portfolio-mobile-apps" class="sscroll">RECENT WORK</a></li>
+                        <li id="menu-item-354" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown"><a href="#" class="no-scroll dropdown-toggle" data-toggle="dropdown">MORE<b class="caret"></b></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li id="menu-item-458" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/full-client-list/" class="no-scroll">CLIENT LIST</a></li>
+                                <li id="menu-item-457" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/our-portfolio/" class="no-scroll">OUR PORTFOLIO</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+                <!-- /.navbar-collapse -->
             </div>
-        </div>
+            <!-- /.container-fluid -->
+        </nav>
+ 
         <div class="totop" id="backtotop">
             <span>
                 <a href="#home" class="first sscroll"><i class="fa fa-angle-up"></i></a>
