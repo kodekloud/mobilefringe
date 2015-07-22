@@ -45,11 +45,9 @@
                 
         <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
         <script type='text/javascript' src='http://www.mobilefringe.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.mobilefringe.com/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.mobilefringe.com/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 4.0.5" />
-<link rel='shortlink' href='http://www.mobilefringe.com/' />
-<link href="http://www.mobilefringe.com/wp-content/plugins/newsletter/subscription/styles/widget-neutral.css" type="text/css" rel="stylesheet">    </head>
+
+        <link rel='shortlink' href='http://www.mobilefringe.com/' />
+            
      <body data-spy="scroll" data-target=".navbar-collapse" class="home page page-id-181 page-template-default">
         <!-- BEGIN OUTTER -->
         <div class="outter">
