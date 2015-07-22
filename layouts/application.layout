@@ -48,7 +48,7 @@
 
         <link rel='shortlink' href='http://www.mobilefringe.com/' />
     </head>
-     <body data-spy="scroll" data-target=".navbar-collapse" class="home page page-id-181 page-template-default">
+    <body data-spy="scroll" data-target=".navbar-collapse" class="home page page-id-181 page-template-default">
         <!-- BEGIN OUTTER -->
         <div class="outter">
             <!-- BEGIN NAVBAR -->
