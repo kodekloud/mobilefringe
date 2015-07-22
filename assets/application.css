@@ -1,4 +1,24 @@
+<style>
+#our_products .col-md-8, #our_products .col-md-4 {
+  padding: 0px !important;
+}
 
+.mm-background {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: -2;
+  overflow: hidden;
+  background-position: center center;
+}
+
+#our_products2 .col-md-4 {
+  padding: 0px !important;
+}
+#our_products2 .col-md-8 {
+  padding: 0px !important;
+  margin: 0px !important;
+}
 #slides .video-wrapper {
 	overflow: visible;
 	position: initial;
@@ -13,7 +33,7 @@
 	width:auto !important;
         max-width:800px;
 	height: auto !important;
-	position: absolute !important;
+	position: absolute !important;/
 	float:right;
 	padding: 50px;
 	margin:0% 5% 5% 0;
@@ -45,7 +65,7 @@
 	width:auto !important;
         max-width:800px;
 	height: auto !important;
-	position: absolute !important;
+	position: absolute !important;/
 	float:right;
 	padding: 15px;
 	margin:0% 5% 5% 0;
@@ -98,7 +118,7 @@
 	width:auto !important;
         max-width:800px;
 	height: auto !important;
-	position: absolute !important;
+	position: absolute !important;/
 	float:right;
 	padding: 15px;
 	margin:0% 5% 5% 0;
@@ -148,7 +168,7 @@
 	width:auto !important;
         max-width:800px;
 	height: auto !important;
-	position: absolute !important;
+	position: absolute !important;/
 	float:right;
 	padding: 15px;
 	margin:0% 5% 5% 0;
@@ -198,7 +218,7 @@ display:none;
 	width:auto !important;
         max-width:800px;
 	height: auto !important;
-	position: absolute !important;
+	position: absolute !important;/
 	float:right;
 	padding: 50px;
 	margin:0% 5% 5% 0;
@@ -249,7 +269,7 @@ display:none;
 	width:auto !important;
         max-width:800px;
 	height: auto !important;
-	position: absolute !important;
+	position: absolute !important;/
 	float:right;
 	padding: 50px;
 	margin:0% 5% 5% 0;
@@ -298,7 +318,7 @@ display:none;
 	width:auto !important;
         max-width:800px;
 	height: auto !important;
-	position: absolute !important;
+	position: absolute !important;/
 	float:right;
 	padding: 50px;
 	margin:0% 5% 5% 0;
@@ -342,3 +362,5 @@ display:none;
   height: auto;
 }
 }
+
+</style>
