@@ -14,8 +14,8 @@
         <script src="http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/html5shiv.js"></script>
         <script src="http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/respond.min.js"></script>
         <![endif]-->
-        <!--<link rel="profile" href="http://gmpg.org/xfn/11">-->
-        <!--<link rel="pingback" href="http://www.mobilefringe.com/xmlrpc.php">-->
+        <link rel="profile" href="http://gmpg.org/xfn/11">
+        <link rel="pingback" href="http://www.mobilefringe.com/xmlrpc.php">
 
 <link rel="canonical" href="http://www.mobilefringe.com/" />
 <meta property="og:title" content="Mobile Fringe" />
