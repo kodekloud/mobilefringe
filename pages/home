@@ -429,10 +429,14 @@ display:none;
                     </h1>
                     <h3 class="subtitle white animated fadeInUp" data-effect="fadeInUp">
                         <a href="http://www.mallmaverick.com" target="blank" style="color: #fff;"> OUR AWARD WINNING DIGITAL CMS - CLICK TO KNOW MORE!</a>
-                    </h3><div class="spacer small"><a href="http://www.mallmaverick.com" target="blank"><img src="http://www.mobilefringe.com/wp-content/uploads/2014/11/imac2.png" alt="imac" width="953" height="536" class="alignnone size-full wp-image-556"></a></div></div><div class="imac-wrapper animated slideInDown" data-effect="slideInDown"><!--                                     <a href="http://youtu.be/sDP2tWzSQUI" data-type="youtube" class="popup"> -->
-                                    
-                                    
-                                </div>
-                            </div>
-                        </div>						</div> <!-- .page-fullwdth-content -->
-					</div>
+                    </h3>
+                    <div class="spacer small">
+                        <a href="http://www.mallmaverick.com" target="blank"><img src="http://www.mobilefringe.com/wp-content/uploads/2014/11/imac2.png" alt="imac" width="953" height="536" class="alignnone size-full wp-image-556"></a>
+                    </div>
+                </div>
+                <div class="imac-wrapper animated slideInDown" data-effect="slideInDown">
+                </div>
+            </div>
+        </div>
+    </div> <!-- .page-fullwdth-content -->
+</div>
