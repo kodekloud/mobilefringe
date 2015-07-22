@@ -6,6 +6,10 @@
 #our_products2 .col-md-4 {
   padding: 0px !important;
 }
+#our_products2 .col-md-8 {
+  padding: 0px !important;
+  margin: 0px !important;
+}
 #slides .video-wrapper {
 	overflow: visible;
 	position: initial;
