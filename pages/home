@@ -1,4 +1,7 @@
 <style>
+#our_products .col-md-8 {
+  padding: 0px !important;
+}
 #slides .video-wrapper {
 	overflow: visible;
 	position: initial;
