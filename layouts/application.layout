@@ -83,6 +83,9 @@
             </div>
             <!-- /.container-fluid -->
         </nav>
+        <div>
+            {{yield}}
+        </div>
  
         <div class="totop" id="backtotop">
             <span>
