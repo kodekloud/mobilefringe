@@ -62,27 +62,32 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-
                         <a class="navbar-brand" href="http://www.mobilefringe.com">
-                                                                        <img src="http://www.mobilefringe.com/wp-content/uploads/2014/11/MFlogo.png" class="logo" style="width:150px" title="">
-                                                        </a>
+                            <img src="http://www.mobilefringe.com/wp-content/uploads/2014/11/MFlogo.png" class="logo" style="width:150px" title="">
+                        </a>
                     </div>
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="navbar-collapse collapse" id="nav-menu">
-                                                    <ul id="menu-main-menu" class="nav navbar-nav navbar-right"></li><li id="menu-item-404" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="#full-support" class="sscroll">PRODUCTS</a></li><li id="menu-item-428" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="#background-video" class="sscroll">MALL MAVERICK</a></li><li id="menu-item-382" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="#377-2" class="sscroll">DEVELOPMENT</a></li><li id="menu-item-432" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="#app-portfolio-mobile-apps" class="sscroll">RECENT WORK</a></li></li><li id="menu-item-354" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown"><a href="#" class="no-scroll" class="dropdown-toggle" data-toggle="dropdown">MORE<b class="caret"></b></a>
-<ul class="dropdown-menu" role="menu">
-	<li id="menu-item-458" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/full-client-list/" class="no-scroll">CLIENT LIST</a></li>	<li id="menu-item-457" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/our-portfolio/" class="no-scroll">OUR PORTFOLIO</a></li><!--.dropdown-->
-</ul>
-</li></ul>                                            </div>
-
+                        <ul id="menu-main-menu" class="nav navbar-nav navbar-right">
+                            <li id="menu-item-404" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="#full-support" class="sscroll">PRODUCTS</a></li>
+                            <li id="menu-item-428" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="#background-video" class="sscroll">MALL MAVERICK</a></li>
+                            <li id="menu-item-382" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="#377-2" class="sscroll">DEVELOPMENT</a></li>
+                            <li id="menu-item-432" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="#app-portfolio-mobile-apps" class="sscroll">RECENT WORK</a></li>
+                            <li id="menu-item-354" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown"><a href="#" class="no-scroll dropdown-toggle" data-toggle="dropdown">MORE<b class="caret"></b></a>
+                                <ul class="dropdown-menu" role="menu">
+                                    <li id="menu-item-458" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/full-client-list/" class="no-scroll">CLIENT LIST</a></li>
+                                    <li id="menu-item-457" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/our-portfolio/" class="no-scroll">OUR PORTFOLIO</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
                     <!-- /.navbar-collapse -->
                 </div>
                 <!-- /.container-fluid -->
             </nav>
             <!-- END NAVBAR -->
-
-					<div id="homepage-slider" class="page-wrapper full-width section-wrapper light-bg" style="background-color:#ffffff">
-												<div class="page-fullwdth-content">	
+    		<div id="homepage-slider" class="page-wrapper full-width section-wrapper light-bg" style="background-color:#ffffff">
+				<div class="page-fullwdth-content">	
 								  <!-- css -->
   
   <link rel="stylesheet" href="http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/style_video.css">
