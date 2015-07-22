@@ -85,82 +85,72 @@
                                 <a href="#app-portfolio-mobile-apps" class="sscroll">RECENT WORK</a>
                             </li>
                             <li id="menu-item-354" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown">
-                                <a href="#" class="no-scroll" class="dropdown-toggle" data-toggle="dropdown">MORE<b class="caret"></b></a>
+                                <a href="#" class="no-scroll dropdown-toggle" data-toggle="dropdown">MORE<b class="caret"></b></a>
                                 <ul class="dropdown-menu" role="menu">
-	                        <li id="menu-item-458" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/full-client-list/" class="no-scroll">CLIENT LIST</a></li>	<li id="menu-item-457" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/our-portfolio/" class="no-scroll">OUR PORTFOLIO</a></li><!--.dropdown-->
-</ul>
-</li></ul>                                            </div>
-
+                                    <li id="menu-item-458" class=" menu-item menu-item-type-post_type menu-item-object-page none">
+                                        <a href="http://www.mobilefringe.com/full-client-list/" class="no-scroll">CLIENT LIST</a>
+                                    </li>
+                                    <li id="menu-item-457" class=" menu-item menu-item-type-post_type menu-item-object-page none">
+                                        <a href="http://www.mobilefringe.com/our-portfolio/" class="no-scroll">OUR PORTFOLIO</a>
+                                    </li><!--.dropdown-->
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
                     <!-- /.navbar-collapse -->
                 </div>
                 <!-- /.container-fluid -->
             </nav>
             <!-- END NAVBAR -->
-
-					<div id="homepage-slider" class="page-wrapper full-width section-wrapper light-bg" style="background-color:#ffffff">
-												<div class="page-fullwdth-content">	
-								  <!-- css -->
-  
-  <link rel="stylesheet" href="http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/style_video.css">
-  
-
-  <!-- js -->
-
-  <script src="http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/modernizr.js"></script>
-
-<div>
-
- 
-
-  
- <!--id="cmn-video-demo4__video"-->
-
-  <video id="cmn-video-demo4__video" autoplay muted loop>
-    <source src="http://www.mobilefringe.com/wp-content/uploads/2014/11/steven.webm" type="video/webm">
-    <source src="http://www.mobilefringe.com/wp-content/uploads/2014/11/steven.mp4" type="video/mp4">
-    <source src="http://www.mobilefringe.com/wp-content/uploads/2014/11/steven.ogv" type="video/ogg">
-    Your browser doesn't support HTML5 video. Here's a <a href="#">link</a> to download the video.
-  </video>
-<div class="vid_replace">
-    <img src="http://www.mobilefringe.com/wp-content/uploads/2014/11/vidback_computers.png" />
-</div>
-
-  <div class="main_caption fade-in" data-effect="slideInDown">
-                                    	<h2>We shape cutting-edge ideas into pieces of software</h2>
-                                    	We are Mobile Fringe - a boutique software development team, bringing magical experiences to life on desktop, tablet and mobile.
-                                    </div>
-  
-</div>
-						</div> <!-- .page-fullwdth-content -->
-					</div> <!-- .page-content -->
-										<div class="section-outter">
-										<section id="full-support" class="page-wrapper light-bg" style="background-color:#ffffff">
-						<div class="container section-wrapper">
-							 
-								<hr class="title-break">
-								<div class="title-area section-title">
-									<h2 class="title animated fadeInDown" data-effect="fadeInDown">OUR PRODUCTS AND SOLUTIONS </h2>
-
-																		
-								</div> <!-- .section-title -->
-							
+            <div id="homepage-slider" class="page-wrapper full-width section-wrapper light-bg" style="background-color:#ffffff">
+				<div class="page-fullwdth-content">	
+                    <link rel="stylesheet" href="http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/style_video.css">
+                    <script src="http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/modernizr.js"></script>
+                    <div>
+                        <!--id="cmn-video-demo4__video"-->
+                        <video id="cmn-video-demo4__video" autoplay muted loop>
+                            <source src="http://www.mobilefringe.com/wp-content/uploads/2014/11/steven.webm" type="video/webm">
+                            <source src="http://www.mobilefringe.com/wp-content/uploads/2014/11/steven.mp4" type="video/mp4">
+                            <source src="http://www.mobilefringe.com/wp-content/uploads/2014/11/steven.ogv" type="video/ogg">
+                            Your browser doesn't support HTML5 video. Here's a <a href="#">link</a> to download the video.
+                        </video>
+                        <div class="vid_replace">
+                            <img src="http://www.mobilefringe.com/wp-content/uploads/2014/11/vidback_computers.png" />
+                        </div>
+                        <div class="main_caption fade-in" data-effect="slideInDown">
+                        	<h2>We shape cutting-edge ideas into pieces of software</h2>
+                            We are Mobile Fringe - a boutique software development team, bringing magical experiences to life on desktop, tablet and mobile.
+                        </div>
+                    </div>
+				</div> <!-- .page-fullwdth-content -->
+			</div> <!-- .page-content -->
+			<div class="section-outter">
+				<section id="full-support" class="page-wrapper light-bg" style="background-color:#ffffff">
+					<div class="container section-wrapper">
+						<hr class="title-break" >
+						<div class="title-area section-title">
+							<h2 class="title animated fadeInDown" data-effect="fadeInDown">OUR PRODUCTS AND SOLUTIONS </h2>
+							</div> <!-- .section-title -->
 							<div class="row page-content">	
 								<div id="our_products">
-<div class="col-md-8">
-    <div class="animated fadeInUp" data-effect="fadeInUp"><a href="http://www.mobilefringe.com/?p=956"><img style="width: 100%; max-width: 770px; margin-bottom: 10px; float: left;" src="http://delivercy.com/wp_fringe/wp-content/uploads/2014/11/ps_ibeacons_2x.jpg" alt="" /></a>
-        
-    </div>
-    <div class="clearfix"></div>
-    </div>
-
-
-
-
-
-<div class="col-md-4">
-        <div class="animated fadeInUp" data-effect="fadeInUp"><a href="http://www.mobilefringe.com/?p=920"><img class="medialeft1" style="width: 100%; max-width: 380px; margin-bottom: 13px; float: right;" src="http://delivercy.com/wp_fringe/wp-content/uploads/2014/11/ps_kodekloud_2x.jpg" alt="" /></a>
-        </div>
-        <div class="animated fadeInUp" data-effect="fadeInUp"><a href="http://www.mobilefringe.com/?p=923"><img style="width: 100%; max-width: 380px; margin-bottom: 10px; float: right;" src="http://delivercy.com/wp_fringe/wp-content/uploads/2014/11/ps_m2m_2x.jpg" alt="" /></a>
+                                    <div class="col-md-8">
+                                        <div class="animated fadeInUp" data-effect="fadeInUp">
+                                            <a href="http://www.mobilefringe.com/?p=956">
+                                                <img style="width: 100%; max-width: 770px; margin-bottom: 10px; float: left;" src="http://delivercy.com/wp_fringe/wp-content/uploads/2014/11/ps_ibeacons_2x.jpg" alt="" />
+                                            </a>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="animated fadeInUp" data-effect="fadeInUp">
+                                            <a href="http://www.mobilefringe.com/?p=920">
+                                                <img class="medialeft1" style="width: 100%; max-width: 380px; margin-bottom: 13px; float: right;" src="http://delivercy.com/wp_fringe/wp-content/uploads/2014/11/ps_kodekloud_2x.jpg" alt="" />
+                                            </a>
+                                        </div>
+                                        <div class="animated fadeInUp" data-effect="fadeInUp">
+                                            <a href="http://www.mobilefringe.com/?p=923">
+                                                <img style="width: 100%; max-width: 380px; margin-bottom: 10px; float: right;" src="http://delivercy.com/wp_fringe/wp-content/uploads/2014/11/ps_m2m_2x.jpg" alt="" />
+                                            </a>
         </div>
         
 
