@@ -86,25 +86,7 @@
                 <!-- /.container-fluid -->
             </nav>
             <!-- END NAVBAR -->
-    		<div id="homepage-slider" class="page-wrapper full-width section-wrapper light-bg" style="background-color:#ffffff">
-				<div class="page-fullwdth-content">	
-                    <div>
-                        <video id="cmn-video-demo4__video" autoplay muted loop>
-                            <source src="http://www.mobilefringe.com/wp-content/uploads/2014/11/steven.webm" type="video/webm">
-                            <source src="http://www.mobilefringe.com/wp-content/uploads/2014/11/steven.mp4" type="video/mp4">
-                            <source src="http://www.mobilefringe.com/wp-content/uploads/2014/11/steven.ogv" type="video/ogg">
-                            Your browser doesn't support HTML5 video. Here's a <a href="#">link</a> to download the video.
-                        </video>
-                        <div class="vid_replace">
-                            <img src="http://www.mobilefringe.com/wp-content/uploads/2014/11/vidback_computers.png" />
-                        </div>
-                        <div class="main_caption fade-in" data-effect="slideInDown">
-                            <h2>We shape cutting-edge ideas into pieces of software</h2>
-                            We are Mobile Fringe - a boutique software development team, bringing magical experiences to life on desktop, tablet and mobile.
-                        </div>
-                    </div>
-			    </div> <!-- .page-fullwdth-content -->
-		    </div> <!-- .page-content -->
+    		
 			<div class="section-outter">
 			    <section id="full-support" class="page-wrapper light-bg" style="background-color:#ffffff">
 					<div class="container section-wrapper">
