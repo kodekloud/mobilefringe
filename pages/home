@@ -418,3 +418,21 @@ display:none;
 		</div> <!-- .page-content -->
 	</div> <!-- .container -->
 </section>
+<div id="background-video" class="page-wrapper full-width section-wrapper light-bg" style="background-color:#ffffff">
+	<div class="page-fullwdth-content">	
+		<div class="video-wrapper">
+            <div class="mm-background" style="background: url('http://www.mobilefringe.com/wp-content/uploads/2014/11/mallmaverick_np_bg.jpg') !important;"></div>
+            <div class="fill-wrapper">
+                <div class="section-title">
+                    <h1 class="white animated fadeInDown" data-effect="fadeInDown">
+                        <a href="http://www.mallmaverick.com"><img class="mmlogo bg-logo alignnone" src="http://www.mobilefringe.com//wp-content/uploads/2014/11/MMlogo.png" width="459" height="75" style="padding-left: 30px; padding-right: 30px;"></a>
+                    </h1>
+                    <h3 class="subtitle white animated fadeInUp" data-effect="fadeInUp">
+                        <a href="http://www.mallmaverick.com" target="blank" style="color: #fff;"> OUR AWARD WINNING DIGITAL CMS - CLICK TO KNOW MORE!</a>
+                    </h3><div class="spacer small"><a href="http://www.mallmaverick.com" target="blank"><img src="http://www.mobilefringe.com/wp-content/uploads/2014/11/imac2.png" alt="imac" width="953" height="536" class="alignnone size-full wp-image-556"></a></div></div><div class="imac-wrapper animated slideInDown" data-effect="slideInDown"><!--                                     <a href="http://youtu.be/sDP2tWzSQUI" data-type="youtube" class="popup"> -->
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>						</div> <!-- .page-fullwdth-content -->
+					</div>
