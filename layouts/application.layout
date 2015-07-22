@@ -907,15 +907,8 @@ Mobile Fringe collaborated with one of the the largest telecommunications compan
         </div>
         <!-- END BACK TO TOP -->
       
-                
-                <script type='text/javascript' src='http://www.mobilefringe.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var _wpcf7 = {"loaderUrl":"http:\/\/www.mobilefringe.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
-/* ]]> */
-</script>
-<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.0.2'></script>
-<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/bootstrap.min.js?ver=4.0.5'></script>
+
+<script type='text/javascript' src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js'></script>
 <script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/jquery.scrollTo.js?ver=4.0.5'></script>
 <script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/jquery.nav.js?ver=4.0.5'></script>
 <script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/jquery.parallax.js?ver=4.0.5'></script>
