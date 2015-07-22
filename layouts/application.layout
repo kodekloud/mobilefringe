@@ -19,7 +19,25 @@
         
         <link rel="shortcut icon" href="http://www.mobilefringe.com/wp-content/uploads/2014/12/favicon.png" type="image/x-icon"/>
         <link rel="canonical" href="http://www.mobilefringe.com/" />        
-       
+        <link rel="alternate" type="application/rss+xml" title="Mobile Fringe &raquo; Feed" href="http://www.mobilefringe.com/feed/" />
+        <link rel="alternate" type="application/rss+xml" title="Mobile Fringe &raquo; Comments Feed" href="http://www.mobilefringe.com/comments/feed/" />
+        <link rel="alternate" type="application/rss+xml" title="Mobile Fringe &raquo; Front-Page Comments Feed" href="http://www.mobilefringe.com/front-page/feed/" />
+        <link rel='stylesheet' id='contact-form-7-css'  href='http://www.mobilefringe.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.0.2' type='text/css' media='all' />
+        <link rel='stylesheet' id='thm-style-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/style.css?ver=4.0.5' type='text/css' media='all' />
+        <link rel='stylesheet' id='font-awesome-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/font-awesome.min.css?ver=4.0.5' type='text/css' media='all' />
+        <link rel='stylesheet' id='component-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/component.css?ver=4.0.5' type='text/css' media='all' />
+        <link rel='stylesheet' id='og-component-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/lib/og-component.css?ver=4.0.5' type='text/css' media='all' />
+        <link rel='stylesheet' id='style-light-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/style-light.css?ver=4.0.5' type='text/css' media='all' />
+        <link rel='stylesheet' id='light-blue-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/light-blue.css?ver=4.0.5' type='text/css' media='all' />
+        <link rel='stylesheet' id='venobox-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/lib/venobox.css?ver=4.0.5' type='text/css' media='all' />
+        <link rel='stylesheet' id='zocial-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/lib/zocial.css?ver=4.0.5' type='text/css' media='all' />
+        <link rel='stylesheet' id='animate-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/lib/animate.css?ver=4.0.5' type='text/css' media='all' />
+        <link rel='stylesheet' id='open-sans_one-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=4.0.5' type='text/css' media='all' />
+        <link rel='stylesheet' id='open-sans_two-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=4.0.5' type='text/css' media='all' />
+        <link rel='stylesheet' id='open-sans_three-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=4.0.5' type='text/css' media='all' />
+        <link rel='stylesheet' id='quick-style-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/quick-style.php?ver=4.0.5' type='text/css' media='all' />
+        <link rel='stylesheet' id='sportson_preset1-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/presets/preset1.css?ver=4.0.5' type='text/css' media='all' />
+        <link rel='stylesheet' id='cpsh-shortcodes-css'  href='http://www.mobilefringe.com/wp-content/plugins/column-shortcodes/assets/css/shortcodes.css?ver=0.6.6' type='text/css' media='all' />
         <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!--[if lt IE 9]>
         <script src="http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/html5shiv.js"></script>
@@ -29,26 +47,6 @@
                 
 
 
-<!-- /all in one seo pack -->
-<link rel="alternate" type="application/rss+xml" title="Mobile Fringe &raquo; Feed" href="http://www.mobilefringe.com/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Mobile Fringe &raquo; Comments Feed" href="http://www.mobilefringe.com/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Mobile Fringe &raquo; Front-Page Comments Feed" href="http://www.mobilefringe.com/front-page/feed/" />
-<link rel='stylesheet' id='contact-form-7-css'  href='http://www.mobilefringe.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.0.2' type='text/css' media='all' />
-<link rel='stylesheet' id='thm-style-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/style.css?ver=4.0.5' type='text/css' media='all' />
-<link rel='stylesheet' id='font-awesome-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/font-awesome.min.css?ver=4.0.5' type='text/css' media='all' />
-<link rel='stylesheet' id='component-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/component.css?ver=4.0.5' type='text/css' media='all' />
-<link rel='stylesheet' id='og-component-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/lib/og-component.css?ver=4.0.5' type='text/css' media='all' />
-<link rel='stylesheet' id='style-light-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/style-light.css?ver=4.0.5' type='text/css' media='all' />
-<link rel='stylesheet' id='light-blue-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/light-blue.css?ver=4.0.5' type='text/css' media='all' />
-<link rel='stylesheet' id='venobox-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/lib/venobox.css?ver=4.0.5' type='text/css' media='all' />
-<link rel='stylesheet' id='zocial-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/lib/zocial.css?ver=4.0.5' type='text/css' media='all' />
-<link rel='stylesheet' id='animate-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/lib/animate.css?ver=4.0.5' type='text/css' media='all' />
-<link rel='stylesheet' id='open-sans_one-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=4.0.5' type='text/css' media='all' />
-<link rel='stylesheet' id='open-sans_two-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=4.0.5' type='text/css' media='all' />
-<link rel='stylesheet' id='open-sans_three-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=4.0.5' type='text/css' media='all' />
-<link rel='stylesheet' id='quick-style-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/quick-style.php?ver=4.0.5' type='text/css' media='all' />
-<link rel='stylesheet' id='sportson_preset1-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/presets/preset1.css?ver=4.0.5' type='text/css' media='all' />
-<link rel='stylesheet' id='cpsh-shortcodes-css'  href='http://www.mobilefringe.com/wp-content/plugins/column-shortcodes/assets/css/shortcodes.css?ver=0.6.6' type='text/css' media='all' />
 <script type='text/javascript' src='http://www.mobilefringe.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
 <script type='text/javascript' src='http://www.mobilefringe.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.mobilefringe.com/xmlrpc.php?rsd" />
