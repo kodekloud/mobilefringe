@@ -15,6 +15,7 @@
         <meta property="og:description" content="Mobile Solutions &amp; Software" />
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:description" content="Mobile Solutions &amp; Software" />
+        <meta itemprop="image" content="http://www.mobilefringe.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png" />
         
         <link rel="shortcut icon" href="http://www.mobilefringe.com/wp-content/uploads/2014/12/favicon.png" type="image/x-icon"/>
         <link rel="canonical" href="http://www.mobilefringe.com/" />        
@@ -28,7 +29,6 @@
                 
 
 
-<meta itemprop="image" content="http://www.mobilefringe.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png" />
 <!-- /all in one seo pack -->
 <link rel="alternate" type="application/rss+xml" title="Mobile Fringe &raquo; Feed" href="http://www.mobilefringe.com/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Mobile Fringe &raquo; Comments Feed" href="http://www.mobilefringe.com/comments/feed/" />
