@@ -1,45 +1,70 @@
+
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-US"
+	itemscope 
+	itemtype="http://schema.org/Blog" 
+	prefix="og: http://ogp.me/ns#" >
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       
+        <title>The best Mobile Software and App Developer in Toronto</title>
+                    <link rel="shortcut icon" href="http://www.mobilefringe.com/wp-content/uploads/2014/12/favicon.png" type="image/x-icon"/>
+        
+       
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+        <script src="http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/html5shiv.js"></script>
+        <script src="http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/respond.min.js"></script>
+        <![endif]-->
 
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="RINDU - One Page Business Template<">
-    <meta name="author" content="Develpixel">
-    <link rel="shortcut icon" href="images/favicon/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="images/favicon/favicon.ico" type="image/x-icon">
+        <link rel="profile" href="http://gmpg.org/xfn/11">
+        <link rel="pingback" href="http://www.mobilefringe.com/xmlrpc.php">
 
-    <title>RINDU - One Page Business Template</title>
+                
+<!-- All in One SEO Pack 2.2.7 by Michael Torbert of Semper Fi Web Design[254,308] -->
+<meta name="description" itemprop="description" content="Mobile Fringe develops the best mobile, tablet and web solutions and software for your business in Toronto" />
 
-    <!-- Bootstrap core CSS -->
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Font Awesome CSS -->
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-    <!-- Zocial CSS -->
-    <link href="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/zocial.css" rel="stylesheet">
-    <!-- VENOBOx CSS -->
-    <link href="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/venobox.css" rel="stylesheet">
-    <!-- EXPANDING THUMBNAIL CSS -->
-    <link href="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/og-component.css" rel="stylesheet">
-    <!-- ANIMATED CSS -->
-    <link href="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/animate.css" rel="stylesheet">
-    <!-- STYLE CSS -->
-    <link href="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/style.css" rel="stylesheet">
-    <!-- COLOR SCHEME CSS -->
-    <link href="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/light-blue.css" rel="stylesheet">
-    
-    <link href="/application.css" rel="stylesheet">
-    
-    <!-- MODERNIZER JS -->
-    <script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/modernizr.custom.js"></script>
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/html5shiv.js"></script>
-      <script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/respond.min.js"></script>
-    <![endif]-->
-</head>
+<meta name="keywords" itemprop="keywords" content="Best mobile developer, best web software in Toronto" />
 
-<body data-spy="scroll" data-target=".navbar-collapse" class="home page page-id-181 page-template-default">
+<link rel="canonical" href="http://www.mobilefringe.com/" />
+<meta property="og:title" content="Mobile Fringe" />
+<meta property="og:type" content="blog" />
+<meta property="og:url" content="http://www.mobilefringe.com/" />
+<meta property="og:image" content="http://www.mobilefringe.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png" />
+<meta property="og:site_name" content="Mobile Fringe" />
+<meta property="og:description" content="Mobile Solutions &amp; Software" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Mobile Solutions &amp; Software" />
+<meta itemprop="image" content="http://www.mobilefringe.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png" />
+<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Mobile Fringe &raquo; Feed" href="http://www.mobilefringe.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Mobile Fringe &raquo; Comments Feed" href="http://www.mobilefringe.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Mobile Fringe &raquo; Front-Page Comments Feed" href="http://www.mobilefringe.com/front-page/feed/" />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.mobilefringe.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='thm-style-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/style.css?ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/font-awesome.min.css?ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='component-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/component.css?ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='og-component-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/lib/og-component.css?ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='style-light-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/style-light.css?ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='light-blue-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/light-blue.css?ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='venobox-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/lib/venobox.css?ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='zocial-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/lib/zocial.css?ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/lib/animate.css?ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='open-sans_one-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='open-sans_two-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='open-sans_three-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='quick-style-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/quick-style.php?ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='sportson_preset1-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/presets/preset1.css?ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='cpsh-shortcodes-css'  href='http://www.mobilefringe.com/wp-content/plugins/column-shortcodes/assets/css/shortcodes.css?ver=0.6.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.mobilefringe.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.mobilefringe.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.mobilefringe.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.mobilefringe.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0.5" />
+<link rel='shortlink' href='http://www.mobilefringe.com/' />
+<link href="http://www.mobilefringe.com/wp-content/plugins/newsletter/subscription/styles/widget-neutral.css" type="text/css" rel="stylesheet">    </head>
+     <body data-spy="scroll" data-target=".navbar-collapse" class="home page page-id-181 page-template-default">
         <!-- BEGIN OUTTER -->
         <div class="outter">
             <!-- BEGIN NAVBAR -->
@@ -107,7 +132,352 @@
   
 </div>
 
-						</div> <!-- .page-fullwdth-content -->
+<style>
+#slides .video-wrapper {
+	overflow: visible;
+	position: initial;
+}
+
+#slides .video-wrapper img {
+	width:auto !important;
+	height: auto !important;
+	position: inherit !important;
+}
+.main_caption {
+	width:auto !important;
+        max-width:800px;
+	height: auto !important;
+	position: absolute !important;/
+	float:right;
+	padding: 50px;
+	margin:0% 5% 5% 0;
+	background: rgba(0,0,0,0.5);
+	font-size: 22px;
+        line-height: 25px;
+	color: #fff;
+	text-align: right;
+	right:0;
+	top:250px;
+}
+
+.main_caption h2{
+	font-size: 22px;
+	color:#fff;
+        margin-top:0px !important;
+}
+
+.vid_replace img {
+   max-width:100%;
+   max-height:100%;
+   padding-top: 65px;
+}
+
+@media screen and (min-width: 310px) {
+
+.main_caption {
+        display:none;
+	width:auto !important;
+        max-width:800px;
+	height: auto !important;
+	position: absolute !important;/
+	float:right;
+	padding: 15px;
+	margin:0% 5% 5% 0;
+	background: rgba(0,0,0,0.5);
+	font-size: 10px;
+        line-height: 12px;
+	color: #fff;
+	text-align: right;
+	right:0;
+	top:150px;
+}
+.main_caption h2{
+	font-size: 11px;
+	color:#fff;
+        margin-top:0px !important;
+}
+
+#homepage-slider {
+  min-height:20% !important;
+  
+   }
+#cmn-video-demo4__video {
+  display:none;
+  position: inherit;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  min-width: 100%; min-height: 100%;
+  background: url(http://www.mobilefringe.com/wp-content/uploads/2014/11/vidback_computers.png) no-repeat;
+  padding-top:0px;
+  width: auto;
+  height: auto;
+}
+.vid_replace {
+   position: inherit;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  min-width: 100%; min-height: 100%;
+  background: url(http://www.mobilefringe.com/wp-content/uploads/2014/11/vidback_computers.png) no-repeat;
+  padding-top:0px;
+  width: auto;
+  height: auto;
+}
+}
+@media screen and (min-width: 480px) {
+
+.main_caption {
+        display:none;
+	width:auto !important;
+        max-width:800px;
+	height: auto !important;
+	position: absolute !important;/
+	float:right;
+	padding: 15px;
+	margin:0% 5% 5% 0;
+	background: rgba(0,0,0,0.5);
+	font-size: 14px;
+        line-height: 15px;
+	color: #fff;
+	text-align: right;
+	right:0;
+	top:250px;
+}
+.main_caption h2{
+	font-size: 16px;
+	color:#fff;
+        margin-top:0px !important;
+}
+
+#homepage-slider {
+   min-height:30% !important;
+   }
+#cmn-video-demo4__video {
+  display:none;
+  position: inherit;
+  top: 0;
+  left: 0;
+  z-index: -100;
+  min-width: 100%; min-height: 100%;
+  padding-top:62px;
+  width: auto;
+  height: auto;
+}
+.vid_replace {
+   position: inherit;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  min-width: 100%; min-height: 100%;
+  background: url(http://www.mobilefringe.com/wp-content/uploads/2014/11/vidback_computers.png) no-repeat;
+  padding-top:0px;
+  width: auto;
+  height: auto;
+}
+}
+@media screen and (min-width: 575px) {
+.main_caption {
+        display:none;
+	width:auto !important;
+        max-width:800px;
+	height: auto !important;
+	position: absolute !important;/
+	float:right;
+	padding: 15px;
+	margin:0% 5% 5% 0;
+	background: rgba(0,0,0,0.5);
+	font-size: 16px;
+        line-height: 19px;
+	color: #fff;
+	text-align: right;
+	right:0;
+	top:420px;
+}
+.main_caption h2{
+	font-size: 20px;
+	color:#fff;
+        margin-top:0px !important;
+}
+#homepage-slider {
+   min-height:40% !important;
+   }
+#cmn-video-demo4__video {
+display:none;
+  position: inherit;
+  top: 0;
+  left: 0;
+  z-index: -100;
+  min-width: 100%; min-height: 100%;
+  padding-top:62px;
+  width: auto;
+  height: auto;
+}
+.vid_replace {
+   position: inherit;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  min-width: 100%; min-height: 100%;
+  background: url(http://www.mobilefringe.com/wp-content/uploads/2014/11/vidback_computers.png) no-repeat;
+  padding-top:0px;
+  width: auto;
+  height: auto;
+}
+}
+@media screen and (min-width: 875px) {
+
+.main_caption {
+        display:none;
+	width:auto !important;
+        max-width:800px;
+	height: auto !important;
+	position: absolute !important;/
+	float:right;
+	padding: 50px;
+	margin:0% 5% 5% 0;
+	background: rgba(0,0,0,0.5);
+	font-size: 22px;
+        line-height: 25px;
+	color: #fff;
+	text-align: right;
+	right:0;
+	top:370px;
+}
+.main_caption h2{
+	font-size: 42px;
+	color:#fff;
+        margin-top:0px !important;
+}
+
+#homepage-slider {
+   min-height:76% !important;
+   }
+#cmn-video-demo4__video {
+display:none;
+  position: inherit;
+  top: 0;
+  left: 0;
+  z-index: -100;
+  min-width: 100%; min-height: 100%;
+  padding-top:62px;
+  width: auto;
+  height: auto;
+}
+.vid_replace {
+   position: inherit;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  min-width: 100%; min-height: 100%;
+  background: url(http://www.mobilefringe.com/wp-content/uploads/2014/11/vidback_computers.png) no-repeat;
+  padding-top:0px;
+  width: auto;
+  height: auto;
+}
+}
+@media screen and (min-width: 1075px) {
+
+.main_caption {
+        display:none;
+	width:auto !important;
+        max-width:800px;
+	height: auto !important;
+	position: absolute !important;/
+	float:right;
+	padding: 50px;
+	margin:0% 5% 5% 0;
+	background: rgba(0,0,0,0.5);
+	font-size: 22px;
+        line-height: 25px;
+	color: #fff;
+	text-align: right;
+	right:0;
+	top:450px;
+}
+.main_caption h2{
+	font-size: 42px;
+	color:#fff;
+        margin-top:0px !important;
+}
+#homepage-slider {
+   min-height:76% !important;
+   }
+#cmn-video-demo4__video {
+display:none;
+  position: inherit;
+  top: 0;
+  left: 0;
+  z-index: -100;
+  min-width: 100%; min-height: 100%;
+  padding-top:62px;
+  width: auto;
+  height: auto;
+}
+.vid_replace {
+   position: inherit;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  min-width: 100%; min-height: 100%;
+  background: url(http://www.mobilefringe.com/wp-content/uploads/2014/11/vidback_computers.png) no-repeat;
+  padding-top:0px;
+  width: auto;
+  height: auto;
+}
+}
+@media screen and (min-width: 1275px) {
+.main_caption {
+        display: block;
+	width:auto !important;
+        max-width:800px;
+	height: auto !important;
+	position: absolute !important;/
+	float:right;
+	padding: 50px;
+	margin:0% 5% 5% 0;
+	background: rgba(0,0,0,0.5);
+	font-size: 22px;
+        line-height: 25px;
+	color: #fff;
+	text-align: right;
+	right:0;
+	top:440px;
+}
+.main_caption h2{
+	font-size: 42px;
+	color:#fff;
+        margin-top:0px !important;
+}
+.main_caption .fade-in {
+        zoom: 0;
+        animation: fadeit 1s ease-out forwards;
+        animation-iteration-count: 1;
+        -webkit-animation: fadeit 1s;
+        -webkit-animation-iteration-count: 1;
+        -moz-animation: fadeit 1s;
+        -moz-animation-iteration-count: 1;
+        -ms-animation: fadeit 1s;
+        -ms-animation-iteration-count: 1;
+}
+.vid_replace {
+   display:none;
+}
+#cmn-video-demo4__video {
+  display: block;
+  position: inherit;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  min-width: 100%; min-height: 100%;
+  background: url(http://www.mobilefringe.com/wp-content/uploads/2014/11/vidback_computers.png) no-repeat;
+  padding-top:0px;
+  width: auto;
+  height: auto;
+}
+}
+
+</style>						</div> <!-- .page-fullwdth-content -->
 					</div> <!-- .page-content -->
 										<div class="section-outter">
 										<section id="full-support" class="page-wrapper light-bg" style="background-color:#ffffff">
@@ -552,39 +922,31 @@ Mobile Fringe collaborated with one of the the largest telecommunications compan
             </span>
         </div>
         <!-- END BACK TO TOP -->
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-    <!-- EXPANDING THUMBNAIL JS -->
-    <script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/grid.js"></script>
-    <!-- BOOTSTRAP JS -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-    <!-- SUPER SLIDES JS -->
-    <script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/jquery.superslides.min.js"></script>
-    <!-- JQUERY BACK TO TOP -->
-    <script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/jquery.backtotop.js"></script>
-    <!-- JQUERY PARALLAX -->
-    <script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/jquery.parallax.js"></script>
-    <!-- JQUERY BACKGROUND VIDEO -->
-    <script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/jquery.backgroundvideo.js"></script>
-    <!-- JQUERY VENOBOX VIDEO -->
-    <script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/venobox.min.js"></script>
-    <!-- JQUERY WAYPOINT -->
-    <script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/waypoints.js"></script>
-    <!-- JQUERY WAYPOINT -->
-    <script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/jquery.countTo.js"></script>
-    <!-- JQUERY SMOOTH SCROLL -->
-    <script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/jquery.smooth-scroll.min.js"></script>
-    <!-- JQUERY FITVID -->
-    <script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/jquery.fitvid.js"></script>
-    <!-- JQUERY MASONRY LAYOUT 
-    <script src="js/lib/masonry.pkgd.min.js"></script>-->
-    <!-- JQUERT SUDO SLIDER JS -->
-    <script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/jquery.sudoslider.min.js"></script>
-    <!-- MAIN JS -->
-    <script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/main.js"></script>
-</body>
-
+      
+                
+                <script type='text/javascript' src='http://www.mobilefringe.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.mobilefringe.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.0.2'></script>
+<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/bootstrap.min.js?ver=4.0.5'></script>
+<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/jquery.scrollTo.js?ver=4.0.5'></script>
+<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/jquery.nav.js?ver=4.0.5'></script>
+<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/jquery.parallax.js?ver=4.0.5'></script>
+<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/lib/modernizr.custom.js?ver=4.0.5'></script>
+<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/lib/grid.js?ver=4.0.5'></script>
+<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/lib/jquery.backgroundvideo.js?ver=4.0.5'></script>
+<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/lib/jquery.backtotop.js?ver=4.0.5'></script>
+<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/lib/jquery.countTo.js?ver=4.0.5'></script>
+<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/lib/jquery.smooth-scroll.min.js?ver=4.0.5'></script>
+<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/lib/waypoints.min.js?ver=4.0.5'></script>
+<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/lib/venobox.min.js?ver=4.0.5'></script>
+<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/lib/jquery.fitvid.js?ver=4.0.5'></script>
+<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/lib/jquery.sudoslider.min.js?ver=4.0.5'></script>
+<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/lib/jquery.superslides.min.js?ver=4.0.5'></script>
+<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/lib/jquery.countdown.js?ver=4.0.5'></script>
+<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/main.js?ver=4.0.5'></script>
+    </body>
 </html>
