@@ -910,20 +910,24 @@ Mobile Fringe collaborated with one of the the largest telecommunications compan
 
 <script type='text/javascript' src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js'></script>
 <script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/jquery.scrollTo.js?ver=4.0.5'></script>
+
+
 <script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/jquery.nav.js?ver=4.0.5'></script>
-<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/jquery.parallax.js?ver=4.0.5'></script>
-<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/lib/modernizr.custom.js?ver=4.0.5'></script>
-<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/lib/grid.js?ver=4.0.5'></script>
-<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/lib/jquery.backgroundvideo.js?ver=4.0.5'></script>
-<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/lib/jquery.backtotop.js?ver=4.0.5'></script>
-<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/lib/jquery.countTo.js?ver=4.0.5'></script>
-<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/lib/jquery.smooth-scroll.min.js?ver=4.0.5'></script>
-<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/lib/waypoints.min.js?ver=4.0.5'></script>
-<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/lib/venobox.min.js?ver=4.0.5'></script>
-<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/lib/jquery.fitvid.js?ver=4.0.5'></script>
-<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/lib/jquery.sudoslider.min.js?ver=4.0.5'></script>
-<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/lib/jquery.superslides.min.js?ver=4.0.5'></script>
-<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/lib/jquery.countdown.js?ver=4.0.5'></script>
-<script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/main.js?ver=4.0.5'></script>
+
+
+<script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/jquery.parallax.js"></script>
+<script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/modernizr.custom.js"></script>
+<script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/grid.js"></script>
+<script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/jquery.backgroundvideo.js"></script>
+<script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/jquery.backtotop.js"></script>
+<script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/jquery.countTo.js"></script>
+<script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/jquery.smooth-scroll.min.js"></script>
+<script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/waypoints.js"></script>
+<script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/venobox.min.js"></script>
+<script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/jquery.fitvid.js"></script>
+<script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/jquery.sudoslider.min.js"></script>
+<script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/jquery.superslides.min.js"></script>
+<script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/jquery.countdown.js"></script>
+<script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/main.js"></script>
     </body>
 </html>
