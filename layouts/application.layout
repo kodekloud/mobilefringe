@@ -192,168 +192,172 @@ The Yorkdale app has the following features: </p>">
                                         <img src="http://www.mobilefringe.com/wp-content/uploads/2014/12/Yorkdale_Gallery-Mock-up.jpg" alt="" style="width: 300px;"/>
                                     </a>
                                 </li>
-                                        <li class="animatez" data-effect="fadeIn">
-                                            <a href="http://www.mobilefringe.com/app/amazing-analytics-marketing-reports/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2015/01/img_inside_analitics.jpg" data-link-url="http://www.mobilefringe.com/app/amazing-analytics-marketing-reports/" data-link-label="More Info" data-title="Amazing Analytics Marketing Reports" data-description="<p>What you see on the outside, sometimes the real beauty lies hidden deep within the “big data”. We recognize that their is a story behind each click so we create amazing web analytics reports for advanced lead generation and business insights. We forge the data quest for our clients to better understand their customer with omni-channel marketing analytics and multi-channel data collection.</p>">
-                                                <div class="og-overlay"></div>
-                                                <span class="og-title">Amazing Analytics Marketing Reports</span>
-                                                <img src="http://www.mobilefringe.com/wp-content/uploads/2015/01/img_inside_analitics_small.jpg" alt="" style="width: 300px;"/>
-                                            </a>
-                                            <li class="animatez" data-effect="fadeIn">
-                                                <a href="http://www.mobilefringe.com/app/app1/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2014/12/NP_SmartPhone-Screens-presentation-Mock-up.jpg" data-link-url="http://www.mobilefringe.com/app/app1/" data-link-label="More Info" data-title="NorthPark Center Dallas" data-description="<p>Located in Dallas, TX, this app features unique interactive map and easy-to-navigate, in-mall directions to locate favorite store, dining and entertainment options, push notifications from favorite retailers for a customized shopping experience and a self-guided tour of NorthPark Center’s famous art collection utilizing an interactive map and educational resources.</p>">
-                                                    <div class="og-overlay"></div>
-                                                    <span class="og-title">NorthPark Center Dallas</span>
-                                                    <img src="http://www.mobilefringe.com/wp-content/uploads/2014/12/NP_Gallery-Mock-up.jpg" alt="" style="width: 300px;"/>
-                                                </a>
-                                            <li class="animatez" data-effect="fadeIn">
-                                                <a href="http://www.mobilefringe.com/app/rogers-m2m-billing-rogers/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2015/01/m2m-inside.jpg" data-link-url="http://www.mobilefringe.com/app/rogers-m2m-billing-rogers/" data-link-label="More Info" data-title="Rogers M2M Billing Rogers" data-description="<p>Stay connect with Machine to Machine solutions.  With extensive API process experience, our M2M Billing Network Portal has processed millions in transactions. Mobile Fringe collaborated with one of the the largest telecommunications company in North America offering them comprehensive M2M services.</p>">
-                                                    <div class="og-overlay"></div>
-                                                    <span class="og-title">Rogers M2M Billing Rogers</span>
-                                                    <img src="http://www.mobilefringe.com/wp-content/uploads/2015/01/m2m-small.jpg" alt="" style="width: 300px;"/>
-                                                </a>
-                                            <li class="animatez" data-effect="fadeIn">
-                                                <a href="http://www.mobilefringe.com/app/kode-kloud-for-developers/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2014/12/KodeKloude_SmartPhone-Screens-presentation-Mock-up-desktop1.jpg" data-link-url="http://www.mobilefringe.com/app/kode-kloud-for-developers/" data-link-label="More Info" data-title="Kode Kloud For Developers" data-description="<p>The next generation platform to build, host, and manage web apps in real time, no deployments or server side coding is called KodeKloud.io. Built by developer for developers.</p>">
-                                                    <div class="og-overlay"></div>
-                                                    <span class="og-title">Kode Kloud For Developers</span>
-                                                    <img src="http://www.mobilefringe.com/wp-content/uploads/2014/12/KodeKloude_Gallery-Mock-up1.jpg" alt="" style="width: 300px;"/>
-                                                </a>
-                                            </ul>
-                                        </div> <!-- .page-fullwdth-content -->
-                                    </div> <!-- .page-content -->
-									<div id="testimonials" class="page-wrapper full-width section-wrapper light-bg" style="background-color:#ffffff">
-                                        <div class="page-fullwdth-content">	
-                                            <div id="primaris" class="desc animatez delay two" data-effect="fadeInDown">
-                                                <ul class="slides-container text-center">
-                                                    <li>
-                                                        <div class="header-center fade-in">
-                                                            <h4 class="testimonial-text animatez">
-                                                                <span>"We had a great experience working with the Mobile Fringe team. They were able to take a vision and turn it into a user-friendly and relevant mobile app. They met all their deadlines, were extremely friendly and always available. Mobile Fringe is definitely the way to go."</span>
-                                                            </h4>
-                                                            <strong class="desc animatez delay three" data-effect="fadeInUp" style="color: #999; font-size:20px">Monica Kocsmaros</strong>
-                                                            <br>
-                                                            <div class="desc animatez delay four" data-effect="fadeInUp" style="font-size: 15px; color: #999;">
-                                                                Marketing Manager<br />Downtown Yonge
-                                                                <img class="preserve" style="display:block;margin:0 auto;max-width:200px" src="http://www.mobilefringe.com/wp-content/uploads/2014/12/testimonial_dty_logo.png" />
-                                                            </div>
-                                                        </div>
-                                                    </li>
-                                                    <li>
-                                                        <div class="header-center fade-in">
-                                                            <h4 class="testimonial-text animatez">
-                                                                <span>"Collaborating with Mobile Fringe on the development of our mobile iPhone/iTunes and Blackberry app, which is Canada’s first shopping centre app for Blackberry, has been a great experience. Their professionalism and dedication has resulted a fantastic end result on time and on budget."</span>
-                                                            </h4>
-                                                            <strong class="desc animatez delay three" data-effect="fadeInUp" style="color: #999; font-size:20px">Claire Santamaria</strong>
-                                                            <br>
-                                                            <div class="desc animatez delay four" data-effect="fadeInUp" style="font-size: 15px; color: #999;">Marketing Director
-                                                                <br />
-                                                                Yorkdale Shopping Centre
-                                                                <img class="preserve" style="display:block;margin:0 auto;max-width:200px" src="http://www.mobilefringe.com/wp-content/uploads/2014/12/testimonial_yorkdale_logo.png" />
-                                                            </div>
-                                                        </div>
-                                                    </li>
-                                                    <li>
-                                                        <div class="header-center fade-in">
-                                                            <h4 class="testimonial-text animatez">"Mobile Fringe created an app for our Fusion Conference this past February in Chicago that provided our attendees with a tremendous amount of pertinent information in a streamlined and user-friendly manner, enhancing their on-site experience"</h4>
-                                                            <strong class="desc animatez delay three" data-effect="fadeInUp" style="color: #999; font-size:20px">Tim McGuinness </strong>
-                                                            <br>
-                                                            <div class="desc animatez delay four" data-effect="fadeInUp" style="font-size: 15px; color: #999;">VP of Global Trade Expositions<br />International Council of Shopping Centers<img class="preserve" style="display:block;margin:0 auto;max-width:200px" src="http://www.mobilefringe.com/wp-content/uploads/2014/12/testimonial_icsc_logo.png" />
-                                                            </div>
-                                                        </div>
-                                                    </li>
-                                                </ul>
+                                <li class="animatez" data-effect="fadeIn">
+                                    <a href="http://www.mobilefringe.com/app/amazing-analytics-marketing-reports/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2015/01/img_inside_analitics.jpg" data-link-url="http://www.mobilefringe.com/app/amazing-analytics-marketing-reports/" data-link-label="More Info" data-title="Amazing Analytics Marketing Reports" data-description="<p>What you see on the outside, sometimes the real beauty lies hidden deep within the “big data”. We recognize that their is a story behind each click so we create amazing web analytics reports for advanced lead generation and business insights. We forge the data quest for our clients to better understand their customer with omni-channel marketing analytics and multi-channel data collection.</p>">
+                                        <div class="og-overlay"></div>
+                                        <span class="og-title">Amazing Analytics Marketing Reports</span>
+                                        <img src="http://www.mobilefringe.com/wp-content/uploads/2015/01/img_inside_analitics_small.jpg" alt="" style="width: 300px;"/>
+                                    </a>
+                                </li>
+                                <li class="animatez" data-effect="fadeIn">
+                                    <a href="http://www.mobilefringe.com/app/app1/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2014/12/NP_SmartPhone-Screens-presentation-Mock-up.jpg" data-link-url="http://www.mobilefringe.com/app/app1/" data-link-label="More Info" data-title="NorthPark Center Dallas" data-description="<p>Located in Dallas, TX, this app features unique interactive map and easy-to-navigate, in-mall directions to locate favorite store, dining and entertainment options, push notifications from favorite retailers for a customized shopping experience and a self-guided tour of NorthPark Center’s famous art collection utilizing an interactive map and educational resources.</p>">
+                                        <div class="og-overlay"></div>
+                                        <span class="og-title">NorthPark Center Dallas</span>
+                                        <img src="http://www.mobilefringe.com/wp-content/uploads/2014/12/NP_Gallery-Mock-up.jpg" alt="" style="width: 300px;"/>
+                                    </a>
+                                </li>
+                                <li class="animatez" data-effect="fadeIn">
+                                    <a href="http://www.mobilefringe.com/app/rogers-m2m-billing-rogers/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2015/01/m2m-inside.jpg" data-link-url="http://www.mobilefringe.com/app/rogers-m2m-billing-rogers/" data-link-label="More Info" data-title="Rogers M2M Billing Rogers" data-description="<p>Stay connect with Machine to Machine solutions.  With extensive API process experience, our M2M Billing Network Portal has processed millions in transactions. Mobile Fringe collaborated with one of the the largest telecommunications company in North America offering them comprehensive M2M services.</p>">
+                                        <div class="og-overlay"></div>
+                                        <span class="og-title">Rogers M2M Billing Rogers</span>
+                                        <img src="http://www.mobilefringe.com/wp-content/uploads/2015/01/m2m-small.jpg" alt="" style="width: 300px;"/>
+                                    </a>
+                                </li>
+                                <li class="animatez" data-effect="fadeIn">
+                                    <a href="http://www.mobilefringe.com/app/kode-kloud-for-developers/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2014/12/KodeKloude_SmartPhone-Screens-presentation-Mock-up-desktop1.jpg" data-link-url="http://www.mobilefringe.com/app/kode-kloud-for-developers/" data-link-label="More Info" data-title="Kode Kloud For Developers" data-description="<p>The next generation platform to build, host, and manage web apps in real time, no deployments or server side coding is called KodeKloud.io. Built by developer for developers.</p>">
+                                        <div class="og-overlay"></div>
+                                        <span class="og-title">Kode Kloud For Developers</span>
+                                        <img src="http://www.mobilefringe.com/wp-content/uploads/2014/12/KodeKloude_Gallery-Mock-up1.jpg" alt="" style="width: 300px;"/>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div> <!-- .page-fullwdth-content -->
+                    </div> <!-- .page-content -->
+					<div id="testimonials" class="page-wrapper full-width section-wrapper light-bg" style="background-color:#ffffff">
+                        <div class="page-fullwdth-content">	
+                            <div id="primaris" class="desc animatez delay two" data-effect="fadeInDown">
+                                <ul class="slides-container text-center">
+                                    <li>
+                                        <div class="header-center fade-in">
+                                            <h4 class="testimonial-text animatez">
+                                                <span>"We had a great experience working with the Mobile Fringe team. They were able to take a vision and turn it into a user-friendly and relevant mobile app. They met all their deadlines, were extremely friendly and always available. Mobile Fringe is definitely the way to go."</span>
+                                            </h4>
+                                            <strong class="desc animatez delay three" data-effect="fadeInUp" style="color: #999; font-size:20px">Monica Kocsmaros</strong>
+                                            <br>
+                                            <div class="desc animatez delay four" data-effect="fadeInUp" style="font-size: 15px; color: #999;">
+                                                Marketing Manager<br />Downtown Yonge
+                                                <img class="preserve" style="display:block;margin:0 auto;max-width:200px" src="http://www.mobilefringe.com/wp-content/uploads/2014/12/testimonial_dty_logo.png" />
                                             </div>
-                                        </div> <!-- .page-fullwdth-content -->
-                                    </div> <!-- .page-content -->
-                                <section id="contact">
-                                    <div class="section-wrapper-2">
-                                        <div class="section-title">
-                                            <hr class="title-break" />
-                                            <h2 class="title animated fadeInDown" data-effect="fadeInDown">GET IN TOUCH</h2>
-                                            <h3 class="subtitle animated fadeInUp" data-effect="fadeInUp" style="margin-bottom: 30px; color:#25292c; padding-left: 25px; padding-right: 25px;">Don't hesitate to get in touch with us. <br>We would love to discuss on your project</h3>
                                         </div>
-                                        <div class="section-inner">
-                                            <div class="container">
-                                                <div class="row">
-                                                    <div class="col-md-6 mg-sm animated fadeIn" data-effect="fadeIn">
-                                                        <div class="wpcf7" id="wpcf7-f437-o1" lang="en-US" dir="ltr">
-                                                        <div class="screen-reader-response"></div>
-                                                        <form name="" action="/#wpcf7-f437-o1" method="post" class="wpcf7-form" novalidate="novalidate">
-                                                            <div style="display: none;">
-                                                                <input type="hidden" name="_wpcf7" value="437" />
-                                                                <input type="hidden" name="_wpcf7_version" value="4.0.2" />
-                                                                <input type="hidden" name="_wpcf7_locale" value="en_US" />
-                                                                <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f437-o1" />
-                                                                <input type="hidden" name="_wpnonce" value="b241ec5437" />
-                                                            </div>
-                                                            <div class="text-left">
-                                                                <div class="form-group">
-	                                                                <label class="required" for="yourEmail">Email address:</label><br />
-                                                                	<span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control" id="yourEmail" aria-required="true" aria-invalid="false" /></span>
-                                                                </div>
-                                                                <div class="form-group">
-                                                                    <label class="required" for="yourName">Name</label><br />
-                                                                    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" id="yourName" aria-required="true" aria-invalid="false" /></span>
-                                                                </div>
-                                                                <div class="form-group">
-                                                                    <label class="required" for="yourMessage">Message</label><br />
-                                                                    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="4" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required form-control" id="yourMessage" aria-required="true" aria-invalid="false"></textarea></span>
-                                                                </div>
-                                                                <div class="form-group">
-                                                                    <input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit btn btn-lg btn-light btn-default" />
-                                                                </div>
-                                                            </div>
-                                                            <div class="wpcf7-response-output wpcf7-display-none"></div>
-                                                        </form>
+                                    </li>
+                                    <li>
+                                        <div class="header-center fade-in">
+                                            <h4 class="testimonial-text animatez">
+                                                <span>"Collaborating with Mobile Fringe on the development of our mobile iPhone/iTunes and Blackberry app, which is Canada’s first shopping centre app for Blackberry, has been a great experience. Their professionalism and dedication has resulted a fantastic end result on time and on budget."</span>
+                                            </h4>
+                                            <strong class="desc animatez delay three" data-effect="fadeInUp" style="color: #999; font-size:20px">Claire Santamaria</strong>
+                                            <br>
+                                            <div class="desc animatez delay four" data-effect="fadeInUp" style="font-size: 15px; color: #999;">Marketing Director
+                                                <br />
+                                                Yorkdale Shopping Centre
+                                                <img class="preserve" style="display:block;margin:0 auto;max-width:200px" src="http://www.mobilefringe.com/wp-content/uploads/2014/12/testimonial_yorkdale_logo.png" />
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="header-center fade-in">
+                                            <h4 class="testimonial-text animatez">"Mobile Fringe created an app for our Fusion Conference this past February in Chicago that provided our attendees with a tremendous amount of pertinent information in a streamlined and user-friendly manner, enhancing their on-site experience"</h4>
+                                            <strong class="desc animatez delay three" data-effect="fadeInUp" style="color: #999; font-size:20px">Tim McGuinness </strong>
+                                            <br>
+                                            <div class="desc animatez delay four" data-effect="fadeInUp" style="font-size: 15px; color: #999;">VP of Global Trade Expositions<br />International Council of Shopping Centers<img class="preserve" style="display:block;margin:0 auto;max-width:200px" src="http://www.mobilefringe.com/wp-content/uploads/2014/12/testimonial_icsc_logo.png" />
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div> <!-- .page-fullwdth-content -->
+                    </div> <!-- .page-content -->
+                    <section id="contact">
+                        <div class="section-wrapper-2">
+                            <div class="section-title">
+                                <hr class="title-break" />
+                                <h2 class="title animated fadeInDown" data-effect="fadeInDown">GET IN TOUCH</h2>
+                                <h3 class="subtitle animated fadeInUp" data-effect="fadeInUp" style="margin-bottom: 30px; color:#25292c; padding-left: 25px; padding-right: 25px;">Don't hesitate to get in touch with us. <br>We would love to discuss on your project</h3>
+                            </div>
+                            <div class="section-inner">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-md-6 mg-sm animated fadeIn" data-effect="fadeIn">
+                                            <div class="wpcf7" id="wpcf7-f437-o1" lang="en-US" dir="ltr">
+                                            <div class="screen-reader-response"></div>
+                                            <form name="" action="/#wpcf7-f437-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+                                                <div style="display: none;">
+                                                    <input type="hidden" name="_wpcf7" value="437" />
+                                                    <input type="hidden" name="_wpcf7_version" value="4.0.2" />
+                                                    <input type="hidden" name="_wpcf7_locale" value="en_US" />
+                                                    <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f437-o1" />
+                                                    <input type="hidden" name="_wpnonce" value="b241ec5437" />
+                                                </div>
+                                                <div class="text-left">
+                                                    <div class="form-group">
+	                                                   <label class="required" for="yourEmail">Email address:</label><br />
+                                                     	<span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control" id="yourEmail" aria-required="true" aria-invalid="false" /></span>
+                                                    </div>
+                                                    <div class="form-group">
+                                                        <label class="required" for="yourName">Name</label><br />
+                                                        <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" id="yourName" aria-required="true" aria-invalid="false" /></span>
+                                                    </div>
+                                                    <div class="form-group">
+                                                        <label class="required" for="yourMessage">Message</label><br />
+                                                        <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="4" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required form-control" id="yourMessage" aria-required="true" aria-invalid="false"></textarea></span>
+                                                    </div>
+                                                    <div class="form-group">
+                                                        <input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit btn btn-lg btn-light btn-default" />
                                                     </div>
                                                 </div>
-                                                <div class="col-md-6 mg-sm text-left animated fadeIn" data-effect="fadeIn">
-                                                    <h4 style="margin-top: 0px; color:#25292c">Get to know us</h4>
-                                                    <p>
-                                                        If you are interested in any of our mobile products or services, please do not hesitate to send us an email.
-                                                    </p>
-                                                    <div class="spacer small"></div>
-                                                    <h4 style="color:#25292c">Mobile Fringe Office</h4>
-                                                    <p>
-                                                        216 Chrislea Road - Unit 502
-                                                        <br>Woodbridge, ON - L4L 8S5
-                                                        <br>Canada
-                                                    </p>
-                                                    <br>
-                                                    <br>
-                                                    <br>
-                                                </div>
-                                            </div>
+                                                <div class="wpcf7-response-output wpcf7-display-none"></div>
+                                            </form>
                                         </div>
                                     </div>
+                                    <div class="col-md-6 mg-sm text-left animated fadeIn" data-effect="fadeIn">
+                                        <h4 style="margin-top: 0px; color:#25292c">Get to know us</h4>
+                                        <p>
+                                            If you are interested in any of our mobile products or services, please do not hesitate to send us an email.
+                                        </p>
+                                        <div class="spacer small"></div>
+                                        <h4 style="color:#25292c">Mobile Fringe Office</h4>
+                                        <p>
+                                            216 Chrislea Road - Unit 502
+                                            <br>Woodbridge, ON - L4L 8S5
+                                            <br>Canada
+                                        </p>
+                                        <br>
+                                        <br>
+                                        <br>
+                                    </div>
                                 </div>
-                            </section>
-                            <section id="footer">
-                                <div class="section-wrapper">
-                                    <footer class="footer white section-wrapper" style="padding-top: 0px;">
-                                        <nav class="footer-nav">
-                                            <ul id="menu-secondary-menu" class="">
-                                                <li id="menu-item-529" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/full-client-list/" class="no-scroll">Clients List</a></li>
-                                                <li id="menu-item-530" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/our-portfolio/" class="no-scroll">Our Apps</a></li>
-                                                <li id="menu-item-324" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/about-mobile-fringe/" class="no-scroll">About Us</a></li>
-                                                <li id="menu-item-657" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/home-3/iwork-mobilefringe/" class="no-scroll">Work @ Mobile Fringe</a></li>
-                                                <li id="menu-item-680" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/privacy-policy/" class="no-scroll">Privacy Policy</a></li>
-                                            </ul>
-                                        </nav>
-                                        <p class="copyright">© 2014 Mobile Fringe Inc. All rights reserved</p>
-                                        <div class="footer-logo">
-                                            <img src="http://www.mobilefringe.com/wp-content/uploads/2014/11/MFlogo.png" class="logo" style="width:150px" title="">
-                                        </div>
-                                        <div class="spacer big"></div>
-                                    </footer>
-                                </div>
-                            </section>
+                            </div>
                         </div>
                     </div>
-                    <div class="totop" id="backtotop">
-                        <span>
-                            <a href="#home" class="first sscroll"><i class="fa fa-angle-up"></i></a>
-                            <a href="#home" class="hover sscroll"><i class="fa fa-angle-up"></i></a>
-                        </span>
+                </section>
+                <section id="footer">
+                    <div class="section-wrapper">
+                        <footer class="footer white section-wrapper" style="padding-top: 0px;">
+                            <nav class="footer-nav">
+                                <ul id="menu-secondary-menu" class="">
+                                    <li id="menu-item-529" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/full-client-list/" class="no-scroll">Clients List</a></li>
+                                    <li id="menu-item-530" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/our-portfolio/" class="no-scroll">Our Apps</a></li>
+                                    <li id="menu-item-324" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/about-mobile-fringe/" class="no-scroll">About Us</a></li>
+                                    <li id="menu-item-657" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/home-3/iwork-mobilefringe/" class="no-scroll">Work @ Mobile Fringe</a></li>
+                                    <li id="menu-item-680" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/privacy-policy/" class="no-scroll">Privacy Policy</a></li>
+                                </ul>
+                            </nav>
+                            <p class="copyright">© 2014 Mobile Fringe Inc. All rights reserved</p>
+                            <div class="footer-logo">
+                                <img src="http://www.mobilefringe.com/wp-content/uploads/2014/11/MFlogo.png" class="logo" style="width:150px" title="">
+                            </div>
+                            <div class="spacer big"></div>
+                        </footer>
                     </div>
+                </section>
+            </div>
+        </div>
+        <div class="totop" id="backtotop">
+            <span>
+                <a href="#home" class="first sscroll"><i class="fa fa-angle-up"></i></a>
+                <a href="#home" class="hover sscroll"><i class="fa fa-angle-up"></i></a>
+            </span>
+        </div>
         <script type='text/javascript' src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js'></script>
         <script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/jquery.scrollTo.js?ver=4.0.5'></script>
         <script type='text/javascript' src='http://www.mobilefringe.com/wp-content/themes/starter/js/jquery.nav.js?ver=4.0.5'></script>
