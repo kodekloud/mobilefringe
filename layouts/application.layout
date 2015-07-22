@@ -1,56 +1,69 @@
+
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="en-US"
+	itemscope 
+	itemtype="http://schema.org/Blog" 
+	prefix="og: http://ogp.me/ns#" >
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" itemprop="description" content="Mobile Fringe develops the best mobile, tablet and web solutions and software for your business in Toronto" />
-        <meta name="keywords" itemprop="keywords" content="Best mobile developer, best web software in Toronto" />
-        <meta property="og:title" content="Mobile Fringe" />
-        <meta property="og:type" content="blog" />
-        <meta property="og:url" content="http://www.mobilefringe.com/" />
-        <meta property="og:image" content="http://www.mobilefringe.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png" />
-        <meta property="og:site_name" content="Mobile Fringe" />
-        <meta property="og:description" content="Mobile Solutions &amp; Software" />
-        <meta name="twitter:card" content="summary" />
-        <meta name="twitter:description" content="Mobile Solutions &amp; Software" />
-        <meta itemprop="image" content="http://www.mobilefringe.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png" />       
+       
         <title>The best Mobile Software and App Developer in Toronto</title>
+                    <link rel="shortcut icon" href="http://www.mobilefringe.com/wp-content/uploads/2014/12/favicon.png" type="image/x-icon"/>
         
-        <link rel="shortcut icon" href="http://www.mobilefringe.com/wp-content/uploads/2014/12/favicon.png" type="image/x-icon"/>
+       
         <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!--[if lt IE 9]>
         <script src="http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/html5shiv.js"></script>
         <script src="http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/respond.min.js"></script>
         <![endif]-->
+
         <link rel="profile" href="http://gmpg.org/xfn/11">
         <link rel="pingback" href="http://www.mobilefringe.com/xmlrpc.php">
-        <link rel="canonical" href="http://www.mobilefringe.com/" />
 
-        <link rel="alternate" type="application/rss+xml" title="Mobile Fringe &raquo; Feed" href="http://www.mobilefringe.com/feed/" />
-        <link rel="alternate" type="application/rss+xml" title="Mobile Fringe &raquo; Comments Feed" href="http://www.mobilefringe.com/comments/feed/" />
-        <link rel="alternate" type="application/rss+xml" title="Mobile Fringe &raquo; Front-Page Comments Feed" href="http://www.mobilefringe.com/front-page/feed/" />
-        <link rel='stylesheet' href='http://www.mobilefringe.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.0.2' type='text/css' media='all' />
-        <link rel='stylesheet' href='http://www.mobilefringe.com/wp-content/themes/starter/style.css?ver=4.0.5' type='text/css' media='all' />
-        <link rel='stylesheet' href='http://www.mobilefringe.com/wp-content/themes/starter/css/font-awesome.min.css?ver=4.0.5' type='text/css' media='all' />
-        <link rel='stylesheet' href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/component.css?ver=4.0.5' type='text/css' media='all' />
-        <link rel='stylesheet' href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/lib/og-component.css?ver=4.0.5' type='text/css' media='all' />
-        <link rel='stylesheet' href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/style-light.css?ver=4.0.5' type='text/css' media='all' />
-        <link rel='stylesheet' href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/light-blue.css?ver=4.0.5' type='text/css' media='all' />
-        <link rel='stylesheet' href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/lib/venobox.css?ver=4.0.5' type='text/css' media='all' />
-        <link rel='stylesheet' href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/lib/zocial.css?ver=4.0.5' type='text/css' media='all' />
-        <link rel='stylesheet' href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/lib/animate.css?ver=4.0.5' type='text/css' media='all' />
-        <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Open+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=4.0.5' type='text/css' media='all' />
-        <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Open+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=4.0.5' type='text/css' media='all' />
-        <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Open+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=4.0.5' type='text/css' media='all' />
-        <link rel='stylesheet' href='http://www.mobilefringe.com/wp-content/themes/starter/quick-style.php?ver=4.0.5' type='text/css' media='all' />
-        <link rel='stylesheet' href='http://www.mobilefringe.com/wp-content/themes/starter/css/presets/preset1.css?ver=4.0.5' type='text/css' media='all' />
-        <link rel='stylesheet' href='http://www.mobilefringe.com/wp-content/plugins/column-shortcodes/assets/css/shortcodes.css?ver=0.6.6' type='text/css' media='all' />
-        
-        <script type='text/javascript' src='http://www.mobilefringe.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
-        <script type='text/javascript' src='http://www.mobilefringe.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script> 
-        <link rel='shortlink' href='http://www.mobilefringe.com/' />
-        <link href="http://www.mobilefringe.com/wp-content/plugins/newsletter/subscription/styles/widget-neutral.css" type="text/css" rel="stylesheet">  
-    </head>
+                
+<!-- All in One SEO Pack 2.2.7 by Michael Torbert of Semper Fi Web Design[254,308] -->
+<meta name="description" itemprop="description" content="Mobile Fringe develops the best mobile, tablet and web solutions and software for your business in Toronto" />
+
+<meta name="keywords" itemprop="keywords" content="Best mobile developer, best web software in Toronto" />
+
+<link rel="canonical" href="http://www.mobilefringe.com/" />
+<meta property="og:title" content="Mobile Fringe" />
+<meta property="og:type" content="blog" />
+<meta property="og:url" content="http://www.mobilefringe.com/" />
+<meta property="og:image" content="http://www.mobilefringe.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png" />
+<meta property="og:site_name" content="Mobile Fringe" />
+<meta property="og:description" content="Mobile Solutions &amp; Software" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Mobile Solutions &amp; Software" />
+<meta itemprop="image" content="http://www.mobilefringe.com/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png" />
+<!-- /all in one seo pack -->
+<link rel="alternate" type="application/rss+xml" title="Mobile Fringe &raquo; Feed" href="http://www.mobilefringe.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Mobile Fringe &raquo; Comments Feed" href="http://www.mobilefringe.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Mobile Fringe &raquo; Front-Page Comments Feed" href="http://www.mobilefringe.com/front-page/feed/" />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.mobilefringe.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='thm-style-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/style.css?ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/font-awesome.min.css?ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='component-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/component.css?ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='og-component-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/lib/og-component.css?ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='style-light-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/style-light.css?ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='light-blue-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/light-blue.css?ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='venobox-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/lib/venobox.css?ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='zocial-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/lib/zocial.css?ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/lib/animate.css?ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='open-sans_one-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='open-sans_two-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='open-sans_three-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='quick-style-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/quick-style.php?ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='sportson_preset1-css'  href='http://www.mobilefringe.com/wp-content/themes/starter/css/presets/preset1.css?ver=4.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='cpsh-shortcodes-css'  href='http://www.mobilefringe.com/wp-content/plugins/column-shortcodes/assets/css/shortcodes.css?ver=0.6.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.mobilefringe.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.mobilefringe.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.mobilefringe.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.mobilefringe.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0.5" />
+<link rel='shortlink' href='http://www.mobilefringe.com/' />
+<link href="http://www.mobilefringe.com/wp-content/plugins/newsletter/subscription/styles/widget-neutral.css" type="text/css" rel="stylesheet">    </head>
      <body data-spy="scroll" data-target=".navbar-collapse" class="home page page-id-181 page-template-default">
         <!-- BEGIN OUTTER -->
         <div class="outter">
@@ -65,52 +78,46 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
+
                         <a class="navbar-brand" href="http://www.mobilefringe.com">
-                            <img src="http://www.mobilefringe.com/wp-content/uploads/2014/11/MFlogo.png" class="logo" style="width:150px" title="">
-                        </a>
+                                                                        <img src="http://www.mobilefringe.com/wp-content/uploads/2014/11/MFlogo.png" class="logo" style="width:150px" title="">
+                                                        </a>
                     </div>
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="navbar-collapse collapse" id="nav-menu">
-                        <ul id="menu-main-menu" class="nav navbar-nav navbar-right">
-                            <li id="menu-item-404" class=" menu-item menu-item-type-post_type menu-item-object-page none">
-                                <a href="#full-support" class="sscroll">PRODUCTS</a>
-                            </li>
-                            <li id="menu-item-428" class=" menu-item menu-item-type-post_type menu-item-object-page none">
-                                <a href="#background-video" class="sscroll">MALL MAVERICK</a>
-                            </li>
-                            <li id="menu-item-382" class=" menu-item menu-item-type-post_type menu-item-object-page none">
-                                <a href="#377-2" class="sscroll">DEVELOPMENT</a>
-                            </li>
-                            <li id="menu-item-432" class=" menu-item menu-item-type-post_type menu-item-object-page none">
-                                <a href="#app-portfolio-mobile-apps" class="sscroll">RECENT WORK</a>
-                            </li>
-                            <li id="menu-item-354" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown">
-                                <a href="#" class="no-scroll dropdown-toggle" data-toggle="dropdown">MORE<b class="caret"></b></a>
-                                <ul class="dropdown-menu" role="menu">
-                                    <li id="menu-item-458" class=" menu-item menu-item-type-post_type menu-item-object-page none">
-                                        <a href="http://www.mobilefringe.com/full-client-list/" class="no-scroll">CLIENT LIST</a>
-                                    </li>
-                                    <li id="menu-item-457" class=" menu-item menu-item-type-post_type menu-item-object-page none">
-                                        <a href="http://www.mobilefringe.com/our-portfolio/" class="no-scroll">OUR PORTFOLIO</a>
-                                    </li><!--.dropdown-->
-                                </ul>
-                            </li>
-                        </ul>
-                    </div>
+                                                    <ul id="menu-main-menu" class="nav navbar-nav navbar-right"></li><li id="menu-item-404" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="#full-support" class="sscroll">PRODUCTS</a></li><li id="menu-item-428" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="#background-video" class="sscroll">MALL MAVERICK</a></li><li id="menu-item-382" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="#377-2" class="sscroll">DEVELOPMENT</a></li><li id="menu-item-432" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="#app-portfolio-mobile-apps" class="sscroll">RECENT WORK</a></li></li><li id="menu-item-354" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown"><a href="#" class="no-scroll" class="dropdown-toggle" data-toggle="dropdown">MORE<b class="caret"></b></a>
+<ul class="dropdown-menu" role="menu">
+	<li id="menu-item-458" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/full-client-list/" class="no-scroll">CLIENT LIST</a></li>	<li id="menu-item-457" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/our-portfolio/" class="no-scroll">OUR PORTFOLIO</a></li><!--.dropdown-->
+</ul>
+</li></ul>                                            </div>
+
                     <!-- /.navbar-collapse -->
                 </div>
                 <!-- /.container-fluid -->
             </nav>
             <!-- END NAVBAR -->
-            <div id="homepage-slider" class="page-wrapper full-width section-wrapper light-bg" style="background-color:#ffffff">
-				<div class="page-fullwdth-content">	
-                    <link rel="stylesheet" href="http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/style_video.css">
-                    <script src="http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/modernizr.js"></script>
-                    <div>
-                        <!--id="cmn-video-demo4__video"-->
-                        <video id="cmn-video-demo4__video" autoplay muted loop>
-                            <source src="http://www.mobilefringe.com/wp-content/uploads/2014/11/steven.webm" type="video/webm">
-                <source src="http://www.mobilefringe.com/wp-content/uploads/2014/11/steven.mp4" type="video/mp4">
+
+					<div id="homepage-slider" class="page-wrapper full-width section-wrapper light-bg" style="background-color:#ffffff">
+												<div class="page-fullwdth-content">	
+								  <!-- css -->
+  
+  <link rel="stylesheet" href="http://www.mobilefringe.com/wp-content/themes/starter/css/fringe/style_video.css">
+  
+
+  <!-- js -->
+
+  <script src="http://www.mobilefringe.com/wp-content/themes/starter/js/fringe/modernizr.js"></script>
+
+<div>
+
+ 
+
+  
+ <!--id="cmn-video-demo4__video"-->
+
+  <video id="cmn-video-demo4__video" autoplay muted loop>
+    <source src="http://www.mobilefringe.com/wp-content/uploads/2014/11/steven.webm" type="video/webm">
+    <source src="http://www.mobilefringe.com/wp-content/uploads/2014/11/steven.mp4" type="video/mp4">
     <source src="http://www.mobilefringe.com/wp-content/uploads/2014/11/steven.ogv" type="video/ogg">
     Your browser doesn't support HTML5 video. Here's a <a href="#">link</a> to download the video.
   </video>
@@ -124,7 +131,353 @@
                                     </div>
   
 </div>
-						</div> <!-- .page-fullwdth-content -->
+
+<style>
+#slides .video-wrapper {
+	overflow: visible;
+	position: initial;
+}
+
+#slides .video-wrapper img {
+	width:auto !important;
+	height: auto !important;
+	position: inherit !important;
+}
+.main_caption {
+	width:auto !important;
+        max-width:800px;
+	height: auto !important;
+	position: absolute !important;/
+	float:right;
+	padding: 50px;
+	margin:0% 5% 5% 0;
+	background: rgba(0,0,0,0.5);
+	font-size: 22px;
+        line-height: 25px;
+	color: #fff;
+	text-align: right;
+	right:0;
+	top:250px;
+}
+
+.main_caption h2{
+	font-size: 22px;
+	color:#fff;
+        margin-top:0px !important;
+}
+
+.vid_replace img {
+   max-width:100%;
+   max-height:100%;
+   padding-top: 65px;
+}
+
+@media screen and (min-width: 310px) {
+
+.main_caption {
+        display:none;
+	width:auto !important;
+        max-width:800px;
+	height: auto !important;
+	position: absolute !important;/
+	float:right;
+	padding: 15px;
+	margin:0% 5% 5% 0;
+	background: rgba(0,0,0,0.5);
+	font-size: 10px;
+        line-height: 12px;
+	color: #fff;
+	text-align: right;
+	right:0;
+	top:150px;
+}
+.main_caption h2{
+	font-size: 11px;
+	color:#fff;
+        margin-top:0px !important;
+}
+
+#homepage-slider {
+  min-height:20% !important;
+  
+   }
+#cmn-video-demo4__video {
+  display:none;
+  position: inherit;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  min-width: 100%; min-height: 100%;
+  background: url(http://www.mobilefringe.com/wp-content/uploads/2014/11/vidback_computers.png) no-repeat;
+  padding-top:0px;
+  width: auto;
+  height: auto;
+}
+.vid_replace {
+   position: inherit;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  min-width: 100%; min-height: 100%;
+  background: url(http://www.mobilefringe.com/wp-content/uploads/2014/11/vidback_computers.png) no-repeat;
+  padding-top:0px;
+  width: auto;
+  height: auto;
+}
+}
+@media screen and (min-width: 480px) {
+
+.main_caption {
+        display:none;
+	width:auto !important;
+        max-width:800px;
+	height: auto !important;
+	position: absolute !important;/
+	float:right;
+	padding: 15px;
+	margin:0% 5% 5% 0;
+	background: rgba(0,0,0,0.5);
+	font-size: 14px;
+        line-height: 15px;
+	color: #fff;
+	text-align: right;
+	right:0;
+	top:250px;
+}
+.main_caption h2{
+	font-size: 16px;
+	color:#fff;
+        margin-top:0px !important;
+}
+
+#homepage-slider {
+   min-height:30% !important;
+   }
+#cmn-video-demo4__video {
+  display:none;
+  position: inherit;
+  top: 0;
+  left: 0;
+  z-index: -100;
+  min-width: 100%; min-height: 100%;
+  padding-top:62px;
+  width: auto;
+  height: auto;
+}
+.vid_replace {
+   position: inherit;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  min-width: 100%; min-height: 100%;
+  background: url(http://www.mobilefringe.com/wp-content/uploads/2014/11/vidback_computers.png) no-repeat;
+  padding-top:0px;
+  width: auto;
+  height: auto;
+}
+}
+@media screen and (min-width: 575px) {
+.main_caption {
+        display:none;
+	width:auto !important;
+        max-width:800px;
+	height: auto !important;
+	position: absolute !important;/
+	float:right;
+	padding: 15px;
+	margin:0% 5% 5% 0;
+	background: rgba(0,0,0,0.5);
+	font-size: 16px;
+        line-height: 19px;
+	color: #fff;
+	text-align: right;
+	right:0;
+	top:420px;
+}
+.main_caption h2{
+	font-size: 20px;
+	color:#fff;
+        margin-top:0px !important;
+}
+#homepage-slider {
+   min-height:40% !important;
+   }
+#cmn-video-demo4__video {
+display:none;
+  position: inherit;
+  top: 0;
+  left: 0;
+  z-index: -100;
+  min-width: 100%; min-height: 100%;
+  padding-top:62px;
+  width: auto;
+  height: auto;
+}
+.vid_replace {
+   position: inherit;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  min-width: 100%; min-height: 100%;
+  background: url(http://www.mobilefringe.com/wp-content/uploads/2014/11/vidback_computers.png) no-repeat;
+  padding-top:0px;
+  width: auto;
+  height: auto;
+}
+}
+@media screen and (min-width: 875px) {
+
+.main_caption {
+        display:none;
+	width:auto !important;
+        max-width:800px;
+	height: auto !important;
+	position: absolute !important;/
+	float:right;
+	padding: 50px;
+	margin:0% 5% 5% 0;
+	background: rgba(0,0,0,0.5);
+	font-size: 22px;
+        line-height: 25px;
+	color: #fff;
+	text-align: right;
+	right:0;
+	top:370px;
+}
+.main_caption h2{
+	font-size: 42px;
+	color:#fff;
+        margin-top:0px !important;
+}
+
+#homepage-slider {
+   min-height:76% !important;
+   }
+#cmn-video-demo4__video {
+display:none;
+  position: inherit;
+  top: 0;
+  left: 0;
+  z-index: -100;
+  min-width: 100%; min-height: 100%;
+  padding-top:62px;
+  width: auto;
+  height: auto;
+}
+.vid_replace {
+   position: inherit;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  min-width: 100%; min-height: 100%;
+  background: url(http://www.mobilefringe.com/wp-content/uploads/2014/11/vidback_computers.png) no-repeat;
+  padding-top:0px;
+  width: auto;
+  height: auto;
+}
+}
+@media screen and (min-width: 1075px) {
+
+.main_caption {
+        display:none;
+	width:auto !important;
+        max-width:800px;
+	height: auto !important;
+	position: absolute !important;/
+	float:right;
+	padding: 50px;
+	margin:0% 5% 5% 0;
+	background: rgba(0,0,0,0.5);
+	font-size: 22px;
+        line-height: 25px;
+	color: #fff;
+	text-align: right;
+	right:0;
+	top:450px;
+}
+.main_caption h2{
+	font-size: 42px;
+	color:#fff;
+        margin-top:0px !important;
+}
+#homepage-slider {
+   min-height:76% !important;
+   }
+#cmn-video-demo4__video {
+display:none;
+  position: inherit;
+  top: 0;
+  left: 0;
+  z-index: -100;
+  min-width: 100%; min-height: 100%;
+  padding-top:62px;
+  width: auto;
+  height: auto;
+}
+.vid_replace {
+   position: inherit;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  min-width: 100%; min-height: 100%;
+  background: url(http://www.mobilefringe.com/wp-content/uploads/2014/11/vidback_computers.png) no-repeat;
+  padding-top:0px;
+  width: auto;
+  height: auto;
+}
+}
+@media screen and (min-width: 1275px) {
+.main_caption {
+        display: block;
+	width:auto !important;
+        max-width:800px;
+	height: auto !important;
+	position: absolute !important;/
+	float:right;
+	padding: 50px;
+	margin:0% 5% 5% 0;
+	background: rgba(0,0,0,0.5);
+	font-size: 22px;
+        line-height: 25px;
+	color: #fff;
+	text-align: right;
+	right:0;
+	top:440px;
+}
+.main_caption h2{
+	font-size: 42px;
+	color:#fff;
+        margin-top:0px !important;
+}
+.main_caption .fade-in {
+        zoom: 0;
+        animation: fadeit 1s ease-out forwards;
+        animation-iteration-count: 1;
+        -webkit-animation: fadeit 1s;
+        -webkit-animation-iteration-count: 1;
+        -moz-animation: fadeit 1s;
+        -moz-animation-iteration-count: 1;
+        -ms-animation: fadeit 1s;
+        -ms-animation-iteration-count: 1;
+}
+.vid_replace {
+   display:none;
+}
+#cmn-video-demo4__video {
+  display: block;
+  position: inherit;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  min-width: 100%; min-height: 100%;
+  background: url(http://www.mobilefringe.com/wp-content/uploads/2014/11/vidback_computers.png) no-repeat;
+  padding-top:0px;
+  width: auto;
+  height: auto;
+}
+}
+
+</style>						</div> <!-- .page-fullwdth-content -->
 					</div> <!-- .page-content -->
 										<div class="section-outter">
 										<section id="full-support" class="page-wrapper light-bg" style="background-color:#ffffff">
@@ -196,32 +549,258 @@
 
 </div>
 
-<div class="video-wrapper">
-    <div class="mm-background" style="background: url('http://www.mobilefringe.com/wp-content/uploads/2014/11/mallmaverick_np_bg.jpg') !important;">
+<style><!--
+<!--
+<!--
+<!--
+<!--
+<!--
+<!--
+<!--
+.clear{
+    clear:both;
+}
+#our_products .col-md-8 {
+    padding:0px !important;
+}
+#our_products .col-md-8b {
+    padding:0px !important;
+    width: 65% !important;
+}
+#our_products .col-md-4 {
+    padding:0px !important;
+}
+#our_products2 .col-md-8 {
+    padding:0px !important;
+    margin:0px !important;
+    
+}
+#our_products2 .col-md-4 {
+    padding:0px !important;
+}
+.resp_rollover {
+    width: 25%;
+    float:left;
+}
+
+.resp_rollover img{
+     
+        width: auto;
+        height: auto;
+    float:left;
+    margin-bottom:10px;
+}
+/*
+@media screen and (max-width: 1170px) {
+    .col-md-4 {
+    width: 100% !important;
+    }
+    
+    
+    
+}
+*/
+@media {
+    #ourproducts .col-md-4 img, #ourproducts2 .col-md-8 img; {
+    
+    margin: 0 auto;
+    opacity: 1;
+    filter: alpha(opacity=100);
+    -webkit-transition: opacity 0.15s;
+    -moz-transition: opacity 0.15s;
+    transition: opacity 0.15s;
+    }
+}
+@media screen and (max-width: 1024px) {
+    
+    .col-md-4 img{
+        max-width: 97.3% !important;
+        margin-bottom: 13px !important;
+    }
+    .col-md-8 img{
+        max-width: 99% !important;
         
-    </div>
-    <div class="fill-wrapper">
-        <div class="section-title">
-            <h1 class="white animatez" data-effect="fadeInDown">
-                <a href="http://www.mallmaverick.com">
-                    <img class="mmlogo bg-logo alignnone" src="http://www.mobilefringe.com//wp-content/uploads/2014/11/MMlogo.png" width="459" height="75" style="padding-left: 30px; padding-right: 30px;"/>
-                </a>
-            </h1>
-            <h3 class="subtitle white animatez" data-effect="fadeInUp">
-                <a href="http://www.mallmaverick.com" target="blank" style="color: #fff;"> OUR AWARD WINNING DIGITAL CMS - CLICK TO KNOW MORE!</a>
-            </h3>
-            <div class="spacer small">
-                <a href="http://www.mallmaverick.com" target="blank">
-                    <img src="http://www.mobilefringe.com/wp-content/uploads/2014/11/imac2.png" alt="imac" width="953" height="536" class="alignnone size-full wp-image-556" />
-                </a>
-            </div>
-        </div>
-        <div class="imac-wrapper animatez" data-effect="slideInDown">
-            
-            
-        </div>
-    </div>
-</div>						</div> <!-- .page-fullwdth-content -->
+    }
+    
+
+}
+@media screen and (max-width: 880px) {
+    .col-md-4 {
+    width: 100% !important;
+    
+    
+    }
+    
+    .col-md-4 img{
+        max-width: 49% !important;
+        margin-bottom: 10px !important;
+    }
+    
+    .col-md-8 img{
+        max-width: 100% !important;
+        
+    }
+    
+    .medialeft1 {
+        
+        float: left !important;
+    }
+    .mediaright2 {
+        float:right !important;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+    .col-md-4 {
+    width: 100% !important;
+    }
+    
+    .col-md-4 img{
+        max-width: 49% !important;
+        margin-bottom: 10px !important;
+    }
+    
+    .col-md-8 img{
+        max-width: 100% !important;
+        
+    }
+    
+    .medialeft1 {
+        
+        float: left !important;
+    }
+    .mediaright2 {
+        float:right !important;
+    }
+
+}
+@media screen and (max-width: 640px) {
+    .col-md-4 {
+    width: 100% !important;
+    }
+    
+    .col-md-4 img{
+        max-width: 49% !important;
+        margin-bottom: 10px !important;
+    }
+    
+    .col-md-8 img{
+        max-width: 100% !important;
+        
+    }
+    
+    .medialeft1 {
+        
+        float: left !important;
+    }
+    .mediaright2 {
+        float:right !important;
+    }
+
+}
+
+@media screen and (max-width: 480px) {
+    .col-md-4 {
+    width: 100% !important;
+    }
+    
+    .col-md-4 img{
+        max-width: 49% !important;
+        margin-bottom: 10px !important;
+    }
+    
+    .col-md-8 img{
+        max-width: 100% !important;
+        
+    }
+    
+    .medialeft1 {
+        
+        float: left !important;
+    }
+    .mediaright2 {
+        float:right !important;
+    }
+
+}
+
+@media screen and (max-width: 370px) {
+    .col-md-4 {
+    width: 100% !important;
+    
+    .col-md-4 img{
+        max-width: 49% !important;
+        margin-bottom: 10px !important;
+    }
+    
+    .col-md-8 img{
+        max-width: 100% !important;
+        
+    }
+    
+    .medialeft1 {
+        
+        float: left !important;
+    }
+    .mediaright2 {
+        float:right !important;
+    }
+
+}
+
+@media screen and (max-width: 320px) {
+    
+    .col-md-4 {
+    width: 100% !important;
+    }
+    
+    .col-md-4 img{
+        max-width: 49% !important;
+        margin-bottom: 10px !important;
+    }
+    
+    .col-md-8 img{
+        max-width: 100% !important;
+        
+    }
+    
+    .medialeft1 {
+        
+        float: left !important;
+    }
+    .mediaright2 {
+        float:right !important;
+    }
+    
+}
+
+-->
+
+
+
+--></style>							</div> <!-- .page-content -->
+						</div> <!-- .container -->
+					</section>
+
+									<div id="background-video" class="page-wrapper full-width section-wrapper light-bg" style="background-color:#ffffff">
+												<div class="page-fullwdth-content">	
+								<style>
+.mm-background{
+position: absolute;
+width: 100%;
+height: 100%;
+z-index: -2;
+overflow: hidden;
+background-position: center center;
+}
+-->
+--></style><div class="video-wrapper"><div class="mm-background" style="background: url('http://www.mobilefringe.com/wp-content/uploads/2014/11/mallmaverick_np_bg.jpg') !important;"></div><div class="fill-wrapper"><div class="section-title"><h1 class="white animatez" data-effect="fadeInDown"><a href="http://www.mallmaverick.com"><img class="mmlogo bg-logo alignnone" src="http://www.mobilefringe.com//wp-content/uploads/2014/11/MMlogo.png" width="459" height="75" style="padding-left: 30px; padding-right: 30px;"/></a></h1><h3 class="subtitle white animatez" data-effect="fadeInUp"><a href="http://www.mallmaverick.com" target="blank" style="color: #fff;"> OUR AWARD WINNING DIGITAL CMS - CLICK TO KNOW MORE!</a></h3><div class="spacer small"><a href="http://www.mallmaverick.com" target="blank"><img src="http://www.mobilefringe.com/wp-content/uploads/2014/11/imac2.png" alt="imac" width="953" height="536" class="alignnone size-full wp-image-556" /></a></div></div><div class="imac-wrapper animatez" data-effect="slideInDown"><!--                                     <a href="http://youtu.be/sDP2tWzSQUI" data-type="youtube" class="popup"> -->
+                                    
+                                    
+                                </div>
+                            </div>
+                        </div>						</div> <!-- .page-fullwdth-content -->
 					</div> <!-- .page-content -->
 									<div id="377-2" class="page-wrapper full-width section-wrapper light-bg" style="background-color:#ffffff">
 						 
@@ -319,17 +898,7 @@ Mobile Fringe collaborated with one of the the largest telecommunications compan
             <div class="section-wrapper">
                 <footer class="footer white section-wrapper" style="padding-top: 0px;">
                     <nav class="footer-nav">
-                        <ul id="menu-secondary-menu" class="">
-                            <li id="menu-item-529" class=" menu-item menu-item-type-post_type menu-item-object-page none">
-                                <a href="http://www.mobilefringe.com/full-client-list/" class="no-scroll">Clients List</a>
-                            </li>
-                            <li id="menu-item-530" class=" menu-item menu-item-type-post_type menu-item-object-page none">
-                                <a href="http://www.mobilefringe.com/our-portfolio/" class="no-scroll">Our Apps</a>
-                            </li>
-                            <li id="menu-item-324" class=" menu-item menu-item-type-post_type menu-item-object-page none">
-                                <a href="http://www.mobilefringe.com/about-mobile-fringe/" class="no-scroll">About Us</a>
-                            </li>
-                            <li id="menu-item-657" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/home-3/iwork-mobilefringe/" class="no-scroll">Work @ Mobile Fringe</a></li><li id="menu-item-680" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/privacy-policy/" class="no-scroll">Privacy Policy</a></li></ul>                                            </nav>
+                                                    <ul id="menu-secondary-menu" class=""><li id="menu-item-529" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/full-client-list/" class="no-scroll">Clients List</a></li><li id="menu-item-530" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/our-portfolio/" class="no-scroll">Our Apps</a></li></li><li id="menu-item-324" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/about-mobile-fringe/" class="no-scroll">About Us</a></li><li id="menu-item-657" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/home-3/iwork-mobilefringe/" class="no-scroll">Work @ Mobile Fringe</a></li><li id="menu-item-680" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="http://www.mobilefringe.com/privacy-policy/" class="no-scroll">Privacy Policy</a></li></ul>                                            </nav>
                     <p class="copyright">
                          © 2014 Mobile Fringe Inc. All rights reserved                         <!-- &copy; 2014 Mobile Fringe Inc. All rights reserved --></p>
                     <div class="footer-logo">
