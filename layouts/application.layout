@@ -27,6 +27,9 @@
     <link href="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/style.css" rel="stylesheet">
     <!-- COLOR SCHEME CSS -->
     <link href="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/light-blue.css" rel="stylesheet">
+    
+    <link href="/application.css" rel="stylesheet">
+    
     <!-- MODERNIZER JS -->
     <script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/modernizr.custom.js"></script>
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
