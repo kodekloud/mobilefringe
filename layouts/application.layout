@@ -103,7 +103,7 @@
                                     <span class="og-title">Rogers Catalyst Experts</span>
                                     <img src="http://www.mobilefringe.com/wp-content/uploads/2015/05/prod_catalyst.jpg" alt="" style="width: 300px;"/>
 						        </a>
-						      </li>
+			                </li>
 					        <li class="animatez" data-effect="fadeIn">
 					            <a href="" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2014/12/dev_rails_inside.jpg" data-link-url="http://www.mobilefringe.com/development_platform/ruby-on-rails/" data-link-label="More Info" data-title="Ruby on Rails" data-description="<p>Ruby on Rails is the fastest growing web technology in the industry. What makes RoR so amazing? Speed! With over 7 years of RoR experience our team can deliver enterprise level solutions at amazing speeds. </p>">
                                     <div class="og-overlay"></div>
@@ -154,22 +154,23 @@
                                 </a>
                             </li>
                         </ul>
-                                </div> <!-- .page-fullwdth-content -->
-                            </div> <!-- .page-content -->
-                            <div id="app-portfolio-mobile-apps" class="page-wrapper full-width section-wrapper light-bg" style="background-color:#e0e0e0">
-                                <hr class="title-break" />
-                                <div class="title-area section-title">
-                                    <h2 class="title animated fadeInDown" data-effect="fadeInDown">RECENT WORK </h2>
-                                </div> <!-- .section-title -->
-								<div class="page-fullwdth-content">	
-								    <ul id="og-grid" class="og-grid">
-								        <li class="animatez" data-effect="fadeIn">
-								            <a href="http://www.mobilefringe.com/app/device-manager/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2015/01/DM_SmartPhone-Screens-presentation-Mock-up-desktop.jpg" data-link-url="http://www.mobilefringe.com/app/device-manager/" data-link-label="More Info" data-title="Device Manager" data-description="<p>Small businesses can deploy, manage, secure, track and support wireless devices with Device Manager. Locate, Track, Text, or Alerts and lock down devices to a team members work-mobile device.</p>">
-                                                <div class="og-overlay"></div>
-                                                <span class="og-title">Device Manager</span>
-                                                 <img src="http://www.mobilefringe.com/wp-content/uploads/2015/01/DM_Gallery-Mock-up.jpg" alt="" style="width: 300px;"/>
-                                            </a>
-                                        <li class="animatez" data-effect="fadeIn">
+                    </div> <!-- .page-fullwdth-content -->
+                </div> <!-- .page-content -->
+                <div id="app-portfolio-mobile-apps" class="page-wrapper full-width section-wrapper light-bg" style="background-color:#e0e0e0">
+                    <hr class="title-break" />
+                        <div class="title-area section-title">
+                            <h2 class="title animated fadeInDown" data-effect="fadeInDown">RECENT WORK </h2>
+                        </div> <!-- .section-title -->
+						<div class="page-fullwdth-content">	
+						    <ul id="og-grid" class="og-grid">
+								<li class="animatez" data-effect="fadeIn">
+								    <a href="http://www.mobilefringe.com/app/device-manager/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2015/01/DM_SmartPhone-Screens-presentation-Mock-up-desktop.jpg" data-link-url="http://www.mobilefringe.com/app/device-manager/" data-link-label="More Info" data-title="Device Manager" data-description="<p>Small businesses can deploy, manage, secure, track and support wireless devices with Device Manager. Locate, Track, Text, or Alerts and lock down devices to a team members work-mobile device.</p>">
+                                        <div class="og-overlay"></div>
+                                        <span class="og-title">Device Manager</span>
+                                        <img src="http://www.mobilefringe.com/wp-content/uploads/2015/01/DM_Gallery-Mock-up.jpg" alt="" style="width: 300px;"/>
+                                    </a>
+                                </li>
+                                <li class="animatez" data-effect="fadeIn">
                                             <a href="http://www.mobilefringe.com/app/ibeacons-at-toronto-eaton-centre-campaign/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2015/01/img_inside_ibeacon.jpg" data-link-url="http://www.mobilefringe.com/app/ibeacons-at-toronto-eaton-centre-campaign/" data-link-label="More Info" data-title="iBeacons at Toronto Eaton Centre Campaign" data-description="<p>Using iBeacons for shopping, payments, way-finding and interacting is amazing. With our partner, Estimote, we use iBeacons for Retail using Mall Maverick solution.</p>">
                                                 <div class="og-overlay"></div>
                                                 <span class="og-title">iBeacons at Toronto Eaton Centre Campaign</span>
