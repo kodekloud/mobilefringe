@@ -40,8 +40,6 @@
 
                 
         <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-        
-
         <link rel='shortlink' href='http://www.mobilefringe.com/' />
     </head>
     <body data-spy="scroll" data-target=".navbar-collapse" class="home page page-id-181 page-template-default">
