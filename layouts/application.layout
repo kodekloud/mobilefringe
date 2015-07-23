@@ -18,9 +18,6 @@
         <link rel="shortcut icon" href="http://www.mobilefringe.com/wp-content/uploads/2014/12/favicon.png" type="image/x-icon"/>
         <link rel="canonical" href="http://www.mobilefringe.com/" />        
         <link rel="alternate" type="application/rss+xml" title="Mobile Fringe &raquo; Feed" href="http://www.mobilefringe.com/feed/" />
-        <link rel="alternate" type="application/rss+xml" title="Mobile Fringe &raquo; Comments Feed" href="http://www.mobilefringe.com/comments/feed/" />
-        <link rel="alternate" type="application/rss+xml" title="Mobile Fringe &raquo; Front-Page Comments Feed" href="http://www.mobilefringe.com/front-page/feed/" />
-        <link rel='stylesheet' id='contact-form-7-css'  href='http://www.mobilefringe.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.0.2' type='text/css' media='all' />
         <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
         
         <link rel='stylesheet' id='font-awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css' media='all' />
