@@ -94,7 +94,7 @@
   left: 0;
   z-index: 100;
   min-width: 100%; min-height: 100%;
-  background: url(http://www.mobilefringe.com/wp-content/uploads/2014/11/vidback_computers.png) no-repeat;
+  background: url(http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/3c6a566470bd84023afe06935df98ea8/vidback_computers.png) no-repeat;
   padding-top:0px;
   width: auto;
   height: auto;
@@ -105,7 +105,7 @@
   left: 0;
   z-index: 100;
   min-width: 100%; min-height: 100%;
-  background: url(http://www.mobilefringe.com/wp-content/uploads/2014/11/vidback_computers.png) no-repeat;
+  background: url(http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/3c6a566470bd84023afe06935df98ea8/vidback_computers.png) no-repeat;
   padding-top:0px;
   width: auto;
   height: auto;
@@ -156,7 +156,7 @@
   left: 0;
   z-index: 100;
   min-width: 100%; min-height: 100%;
-  background: url(http://www.mobilefringe.com/wp-content/uploads/2014/11/vidback_computers.png) no-repeat;
+  background: url(http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/3c6a566470bd84023afe06935df98ea8/vidback_computers.png) no-repeat;
   padding-top:0px;
   width: auto;
   height: auto;
@@ -205,7 +205,7 @@ display:none;
   left: 0;
   z-index: 100;
   min-width: 100%; min-height: 100%;
-  background: url(http://www.mobilefringe.com/wp-content/uploads/2014/11/vidback_computers.png) no-repeat;
+  background: url(http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/3c6a566470bd84023afe06935df98ea8/vidback_computers.png) no-repeat;
   padding-top:0px;
   width: auto;
   height: auto;
@@ -256,7 +256,7 @@ display:none;
   left: 0;
   z-index: 100;
   min-width: 100%; min-height: 100%;
-  background: url(http://www.mobilefringe.com/wp-content/uploads/2014/11/vidback_computers.png) no-repeat;
+  background: url(http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/3c6a566470bd84023afe06935df98ea8/vidback_computers.png) no-repeat;
   padding-top:0px;
   width: auto;
   height: auto;
@@ -306,7 +306,7 @@ display:none;
   left: 0;
   z-index: 100;
   min-width: 100%; min-height: 100%;
-  background: url(http://www.mobilefringe.com/wp-content/uploads/2014/11/vidback_computers.png) no-repeat;
+  background: url(http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/3c6a566470bd84023afe06935df98ea8/vidback_computers.png) no-repeat;
   padding-top:0px;
   width: auto;
   height: auto;
@@ -356,7 +356,7 @@ display:none;
   left: 0;
   z-index: 100;
   min-width: 100%; min-height: 100%;
-  background: url(http://www.mobilefringe.com/wp-content/uploads/2014/11/vidback_computers.png) no-repeat;
+  background: url(http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/3c6a566470bd84023afe06935df98ea8/vidback_computers.png) no-repeat;
   padding-top:0px;
   width: auto;
   height: auto;
@@ -375,7 +375,7 @@ display:none;
                 Your browser doesn't support HTML5 video. Here's a <a href="#">link</a> to download the video.
             </video>
             <div class="vid_replace">
-                <img src="http://www.mobilefringe.com/wp-content/uploads/2014/11/vidback_computers.png" />
+                <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/3c6a566470bd84023afe06935df98ea8/vidback_computers.png" />
             </div>
             <div class="main_caption fade-in" data-effect="slideInDown">
                 <h2>We shape cutting-edge ideas into pieces of software</h2>
