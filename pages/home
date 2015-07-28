@@ -516,71 +516,18 @@ display:none;
     </div> <!-- .page-fullwdth-content -->
 </div>
 
-<div id="377-2" class="page-wrapper full-width section-wrapper light-bg" style="background-color:#ffffff">
-	<hr class="title-break">
-	<div class="title-area section-title">
-		<h2 class="title animated fadeInDown" data-effect="fadeInDown">OUR DEVELOPMENT PLATFORMS </h2>
-	</div> <!-- .section-title -->
-	<div class="page-fullwdth-content">	
-		<ul id="og-grid" class="og-grid">
-		    <li class="animated fadeIn" data-effect="fadeIn">
-		        <a href="" data-largesrc="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/prod_catalyst_inside.jpg" data-link-url="http://www.mobilefringe.com/development_platform/rogerscatalystexperts/" data-link-label="More Info" data-title="Rogers Catalyst Experts" data-description="<p>We are experts in delivering high quality integration applications with speed and precision. We excel in web &amp; mobile web development, account and billing system integration, Rogers Catalyst integration, mobile app development and much more.<strong>Our Rogers projects include:</strong></p>">
-                    <div class="og-overlay"></div>
-                    <span class="og-title">Rogers Catalyst Experts</span>
-                    <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/prod_catalyst.jpg" alt="" style="width: 300px;">
-                </a>
-            </li>
-            <li class="animated fadeIn" data-effect="fadeIn">
-                <a href="" data-largesrc="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_rails_inside.jpg" data-link-url="http://www.mobilefringe.com/development_platform/ruby-on-rails/" data-link-label="More Info" data-title="Ruby on Rails" data-description="<p>Ruby on Rails is the fastest growing web technology in the industry. What makes RoR so amazing? Speed! With over 7 years of RoR experience our team can deliver enterprise level solutions at amazing speeds. </p>">
-                    <div class="og-overlay"></div>
-                    <span class="og-title">Ruby on Rails</span>
-                    <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_rails.jpg" alt="" style="width: 300px;">
-                </a>
-            </li>
-            <li class="animated fadeIn" data-effect="fadeIn">
-                <a href="" data-largesrc="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_apple_inside.jpg" data-link-url="http://www.mobilefringe.com/development_platform/ios/" data-link-label="More Info" data-title="iOS Development" data-description="<p><strong>iOS</strong> development has been at been at the forefront of the mobile application market. With over 40 native iPhone &amp; iPad apps our experienced iOS developers are industry leaders. Our native iOS app have millions of view and have been featured by Apple and garnered critical acclaim. &nbsp;</p>">
-                    <div class="og-overlay"></div>
-                    <span class="og-title">iOS Development</span>
-                    <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_apple.jpg" alt="" style="width: 300px;">
-                </a>
-            </li>
-            <li class="animated fadeIn" data-effect="fadeIn">
-                <a href="" data-largesrc="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_ibeacons_inside.jpg" data-link-url="http://www.mobilefringe.com/development_platform/ibeacons/" data-link-label="More Info" data-title="iBeacons" data-description="<p>Rarely does a technology generate so much buzz as iBeacons have in the past years. If you haven’t already heard about the potential of iBeacons...then you soon will. With all the press around iBeacons its easy to get lost in what it can really offer to an industry like the shopping center industry and retail in general.</p>">
-                    <div class="og-overlay"></div>
-                    <span class="og-title">iBeacons</span>
-                    <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_ibeacons.jpg" alt="" style="width: 300px;">
-                </a>
-            </li>
-            <li class="animated fadeIn" data-effect="fadeIn">
-                <a href="" data-largesrc="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_android_inside.jpg" data-link-url="http://www.mobilefringe.com/development_platform/android/" data-link-label="More Info" data-title="Android - the fastest growing marketplace" data-description="<p>Android development continues to have&nbsp;tremendous growth. &nbsp;Android is reshaping the way people communicate. </p>">
-                    <div class="og-overlay"></div>
-                    <span class="og-title">Android - the fastest growing marketplace</span>
-                    <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_android.jpg" alt="" style="width: 300px;">
-                </a>
-            </li>
-            <li class="animated fadeIn" data-effect="fadeIn">
-                <a href="" data-largesrc="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_jq_inside.jpg" data-link-url="http://www.mobilefringe.com/development_platform/jquery/" data-link-label="More Info" data-title="JQuery - Unleash the power of the web" data-description="<p>jQuery not only provides developers with a great set of tools, it provides users with the very best user experience on the market. </p>">
-                    <div class="og-overlay"></div>
-                    <span class="og-title">JQuery - Unleash the power of the web</span>
-                    <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_jq.jpg" alt="" style="width: 300px;">
-                </a>
-            </li>
-            <li class="animated fadeIn" data-effect="fadeIn">
-                <a href="" data-largesrc="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_bb_inside.jpg" data-link-url="http://www.mobilefringe.com/development_platform/blackberry/" data-link-label="More Info" data-title="Blackberry Development" data-description="<p>BlackBerry smartphones maintain a strong presence within the mobile market place, with the launch of Passport, new opportunities may arise. </p>">
-                    <div class="og-overlay"></div>
-                    <span class="og-title">Blackberry Development</span>
-                    <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_bb.jpg" alt="" style="width: 300px;">
-                </a>
-            </li>
-            <li class="animated fadeIn" data-effect="fadeIn">
-                <a href="" data-largesrc="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_html_inside.jpg" data-link-url="http://www.mobilefringe.com/development_platform/html5/" data-link-label="More Info" data-title="HTML5 - The Future of the Web" data-description="<p>HTML5 continues to drive amazing web solutions that work on all modern mobile devices and browsers.&nbsp;</p>">
-                    <div class="og-overlay"></div>
-                    <span class="og-title">HTML5 - The Future of the Web</span>
-                    <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_html.jpg" alt="" style="width: 300px;">
-                </a>
-            </li>
-        </ul>
-    </div> <!-- .page-fullwdth-content -->
-</div>
+<div id="app-portfolio-mobile-apps" class="page-wrapper full-width section-wrapper light-bg" style="background-color:#e0e0e0">
+						 
+							<hr class="title-break">
+							<div class="title-area section-title">
+								<h2 class="title animated fadeInDown" data-effect="fadeInDown">RECENT WORK </h2>
+
+																
+							</div> <!-- .section-title -->
+												<div class="page-fullwdth-content">	
+								<ul id="og-grid" class="og-grid"><li class="animated fadeIn" data-effect="fadeIn" style="transition: height 350ms ease; height: 300px;"><a href="http://www.mobilefringe.com/app/device-manager/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2015/01/DM_SmartPhone-Screens-presentation-Mock-up-desktop.jpg" data-link-url="http://www.mobilefringe.com/app/device-manager/" data-link-label="More Info" data-title="Device Manager" data-description="<p>Small businesses can deploy, manage, secure, track and support wireless devices with Device Manager. Locate, Track, Text, or Alerts and lock down devices to a team members work-mobile device.</p>"><div class="og-overlay"></div><span class="og-title">Device Manager</span><img src="http://www.mobilefringe.com/wp-content/uploads/2015/01/DM_Gallery-Mock-up.jpg" alt="" style="width: 300px;"></a></li><li class="animated fadeIn" data-effect="fadeIn"><a href="http://www.mobilefringe.com/app/ibeacons-at-toronto-eaton-centre-campaign/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2015/01/img_inside_ibeacon.jpg" data-link-url="http://www.mobilefringe.com/app/ibeacons-at-toronto-eaton-centre-campaign/" data-link-label="More Info" data-title="iBeacons at Toronto Eaton Centre Campaign" data-description="<p>Using iBeacons for shopping, payments, way-finding and interacting is amazing. With our partner, Estimote, we use iBeacons for Retail using Mall Maverick solution.</p>"><div class="og-overlay"></div><span class="og-title">iBeacons at Toronto Eaton Centre Campaign</span><img src="http://www.mobilefringe.com/wp-content/uploads/2015/01/img_ibeacons_small.jpg" alt="" style="width: 300px;"></a></li><li class="animated fadeIn" data-effect="fadeIn"><a href="http://www.mobilefringe.com/app/geo-location-find-my-phone/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2014/12/img_inside_career_aboutus.jpg" data-link-url="http://www.mobilefringe.com/app/geo-location-find-my-phone/" data-link-label="More Info" data-title="Geo-Location Find My Phone" data-description="<p>Send a geo-fence text message or geo-locate a phone using our managed services for Geo-Fence Location Messaging, Find-A-Phone and Geo-trigger alerts.Mobile Fringe’s expertise in cellular geo location and messaging solutions is the best in the industry.</p>"><div class="og-overlay"></div><span class="og-title">Geo-Location Find My Phone</span><img src="http://www.mobilefringe.com/wp-content/uploads/2015/01/rpf-small.jpg" alt="" style="width: 300px;"></a></li><li class="animated fadeIn" data-effect="fadeIn"><a href="http://www.mobilefringe.com/app/yorkdale-app/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2014/12/Yorkdale_SmartPhone-Screens-presentation-Mock-up.jpg" data-link-url="http://www.mobilefringe.com/app/yorkdale-app/" data-link-label="More Info" data-title="Yorkdale Shopping Centre" data-description="<p>Located mid-town Toronto, ON Canada, this app features&nbsp;real time parking availability, fashion trends, mall directions, store information and promotions. Toronto's premier fashion destination featuring 240 stores and services.
+The Yorkdale app has the following features:&nbsp;</p>"><div class="og-overlay"></div><span class="og-title">Yorkdale Shopping Centre</span><img src="http://www.mobilefringe.com/wp-content/uploads/2014/12/Yorkdale_Gallery-Mock-up.jpg" alt="" style="width: 300px;"></a></li><li class="animated fadeIn" data-effect="fadeIn"><a href="http://www.mobilefringe.com/app/amazing-analytics-marketing-reports/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2015/01/img_inside_analitics.jpg" data-link-url="http://www.mobilefringe.com/app/amazing-analytics-marketing-reports/" data-link-label="More Info" data-title="Amazing Analytics Marketing Reports" data-description="<p>What you see on the outside, sometimes the real beauty lies hidden deep within the “big data”. We recognize that their is a story behind each click so we create amazing web analytics reports for advanced lead generation and business insights. We forge the data quest for our clients to better understand their customer with omni-channel marketing analytics and multi-channel data collection.</p>"><div class="og-overlay"></div><span class="og-title">Amazing Analytics Marketing Reports</span><img src="http://www.mobilefringe.com/wp-content/uploads/2015/01/img_inside_analitics_small.jpg" alt="" style="width: 300px;"></a></li><li class="animated fadeIn" data-effect="fadeIn"><a href="http://www.mobilefringe.com/app/app1/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2014/12/NP_SmartPhone-Screens-presentation-Mock-up.jpg" data-link-url="http://www.mobilefringe.com/app/app1/" data-link-label="More Info" data-title="NorthPark Center Dallas" data-description="<p>Located in Dallas, TX, this app features unique interactive map and easy-to-navigate, in-mall directions to locate favorite store, dining and entertainment options, push notifications from favorite retailers for a customized shopping experience and a self-guided tour of NorthPark Center’s famous art collection utilizing an interactive map and educational resources.</p>"><div class="og-overlay"></div><span class="og-title">NorthPark Center Dallas</span><img src="http://www.mobilefringe.com/wp-content/uploads/2014/12/NP_Gallery-Mock-up.jpg" alt="" style="width: 300px;"></a></li><li class="animated fadeIn" data-effect="fadeIn"><a href="http://www.mobilefringe.com/app/rogers-m2m-billing-rogers/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2015/01/m2m-inside.jpg" data-link-url="http://www.mobilefringe.com/app/rogers-m2m-billing-rogers/" data-link-label="More Info" data-title="Rogers M2M Billing Rogers" data-description="<p>Stay connect with Machine to Machine solutions.&nbsp; With extensive API process experience, our M2M Billing Network Portal has processed millions in transactions.
+Mobile Fringe collaborated with one of the the largest telecommunications company in North America offering them comprehensive M2M services.</p>"><div class="og-overlay"></div><span class="og-title">Rogers M2M Billing Rogers</span><img src="http://www.mobilefringe.com/wp-content/uploads/2015/01/m2m-small.jpg" alt="" style="width: 300px;"></a></li><li class="animated fadeIn" data-effect="fadeIn"><a href="http://www.mobilefringe.com/app/kode-kloud-for-developers/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2014/12/KodeKloude_SmartPhone-Screens-presentation-Mock-up-desktop1.jpg" data-link-url="http://www.mobilefringe.com/app/kode-kloud-for-developers/" data-link-label="More Info" data-title="Kode Kloud For Developers" data-description="<p>The next generation platform to build, host, and manage web apps in real time, no deployments or server side coding is called KodeKloud.io.&nbsp;Built by developer for developers.</p>"><div class="og-overlay"></div><span class="og-title">Kode Kloud For Developers</span><img src="http://www.mobilefringe.com/wp-content/uploads/2014/12/KodeKloude_Gallery-Mock-up1.jpg" alt="" style="width: 300px;"></a></li></ul>						</div> <!-- .page-fullwdth-content -->
+					</div>
 
 
