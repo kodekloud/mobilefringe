@@ -419,7 +419,7 @@ display:none;
                 </div>
                 <div class="col-md-8">
                     <div class="animated fadeInUp" data-effect="fadeInUp">
-                        <a href="http://www.mobilefringe.com/?p=912"><img style="width: 100%; max-width: 770px; margin-bottom: 5%; float: right;" src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/ps_analytics_2x.jpg" alt="" /></a>
+                        <a href="/posts/{{slug}}"><img style="width: 100%; max-width: 770px; margin-bottom: 5%; float: right;" src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/ps_analytics_2x.jpg" alt="" /></a>
                     </div>
                     <div class="clearfix"></div>
                 </div>
