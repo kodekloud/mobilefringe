@@ -506,7 +506,7 @@ display:none;
                 </a>
             </li>
             <li class="animated fadeIn" data-effect="fadeIn">
-                <a href="" data-largesrc="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_html_inside.jpg" data-link-url="/platform/mobile-fringe-html5" data-link-label="More Info" data-title="HTML5 - The Future of the Web" data-description="<p>HTML5 continues to drive amazing web solutions that work on all modern mobile devices and browsers.&nbsp;</p>">
+                <a href="/platform/mobile-fringe-html5" data-largesrc="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_html_inside.jpg" data-title="HTML5 - The Future of the Web" data-description="<p>HTML5 continues to drive amazing web solutions that work on all modern mobile devices and browsers.&nbsp;</p>">
                     <div class="og-overlay"></div>
                     <span class="og-title">HTML5 - The Future of the Web</span>
                     <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_html.jpg" alt="" style="width: 300px;">
