@@ -370,7 +370,7 @@ display:none;
         <div>
             <video id="cmn-video-demo4__video" autoplay muted loop>
                 <source src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/steven.webm" type="video/webm">
-                <source src="http://www.mobilefringe.com/wp-content/uploads/2014/11/steven.mp4" type="video/mp4">
+                <source src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/steven.mp4" type="video/mp4">
                 <source src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/steven.ogv" type="video/ogg">
                 Your browser doesn't support HTML5 video. Here's a <a href="#">link</a> to download the video.
             </video>
