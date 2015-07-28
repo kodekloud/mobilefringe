@@ -631,22 +631,22 @@ display:none;
                     <div class="col-md-6 mg-sm text-left animated fadeIn" data-effect="fadeIn">
                         <h4 style="margin-top: 0px; color:#25292c">Get to know us</h4>
                         <p style="color:#25292c">
-If you are interested in any of our mobile products or services, please do not hesitate to send us an email.
-</p>
-<div class="spacer small"></div>
-<h4 style="color:#25292c">Mobile Fringe Office</h4>
-<p>
-216 Chrislea Road - Unit 502
-<br>Woodbridge, ON - L4L 8S5
-<br>Canada
-</p>
-<!--<a href="mailto:support@mobilefringe.com" style="color:#000">support@mobilefringe.com</a>-->
-<br>
-<br>
-<br>
-</div>
-</div>
-</div>
-</div>
-</div>
+                            If you are interested in any of our mobile products or services, please do not hesitate to send us an email.
+                        </p>
+                        <div class="spacer small"></div>
+                        <h4 style="color:#25292c">Mobile Fringe Office</h4>
+                        <p>
+                            216 Chrislea Road - Unit 502
+                            <br>Woodbridge, ON - L4L 8S5
+                            <br>Canada
+                        </p>
+                        <!--<a href="mailto:support@mobilefringe.com" style="color:#000">support@mobilefringe.com</a>-->
+                        <br>
+                        <br>
+                        <br>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </section>
