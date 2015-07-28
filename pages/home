@@ -399,7 +399,7 @@ display:none;
                     <div class="clearfix"></div>
                 </div>
                 <div class="col-md-4">
-                    <div class="animated fadeInUp" data-effect="fadeInUp"><a href="http://www.mobilefringe.com/?p=920"><img class="medialeft1" style="width: 100%; max-width: 380px; margin-bottom: 13px; float: right;" src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/ps_kodekloud_2x.jpg" alt="" /></a>
+                    <div class="animated fadeInUp" data-effect="fadeInUp"><a href="/posts/{{slug}}"><img class="medialeft1" style="width: 100%; max-width: 380px; margin-bottom: 13px; float: right;" src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/ps_kodekloud_2x.jpg" alt="" /></a>
                     </div>
                     <div class="animated fadeInUp" data-effect="fadeInUp"><a href="http://www.mobilefringe.com/?p=923"><img style="width: 100%; max-width: 380px; margin-bottom: 10px; float: right;" src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/ps_m2m_2x.jpg" alt="" /></a>
                     </div>
