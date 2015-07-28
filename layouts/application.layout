@@ -46,7 +46,7 @@
         <script src="http://mallmaverick.kodekloud.io/mallmaverick.js?v=0.3"></script>
         <script src="http://mallmaverick.kodekloud.io/mustache_mallmaverick.js?v=0.3"></script>
         <script>
-            setEndPoint('http://stc.mallmaverick.com/api/v2/stc/all.json');
+            setEndPoint('http://mobilefringe.mallmaverick.com/api/v2/stc/all.json');
             sessionStorage.setItem('primary_locale', 'en-CA');
             sessionStorage.setItem('secondary_locale', 'fr-CA');
         </script>
