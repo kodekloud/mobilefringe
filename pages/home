@@ -600,13 +600,6 @@ display:none;
                         <div class="wpcf7" id="wpcf7-f437-o1" lang="en-US" dir="ltr">
                             <div class="screen-reader-response"></div>
                                 <form name="" action="/#wpcf7-f437-o1" method="post" class="wpcf7-form" novalidate="novalidate">
-                                    <div style="display: none;">
-                                        <input type="hidden" name="_wpcf7" value="437">
-                                        <input type="hidden" name="_wpcf7_version" value="4.0.2">
-                                        <input type="hidden" name="_wpcf7_locale" value="en_US">
-                                        <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f437-o1">
-                                        <input type="hidden" name="_wpnonce" value="b241ec5437">
-                                    </div>
                                     <div class="text-left">
                                         <div class="form-group">
                                             <label class="required" for="yourEmail">Email address:</label><br>
