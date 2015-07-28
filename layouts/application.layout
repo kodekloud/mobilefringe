@@ -40,6 +40,16 @@
 
                 
         <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.8.1/mustache.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.3/moment.min.js"></script>
+        <!--MallMaverick v1.0-->
+        <script src="http://mallmaverick.kodekloud.io/mallmaverick.js?v=0.3"></script>
+        <script src="http://mallmaverick.kodekloud.io/mustache_mallmaverick.js?v=0.3"></script>
+        <script>
+            setEndPoint('http://stc.mallmaverick.com/api/v2/stc/all.json');
+            sessionStorage.setItem('primary_locale', 'en-CA');
+            sessionStorage.setItem('secondary_locale', 'fr-CA');
+        </script>
         <link rel='shortlink' href='http://www.mobilefringe.com/' />
     </head>
     <body data-spy="scroll" data-target=".navbar-collapse" class="home page page-id-181 page-template-default">
