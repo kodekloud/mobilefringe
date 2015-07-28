@@ -456,7 +456,12 @@ display:none;
 	</div> <!-- .section-title -->
 	<div class="page-fullwdth-content">	
 		<ul id="og-grid" class="og-grid">
-		    <li class="animatez" data-effect="fadeIn"><a href="" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2015/05/prod_catalyst_inside.jpg" data-link-url="http://www.mobilefringe.com/development_platform/rogerscatalystexperts/" data-link-label="More Info" data-title="Rogers Catalyst Experts" data-description="<p>We are experts in delivering high quality integration applications with speed and precision. We excel in web &amp; mobile web development, account and billing system integration, Rogers Catalyst integration, mobile app development and much more.<strong>Our Rogers projects include:</strong></p>"><div class="og-overlay"></div><span class="og-title">Rogers Catalyst Experts</span><img src="http://www.mobilefringe.com/wp-content/uploads/2015/05/prod_catalyst.jpg" alt="" style="width: 300px;"/></a>
+		    <li class="animatez" data-effect="fadeIn">
+		        <a href="" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2015/05/prod_catalyst_inside.jpg" data-link-url="http://www.mobilefringe.com/development_platform/rogerscatalystexperts/" data-link-label="More Info" data-title="Rogers Catalyst Experts" data-description="<p>We are experts in delivering high quality integration applications with speed and precision. We excel in web &amp; mobile web development, account and billing system integration, Rogers Catalyst integration, mobile app development and much more.<strong>Our Rogers projects include:</strong></p>">
+		            <div class="og-overlay"></div>
+		            <span class="og-title">Rogers Catalyst Experts</span>
+		            <img src="http://www.mobilefringe.com/wp-content/uploads/2015/05/prod_catalyst.jpg" alt="" style="width: 300px;"/>
+                </a>
             </li>
             <li class="animated fadeIn" data-effect="fadeIn">
                 <a href="" data-largesrc="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_rails_inside.jpg" data-link-url="/platform/mobile-fringe-ruby-on-rails" data-link-label="More Info" data-title="Ruby on Rails" data-description="<p>Ruby on Rails is the fastest growing web technology in the industry. What makes RoR so amazing? Speed! With over 7 years of RoR experience our team can deliver enterprise level solutions at amazing speeds. </p>">
