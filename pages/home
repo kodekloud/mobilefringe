@@ -517,7 +517,7 @@ display:none;
 </div>
 
 <div class="page-fullwdth-content">	
-	<ul id="og-grid2" class="og-grid">
+	<ul id="og-grid" class="og-grid">
 	    <li class="animated fadeIn" data-effect="fadeIn"><a href="http://www.mobilefringe.com/app/device-manager/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2015/01/DM_SmartPhone-Screens-presentation-Mock-up-desktop.jpg" data-link-url="http://www.mobilefringe.com/app/device-manager/" data-link-label="More Info" data-title="Device Manager" data-description="<p>Small businesses can deploy, manage, secure, track and support wireless devices with Device Manager. Locate, Track, Text, or Alerts and lock down devices to a team members work-mobile device.</p>"><div class="og-overlay"></div><span class="og-title">Device Manager</span><img src="http://www.mobilefringe.com/wp-content/uploads/2015/01/DM_Gallery-Mock-up.jpg" alt="" style="width: 300px;"></a>
         </li>
         <li class="animated fadeIn" data-effect="fadeIn"><a href="http://www.mobilefringe.com/app/ibeacons-at-toronto-eaton-centre-campaign/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2015/01/img_inside_ibeacon.jpg" data-link-url="http://www.mobilefringe.com/app/ibeacons-at-toronto-eaton-centre-campaign/" data-link-label="More Info" data-title="iBeacons at Toronto Eaton Centre Campaign" data-description="<p>Using iBeacons for shopping, payments, way-finding and interacting is amazing. With our partner, Estimote, we use iBeacons for Retail using Mall Maverick solution.</p>"><div class="og-overlay"></div><span class="og-title">iBeacons at Toronto Eaton Centre Campaign</span><img src="http://www.mobilefringe.com/wp-content/uploads/2015/01/img_ibeacons_small.jpg" alt="" style="width: 300px;"></a>
