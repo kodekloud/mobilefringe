@@ -559,14 +559,14 @@ display:none;
                 </a>
             </li>
             <li class="animated fadeIn" data-effect="fadeIn">
-                <a href="/app/mobile-fringe-north-park/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2014/12/NP_SmartPhone-Screens-presentation-Mock-up.jpg" data-link-url="http://www.mobilefringe.com/app/app1/" data-link-label="More Info" data-title="NorthPark Center Dallas" data-description="<p>Located in Dallas, TX, this app features unique interactive map and easy-to-navigate, in-mall directions to locate favorite store, dining and entertainment options, push notifications from favorite retailers for a customized shopping experience and a self-guided tour of NorthPark Center’s famous art collection utilizing an interactive map and educational resources.</p>">
+                <a href="/app/mobile-fringe-north-park/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2014/12/NP_SmartPhone-Screens-presentation-Mock-up.jpg" data-title="NorthPark Center Dallas" data-description="<p>Located in Dallas, TX, this app features unique interactive map and easy-to-navigate, in-mall directions to locate favorite store, dining and entertainment options, push notifications from favorite retailers for a customized shopping experience and a self-guided tour of NorthPark Center’s famous art collection utilizing an interactive map and educational resources.</p>">
                     <div class="og-overlay"></div>
                     <span class="og-title">NorthPark Center Dallas</span>
                     <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/4bbe946569d477369d5ca9eec46d21bf/NP_Gallery-Mock-up.jpg" alt="" style="width: 300px;" />
                 </a>
             </li>
             <li class="animated fadeIn" data-effect="fadeIn">
-                <a href="http://www.mobilefringe.com/app/rogers-m2m-billing-rogers/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2015/01/m2m-inside.jpg" data-link-url="http://www.mobilefringe.com/app/rogers-m2m-billing-rogers/" data-link-label="More Info" data-title="Rogers M2M Billing Rogers" data-description="<p>Stay connect with Machine to Machine solutions.&nbsp; With extensive API process experience, our M2M Billing Network Portal has processed millions in transactions. Mobile Fringe collaborated with one of the the largest telecommunications company in North America offering them comprehensive M2M services.</p>">
+                <a href="/app/mobile-fringe-rogers-m2m-billing-rogers/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2015/01/m2m-inside.jpg" data-title="Rogers M2M Billing Rogers" data-description="<p>Stay connect with Machine to Machine solutions.&nbsp; With extensive API process experience, our M2M Billing Network Portal has processed millions in transactions. Mobile Fringe collaborated with one of the the largest telecommunications company in North America offering them comprehensive M2M services.</p>">
                 <div class="og-overlay"></div>
                 <span class="og-title">Rogers M2M Billing Rogers</span>
                 <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/4bbe946569d477369d5ca9eec46d21bf/m2m-small.jpg" alt="" style="width: 300px;">
