@@ -521,7 +521,7 @@ display:none;
 		<h2 class="title animated fadeInDown" data-effect="fadeInDown">OUR DEVELOPMENT PLATFORMS </h2>
 	</div> <!-- .section-title -->
 	<div class="page-fullwdth-content">	
-		<ul id="og-grid" class="og-grids">
+		<ul id="og-grid" class="og-grid">
 		    <li class="animated fadeIn" data-effect="fadeIn">
 		        <a href="" data-largesrc="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/prod_catalyst_inside.jpg" data-link-url="http://www.mobilefringe.com/development_platform/rogerscatalystexperts/" data-link-label="More Info" data-title="Rogers Catalyst Experts" data-description="<p>We are experts in delivering high quality integration applications with speed and precision. We excel in web &amp; mobile web development, account and billing system integration, Rogers Catalyst integration, mobile app development and much more.<strong>Our Rogers projects include:</strong></p>">
                     <div class="og-overlay"></div>
