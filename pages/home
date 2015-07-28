@@ -464,7 +464,7 @@ display:none;
                 </a>
             </li>
             <li class="animated fadeIn" data-effect="fadeIn">
-                <a href="" data-largesrc="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_rails_inside.jpg" data-link-url="/platform/mobile-fringe-ruby-on-rails" data-link-label="More Info" data-title="Ruby on Rails" data-description="<p>Ruby on Rails is the fastest growing web technology in the industry. What makes RoR so amazing? Speed! With over 7 years of RoR experience our team can deliver enterprise level solutions at amazing speeds. </p>">
+                <a href="/platform/mobile-fringe-ruby-on-rails" data-largesrc="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_rails_inside.jpg" data-link-url="/platform/mobile-fringe-ruby-on-rails" data-link-label="More Info" data-title="Ruby on Rails" data-description="<p>Ruby on Rails is the fastest growing web technology in the industry. What makes RoR so amazing? Speed! With over 7 years of RoR experience our team can deliver enterprise level solutions at amazing speeds. </p>">
                     <div class="og-overlay"></div>
                     <span class="og-title">Ruby on Rails</span>
                     <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_rails.jpg" alt="" style="width: 300px;">
