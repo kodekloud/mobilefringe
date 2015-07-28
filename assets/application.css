@@ -1,4 +1,7 @@
-
+body{
+    padding-top: 68px;
+    
+}
 #our_products .col-md-8, #our_products .col-md-4 {
   padding: 0px !important;
 }
