@@ -516,11 +516,7 @@ display:none;
     </div> <!-- .page-fullwdth-content -->
 </div>
 
-<div id="app-portfolio-mobile-apps" class="page-wrapper full-width section-wrapper light-bg" style="background-color:#e0e0e0">
-	<hr class="title-break">
-	<div class="title-area section-title">
-		<h2 class="title animated fadeInDown" data-effect="fadeInDown">RECENT WORK </h2>
-	</div> <!-- .section-title -->
+
     <div class="page-fullwdth-content">	
     	<ul id="og-grid2" class="og-grid">
     	    <li class="animated fadeIn" data-effect="fadeIn"><a href="http://www.mobilefringe.com/app/device-manager/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2015/01/DM_SmartPhone-Screens-presentation-Mock-up-desktop.jpg" data-link-url="http://www.mobilefringe.com/app/device-manager/" data-link-label="More Info" data-title="Device Manager" data-description="<p>Small businesses can deploy, manage, secure, track and support wireless devices with Device Manager. Locate, Track, Text, or Alerts and lock down devices to a team members work-mobile device.</p>"><div class="og-overlay"></div><span class="og-title">Device Manager</span><img src="http://www.mobilefringe.com/wp-content/uploads/2015/01/DM_Gallery-Mock-up.jpg" alt="" style="width: 300px;"></a>
@@ -543,4 +539,3 @@ display:none;
             </li>
         </ul>
     </div>
-</div>
