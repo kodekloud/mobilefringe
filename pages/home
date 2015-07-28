@@ -485,7 +485,7 @@ display:none;
                 </a>
             </li>
             <li class="animated fadeIn" data-effect="fadeIn">
-                <a href="/platform/mobile-fringe-android" data-largesrc="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_android_inside.jpg" data-link-url="/platform/mobile-fringe-android" data-link-label="More Info" data-title="Android - the fastest growing marketplace" data-description="<p>Android development continues to have&nbsp;tremendous growth. &nbsp;Android is reshaping the way people communicate. </p>">
+                <a href="/platform/mobile-fringe-android" data-largesrc="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_android_inside.jpg" data-title="Android - the fastest growing marketplace" data-description="<p>Android development continues to have&nbsp;tremendous growth. &nbsp;Android is reshaping the way people communicate. </p>">
                     <div class="og-overlay"></div>
                     <span class="og-title">Android - the fastest growing marketplace</span>
                     <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_android.jpg" alt="" style="width: 300px;">
