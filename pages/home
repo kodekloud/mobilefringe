@@ -413,7 +413,7 @@ display:none;
                         <a href="/posts/{{slug}}" title="See Geo-Location For Rogers Find My Phone"><img style="width: 100%; max-width: 380px; margin-bottom: 13px; float: left;" src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/ps_geolocation_2x.jpg" alt="" /></a>
                     </div>
                     <div class="animated fadeInUp" data-effect="fadeInUp">
-                        <a href="http://www.mobilefringe.com/app/device-manager/" title="Device Manager"><img class="mediaright2" style="width: 100%; max-width: 380px; margin-bottom: 10px; float: left;" src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/ps_dm_2x.jpg" alt="" /></a>
+                        <a href="/posts/{{slug}}" title="Device Manager"><img class="mediaright2" style="width: 100%; max-width: 380px; margin-bottom: 10px; float: left;" src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/ps_dm_2x.jpg" alt="" /></a>
                     </div>
                     <div class="clearfix"></div>
                 </div>
