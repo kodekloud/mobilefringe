@@ -599,7 +599,7 @@ display:none;
                     <div class="col-md-6 mg-sm animated fadeIn" data-effect="fadeIn">
                         <div class="wpcf7" id="wpcf7-f437-o1" lang="en-US" dir="ltr">
                             <div class="screen-reader-response"></div>
-                                <form name="" action="/#wpcf7-f437-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+                                <form>
                                     <div class="text-left">
                                         <div class="form-group">
                                             <label class="required" for="yourEmail">Email address:</label><br>
