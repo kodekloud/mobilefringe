@@ -427,6 +427,73 @@ display:none;
 		</div> <!-- .page-content -->
 	</div> <!-- .container -->
 </section>
+<div id="377-2" class="page-wrapper full-width section-wrapper light-bg" style="background-color:#ffffff">
+	<hr class="title-break">
+	<div class="title-area section-title">
+		<h2 class="title animated fadeInDown" data-effect="fadeInDown">OUR DEVELOPMENT PLATFORMS </h2>
+	</div> <!-- .section-title -->
+	<div class="page-fullwdth-content">	
+		<ul id="og-grid" class="og-grid">
+		    <li class="animated fadeIn" data-effect="fadeIn">
+		        <a href="" data-largesrc="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/prod_catalyst_inside.jpg" data-link-url="http://www.mobilefringe.com/development_platform/rogerscatalystexperts/" data-link-label="More Info" data-title="Rogers Catalyst Experts" data-description="<p>We are experts in delivering high quality integration applications with speed and precision. We excel in web &amp; mobile web development, account and billing system integration, Rogers Catalyst integration, mobile app development and much more.<strong>Our Rogers projects include:</strong></p>">
+                    <div class="og-overlay"></div>
+                    <span class="og-title">Rogers Catalyst Experts</span>
+                    <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/prod_catalyst.jpg" alt="" style="width: 300px;">
+                </a>
+            </li>
+            <li class="animated fadeIn" data-effect="fadeIn">
+                <a href="" data-largesrc="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_rails_inside.jpg" data-link-url="http://www.mobilefringe.com/development_platform/ruby-on-rails/" data-link-label="More Info" data-title="Ruby on Rails" data-description="<p>Ruby on Rails is the fastest growing web technology in the industry. What makes RoR so amazing? Speed! With over 7 years of RoR experience our team can deliver enterprise level solutions at amazing speeds. </p>">
+                    <div class="og-overlay"></div>
+                    <span class="og-title">Ruby on Rails</span>
+                    <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_rails.jpg" alt="" style="width: 300px;">
+                </a>
+            </li>
+            <li class="animated fadeIn" data-effect="fadeIn">
+                <a href="" data-largesrc="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_apple_inside.jpg" data-link-url="http://www.mobilefringe.com/development_platform/ios/" data-link-label="More Info" data-title="iOS Development" data-description="<p><strong>iOS</strong> development has been at been at the forefront of the mobile application market. With over 40 native iPhone &amp; iPad apps our experienced iOS developers are industry leaders. Our native iOS app have millions of view and have been featured by Apple and garnered critical acclaim. &nbsp;</p>">
+                    <div class="og-overlay"></div>
+                    <span class="og-title">iOS Development</span>
+                    <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_apple.jpg" alt="" style="width: 300px;">
+                </a>
+            </li>
+            <li class="animated fadeIn" data-effect="fadeIn">
+                <a href="" data-largesrc="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_ibeacons_inside.jpg" data-link-url="http://www.mobilefringe.com/development_platform/ibeacons/" data-link-label="More Info" data-title="iBeacons" data-description="<p>Rarely does a technology generate so much buzz as iBeacons have in the past years. If you haven’t already heard about the potential of iBeacons...then you soon will. With all the press around iBeacons its easy to get lost in what it can really offer to an industry like the shopping center industry and retail in general.</p>">
+                    <div class="og-overlay"></div>
+                    <span class="og-title">iBeacons</span>
+                    <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_ibeacons.jpg" alt="" style="width: 300px;">
+                </a>
+            </li>
+            <li class="animated fadeIn" data-effect="fadeIn">
+                <a href="" data-largesrc="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_android_inside.jpg" data-link-url="http://www.mobilefringe.com/development_platform/android/" data-link-label="More Info" data-title="Android - the fastest growing marketplace" data-description="<p>Android development continues to have&nbsp;tremendous growth. &nbsp;Android is reshaping the way people communicate. </p>">
+                    <div class="og-overlay"></div>
+                    <span class="og-title">Android - the fastest growing marketplace</span>
+                    <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_android.jpg" alt="" style="width: 300px;">
+                </a>
+            </li>
+            <li class="animated fadeIn" data-effect="fadeIn">
+                <a href="" data-largesrc="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_jq_inside.jpg" data-link-url="http://www.mobilefringe.com/development_platform/jquery/" data-link-label="More Info" data-title="JQuery - Unleash the power of the web" data-description="<p>jQuery not only provides developers with a great set of tools, it provides users with the very best user experience on the market. </p>">
+                    <div class="og-overlay"></div>
+                    <span class="og-title">JQuery - Unleash the power of the web</span>
+                    <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_jq.jpg" alt="" style="width: 300px;">
+                </a>
+            </li>
+            <li class="animated fadeIn" data-effect="fadeIn">
+                <a href="" data-largesrc="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_bb_inside.jpg" data-link-url="http://www.mobilefringe.com/development_platform/blackberry/" data-link-label="More Info" data-title="Blackberry Development" data-description="<p>BlackBerry smartphones maintain a strong presence within the mobile market place, with the launch of Passport, new opportunities may arise. </p>">
+                    <div class="og-overlay"></div>
+                    <span class="og-title">Blackberry Development</span>
+                    <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_bb.jpg" alt="" style="width: 300px;">
+                </a>
+            </li>
+            <li class="animated fadeIn" data-effect="fadeIn">
+                <a href="" data-largesrc="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_html_inside.jpg" data-link-url="http://www.mobilefringe.com/development_platform/html5/" data-link-label="More Info" data-title="HTML5 - The Future of the Web" data-description="<p>HTML5 continues to drive amazing web solutions that work on all modern mobile devices and browsers.&nbsp;</p>">
+                    <div class="og-overlay"></div>
+                    <span class="og-title">HTML5 - The Future of the Web</span>
+                    <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_html.jpg" alt="" style="width: 300px;">
+                </a>
+            </li>
+        </ul>
+    </div> <!-- .page-fullwdth-content -->
+</div>
+
 <div id="background-video" class="page-wrapper full-width section-wrapper light-bg" style="background-color:#ffffff">
 	<div class="page-fullwdth-content">	
 		<div class="video-wrapper">
