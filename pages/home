@@ -492,7 +492,7 @@ display:none;
                 </a>
             </li>
             <li class="animated fadeIn" data-effect="fadeIn">
-                <a href="/platform/mobile-fringe-jquery" data-largesrc="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_jq_inside.jpg"  data-title="JQuery - Unleash the power of the web" data-description="<p>jQuery not only provides developers with a great set of tools, it provides users with the very best user experience on the market. </p>">
+                <a href="/platform/mobile-fringe-jquery" data-largesrc="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_jq_inside.jpg" data-title="JQuery - Unleash the power of the web" data-description="<p>jQuery not only provides developers with a great set of tools, it provides users with the very best user experience on the market. </p>">
                     <div class="og-overlay"></div>
                     <span class="og-title">JQuery - Unleash the power of the web</span>
                     <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_jq.jpg" alt="" style="width: 300px;">
