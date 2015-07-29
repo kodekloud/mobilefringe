@@ -48,6 +48,11 @@ function renderPostDetails(container, template, collection){
     $(container).html(item_rendered.join(''));
 }
 
+
+
+function renderTestimonial(container, template, collection){
+}
+
 function get_month (id){
     switch(id) {
         case 0:
