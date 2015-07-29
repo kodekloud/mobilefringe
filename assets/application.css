@@ -15,6 +15,7 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
     color: #57b6dd;
     font-size: 16px;
     font-weight: 700;
+    margin-top:0;
 }
 .width_100{
     width:100%;
