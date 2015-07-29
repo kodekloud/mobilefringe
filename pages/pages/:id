@@ -8,7 +8,7 @@
     <div class="row">
         <div class="col-md-9 post_container">
             <div id="post_container">
-                <h2 class="post-title" id="page_title"></h2>
+                <h1 class="<h1 class="entry-title title">Privacy Policy</h1>" id="page_title"></h1>
                 <div id="mm_page_content"></div>
             </div>
         </div>
