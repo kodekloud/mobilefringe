@@ -11,7 +11,7 @@
                 <script id="post_template" type="x-tmpl-mustache/text">
                     <img class="width_100" src="{{post_image}}" />
                     <h2 class="post-title" id="page_title">{{title}}</h2>
-                    {{{html_body}}}
+                    <div id="">{{{html_body}}}</div>
                 </script>
             </div>
         </div>
@@ -55,15 +55,7 @@
             var pages_json = prefix+"/pages/" + slug + ".json"
             $.getJSON(pages_json).done(function(data) {
                 $("#page_title").html(data.title)
-                $("#mobile_page_title").html(data.title)
                 $('#mm_page_content').html(data.body);
-                $('iframe').addClass('scrolloff')
-                $('#mm_page_content').on('click', function () {
-                    $('iframe').removeClass('scrolloff');
-                });
-                $("iframe").mouseleave(function () {
-                    $(this).addClass('scrolloff');
-                });
             }).fail(function(jqXHR) {
                 if (jqXHR.status == 404) {
                     $("#404_msg").fadeIn("fast");
