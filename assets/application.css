@@ -22,6 +22,7 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
     margin-top: 5px;
     margin-bottom: 0;
     font-size: 14px;
+    font-style: italic;
     line-height: 23px;
 }
 .post_side_title{
