@@ -9,7 +9,7 @@
         <div class="col-md-9 post_container">
             <div id="post_container">
                 <h1 class="entry-title text-center" id="page_title"></h1>
-                <hr class="text-center title-break">
+                <hr class="margin_auto title-break">
                 <div id="mm_page_content"></div>
             </div>
         </div>
