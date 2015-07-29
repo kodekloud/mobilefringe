@@ -57,6 +57,7 @@ function renderTestimonial(container, template, collection){
         var rendered = Mustache.render(template_html,val);
         item_rendered.push(rendered);
     });
+    $(container).html(item_rendered.join(''));
 }
 
 function get_month (id){
