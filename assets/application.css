@@ -19,7 +19,7 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
 }
 .client_info{
     color: #95a3a6;
-    margin-top: 5px;
+    margin-top: 15px;
     margin-bottom: 0;
     font-size: 14px;
     font-style: italic;
