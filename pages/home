@@ -97,14 +97,14 @@
                 </a>
             </li>
             <li class="animated fadeIn" data-effect="fadeIn">
-                <a href="/posts/mobile-fringe-ruby-on-rails" data-largesrc="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_rails_inside.jpg" data-title="Ruby on Rails" data-description="<p>Ruby on Rails is the fastest growing web technology in the industry. What makes RoR so amazing? Speed! With over 7 years of RoR experience our team can deliver enterprise level solutions at amazing speeds. </p>">
+                <a href="/posts/ruby-on-rails" data-largesrc="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_rails_inside.jpg" data-title="Ruby on Rails" data-description="<p>Ruby on Rails is the fastest growing web technology in the industry. What makes RoR so amazing? Speed! With over 7 years of RoR experience our team can deliver enterprise level solutions at amazing speeds. </p>">
                     <div class="og-overlay"></div>
                     <span class="og-title">Ruby on Rails</span>
                     <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_rails.jpg" alt="" style="width: 300px;">
                 </a>
             </li>
             <li class="animated fadeIn" data-effect="fadeIn">
-                <a href="/posts/mobile-fringe-ios" data-largesrc="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_apple_inside.jpg" data-title="iOS Development" data-description="<p><strong>iOS</strong> development has been at been at the forefront of the mobile application market. With over 40 native iPhone &amp; iPad apps our experienced iOS developers are industry leaders. Our native iOS app have millions of view and have been featured by Apple and garnered critical acclaim. &nbsp;</p>">
+                <a href="/posts/ios" data-largesrc="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_apple_inside.jpg" data-title="iOS Development" data-description="<p><strong>iOS</strong> development has been at been at the forefront of the mobile application market. With over 40 native iPhone &amp; iPad apps our experienced iOS developers are industry leaders. Our native iOS app have millions of view and have been featured by Apple and garnered critical acclaim. &nbsp;</p>">
                     <div class="og-overlay"></div>
                     <span class="og-title">iOS Development</span>
                     <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/dev_apple.jpg" alt="" style="width: 300px;">
