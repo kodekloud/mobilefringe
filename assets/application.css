@@ -14,6 +14,7 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
 .post_container{
     border-bottom: solid #57b6dd 1px;
     margin-bottom: 30px;
+    padding-bottom:15px;
 }
 .container_side{
     padding:0 25px 25px;
