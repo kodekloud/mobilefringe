@@ -53,7 +53,8 @@ function renderTestimonial(container, template, collection){
     var item_rendered = [];
     var template_html = $(template).html();
     item_list.push(collection);
-    
+    $.each( item_list , function( key, val ) {
+    });
 }
 
 function get_month (id){
