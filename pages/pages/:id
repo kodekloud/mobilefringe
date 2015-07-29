@@ -51,7 +51,25 @@
             var testimonials = getBlogDataBySlug('mobilefringe-testimonials').posts;
             var testimonial = testimonials[Math.floor(Math.random()*testimonials.length)];
             renderTestimonial('#testimonial_container' ,'#testimonial_template', testimonial)
-            renderPostDetails("#post_container", "#post_template", post);
+            prefix = get_prefix();
+            var pages_json = prefix+"/pages/" + slug + ".json"
+            $.getJSON(pages_json).done(function(data) {
+                
+                $("#page_title").html(data.title)
+                $("#mobile_page_title").html(data.title)
+                $('#mm_page_content').html(data.body);
+                $('iframe').addClass('scrolloff')
+                $('#mm_page_content').on('click', function () {
+                    $('iframe').removeClass('scrolloff');
+                });
+                $("iframe").mouseleave(function () {
+                    $(this).addClass('scrolloff');
+                });
+            }).fail(function(jqXHR) {
+                if (jqXHR.status == 404) {
+                    $("#404_msg").fadeIn("fast");
+                }
+            }); 
         }
         loadMallData(renderAll); 
     })
