@@ -11,9 +11,6 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
     color: #57b6dd;
 }
 
-.margin_auto{
-    margin:auto;
-}
 .post_container{
     border-bottom: solid #57b6dd 1px;
     margin-bottom: 30px;
