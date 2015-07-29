@@ -10,7 +10,7 @@
             <div id="post_container">
                 <script id="post_template" type="x-tmpl-mustache/text">
                     <img class="width_100" src="{{post_image}}" />
-                    <h2 class="post-title">{{title}}</h2>
+                    <h2 class="post-title" id="page_title">{{title}}</h2>
                     {{{html_body}}}
                 </script>
             </div>
