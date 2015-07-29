@@ -1,0 +1,58 @@
+<style>
+    body{
+        padding-top: 68px;
+        
+}
+</style>
+<div class="container margin_top_30">
+    <div class="row">
+        <div class="col-md-9 post_container">
+            <div id="post_container">
+                <script id="post_template" type="x-tmpl-mustache/text">
+                    <img class="width_100" src="{{post_image}}" />
+                    <h2 class="post-title">{{title}}</h2>
+                    {{{html_body}}}
+                </script>
+            </div>
+        </div>
+        <div class="col-md-3 container_side">
+            <h3 class="post_side_title">Testimonial</h3>
+            <div id="testimonial_container">
+                <script id="testimonial_template" type="x-tmpl-mustache/text">
+                    {{{html_body}}}
+                    <p class="client_info">
+                        {{title}}
+                        <br />
+                        {{author}}
+                        <br />
+                        {{institute}}
+                    </p>
+                </script>
+            </div>
+            <div class="margin_top_30"></div>
+            <h3 class="post_side_title">Newsletter</h3>
+            <p>
+                Subscribe to our newsletter and get information catered to the retail property management industry and updated features.
+            </p>
+            <br />
+            <input type="text" class="form-control" placeholder="Email" />
+            <br />
+            <input type="submit" value="Subscribe" class="btn btn-inverse" style="margin:0" id="subscribe_newsletter"/>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function(e){
+        function renderAll(){
+            var pathArray = window.location.pathname.split( '/' );
+            var slug = pathArray[pathArray.length-1];
+            var post = getPublishedPostDetailsBySlug(slug);
+            var testimonials = getBlogDataBySlug('mobilefringe-testimonials').posts;
+            var testimonial = testimonials[Math.floor(Math.random()*testimonials.length)];
+            renderTestimonial('#testimonial_container' ,'#testimonial_template', testimonial)
+            renderPostDetails("#post_container", "#post_template", post);
+        }
+        loadMallData(renderAll); 
+    })
+</script>
