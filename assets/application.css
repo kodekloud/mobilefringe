@@ -10,7 +10,11 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
 .post-title{
     color: #57b6dd;
 }
-
+.post_container{
+    padding-bottom: 30px;
+    border-bottom: solid #57b6dd 1px;
+    margin-bottom: 30px;
+}
 .post_side_title{
     color: #57b6dd;
     font-size: 16px;
