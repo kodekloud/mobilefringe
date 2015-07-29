@@ -8,7 +8,6 @@
     <div class="row">
         <div class="col-md-9 post_container">
             <div id="post_container">
-                <img class="width_100" src="{{post_image}}" />
                 <h2 class="post-title" id="page_title"></h2>
                 <div id="mm_page_content"></div>
             </div>
