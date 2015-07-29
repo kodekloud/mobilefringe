@@ -7,7 +7,7 @@ function renderPostDetails(container, template, collection){
         if (val.image_url.indexOf('missing.png') > -1) {
             val.post_image = "http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/3c6a566470bd84023afe06935df98ea8/MFlogo.png";
         } else {
-            val.post_image = "http://stc.mallmaverickstaging.com/" + val.image_url;
+            val.post_image = val.image_url;
         }
         if(val.body.length > 100){
             val.description_short = val.body.substring(0,100) + "...";
