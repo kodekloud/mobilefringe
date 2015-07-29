@@ -11,7 +11,7 @@
                 <script id="post_template" type="x-tmpl-mustache/text">
                     <img class="width_100" src="{{post_image}}" />
                     <h2 class="post-title" id="page_title">{{title}}</h2>
-                    <div id="">{{{html_body}}}</div>
+                    <div id="mm_page_content">{{{html_body}}}</div>
                 </script>
             </div>
         </div>
