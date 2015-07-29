@@ -17,6 +17,13 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
 .container_side{
     padding:0 25px 25px;
 }
+.client_info{
+    color: #95a3a6;
+    margin-top: 5px;
+    margin-bottom: 0;
+    font-size: 14px;
+    line-height: 23px;
+}
 .post_side_title{
     color: #57b6dd;
     font-size: 16px;
