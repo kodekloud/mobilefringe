@@ -156,7 +156,7 @@
 	</div> <!-- .section-title -->
 	<div class="page-fullwdth-content">	
 		<ul class="og-grid">
-            <li class="animated fadeIn" data-effect="fadeIn" style="transition: height 350ms ease; height: 300px;">
+            <li class="animated fadeIn" data-effect="fadeIn">
                 <a href="/posts/device-manager/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2015/01/DM_SmartPhone-Screens-presentation-Mock-up-desktop.jpg" data-title="Device Manager" data-description="<p>Small businesses can deploy, manage, secure, track and support wireless devices with Device Manager. Locate, Track, Text, or Alerts and lock down devices to a team members work-mobile device.</p>">
                     <div class="og-overlay"></div>
                     <span class="og-title">Device Manager</span>
