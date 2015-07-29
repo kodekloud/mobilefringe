@@ -90,6 +90,62 @@
         <div>
             {{yield}}
         </div>
+        <section id="contact">
+            <div class="section-wrapper-2">
+                <div class="section-title">
+                    <hr class="title-break">
+                    <h2 class="title animated fadeInDown" data-effect="fadeInDown">GET IN TOUCH</h2>
+                    <h3 class="subtitle animated fadeInUp" data-effect="fadeInUp" style="margin-bottom: 30px; color:#25292c; padding-left: 25px; padding-right: 25px;">Don't hesitate to get in touch with us. <br>We would love to discuss on your project</h3>
+                </div>
+                <div class="section-inner">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-6 mg-sm animated fadeIn" data-effect="fadeIn">
+                                <div class="wpcf7">
+                                    <div class="screen-reader-response"></div>
+                                        <form>
+                                            <div class="text-left">
+                                                <div class="form-group">
+                                                    <label class="required" for="yourEmail">Email address:</label><br>
+                                                    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="form-control" id="yourEmail" aria-required="true" aria-invalid="false"></span>
+                                                </div>
+                                                <div class="form-group">
+                                                    <label class="required" for="yourName">Name</label><br>
+                                                    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="form-control" id="yourName" aria-required="true" aria-invalid="false"></span>
+                                                </div>
+                                                <div class="form-group">
+                                                    <label class="required" for="yourMessage">Message</label><br>
+                                                    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="4" class="form-control" id="yourMessage" aria-required="true" aria-invalid="false"></textarea></span>
+                                                </div>
+                                                <div class="form-group">
+                                                    <input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit btn btn-lg btn-light btn-default"><img class="ajax-loader" src="http://www.mobilefringe.com/wp-content/plugins/contact-form-7/images/ajax-loader.gif" alt="Sending ..." style="visibility: hidden;">
+                                                </div>
+                                            </div>
+                                            <div class="wpcf7-response-output wpcf7-display-none"></div>
+                                        </form>
+                                    </div>
+                                </div>
+                            <div class="col-md-6 mg-sm text-left animated fadeIn" data-effect="fadeIn">
+                                <h4 style="margin-top: 0px; color:#25292c">Get to know us</h4>
+                                <p style="color:#25292c">
+                                    If you are interested in any of our mobile products or services, please do not hesitate to send us an email.
+                                </p>
+                                <div class="spacer small"></div>
+                                <h4 style="color:#25292c">Mobile Fringe Office</h4>
+                                <p>
+                                    216 Chrislea Road - Unit 502
+                                    <br>Woodbridge, ON - L4L 8S5
+                                    <br>Canada
+                                </p>
+                                <br>
+                                <br>
+                                <br>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
         <section id="footer">
             <div class="section-wrapper">
                 <footer class="footer white section-wrapper" style="padding-top: 0px;">
