@@ -24,6 +24,8 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
     font-size: 14px;
     font-style: italic;
     line-height: 23px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
 }
 .post_side_title{
     color: #57b6dd;
