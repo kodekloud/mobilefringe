@@ -55,7 +55,7 @@ function renderTestimonial(container, template, collection){
     item_list.push(collection);
     $.each( item_list , function( key, val ) {
         var rendered = Mustache.render(template_html,val);
-        val.institute = va.tag[0]
+        val.institute = va.tag[0];
         item_rendered.push(rendered);
     });
     $(container).html(item_rendered.join(''));
