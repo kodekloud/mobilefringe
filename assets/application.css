@@ -4,6 +4,9 @@ body {
     font-size: 14px;
     color: #111111;
 }
+a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.current-menu-parent > a, .team-box ul.social li a {
+    color: #4CDDF3;
+}
 .post-title{
     color: #57b6dd;
 }
