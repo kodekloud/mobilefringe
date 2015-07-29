@@ -35,8 +35,6 @@ function renderPostDetails(container, template, collection){
             val.prev_slug = prev_p.slug;
             val.prev_post_show = "display:inline-block";
         }
-        
-        console.log(val)
         if (val.tag != undefined){
             val.tag_list = val.tag.join(', ');
         }
@@ -55,6 +53,7 @@ function renderTestimonial(container, template, collection){
     var item_rendered = [];
     var template_html = $(template).html();
     item_list.push(collection);
+    
 }
 
 function get_month (id){
