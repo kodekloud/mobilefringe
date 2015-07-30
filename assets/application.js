@@ -1,6 +1,6 @@
 /*Created 2015-07-21  by Rajbir Karan Singh*/
 
-$('.alpha_list a').click(function(e){  
+$('.navlist a').click(function(e){  
        $('html, body').stop().animate({scrollTop: $( $(this).attr('href') ).offset().top - 60}, 800);
     e.preventDefault();
 });
