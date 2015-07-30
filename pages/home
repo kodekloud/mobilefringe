@@ -206,7 +206,7 @@
             </a>
             </li>
             <li class="animated fadeIn" data-effect="fadeIn">
-                <a href="/posts/kodekloud-for-developers" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2014/12/KodeKloude_SmartPhone-Screens-presentation-Mock-up-desktop1.jpg" data-title="Kode Kloud For Developers" data-description="<p>The next generation platform to build, host, and manage web apps in real time, no deployments or server side coding is called KodeKloud.io.&nbsp;Built by developer for developers.</p>">
+                <a href="/posts/kodekloud" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2014/12/KodeKloude_SmartPhone-Screens-presentation-Mock-up-desktop1.jpg" data-title="Kode Kloud For Developers" data-description="<p>The next generation platform to build, host, and manage web apps in real time, no deployments or server side coding is called KodeKloud.io.&nbsp;Built by developer for developers.</p>">
                     <div class="og-overlay"></div>
                     <span class="og-title">Kode Kloud For Developers</span>
                     <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/4bbe946569d477369d5ca9eec46d21bf/KodeKloude_Gallery-Mock-up1.jpg" alt="" style="width: 300px;">
