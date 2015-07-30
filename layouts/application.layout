@@ -71,7 +71,7 @@
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="navbar-collapse collapse" id="nav-menu">
                     <ul id="menu-main-menu" class="nav navbar-nav navbar-right navlist">
-                        <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/#full-support" class="">PRODUCTS</a></li>
+                        <li><a href="/#full-support" class="">PRODUCTS</a></li>
                         <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/#background-video" class="">MALL MAVERICK</a></li>
                         <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/#377-2" class="">DEVELOPMENT</a></li>
                         <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/#app-portfolio-mobile-apps" class="">RECENT WORK</a></li>
