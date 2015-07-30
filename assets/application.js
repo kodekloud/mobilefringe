@@ -1,6 +1,7 @@
 /*Created 2015-07-21  by Rajbir Karan Singh*/
 
 $('.navlist a').click(function(e){  
+    console.log($(this).attr('href'))
     $('html, body').stop().animate({scrollTop: $( $(this).attr('href') ).offset().top}, 800);
     e.preventDefault();
 });
