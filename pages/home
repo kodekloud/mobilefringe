@@ -46,7 +46,7 @@
                         <a href="/posts/geolocation" title="See Geo-Location For Rogers Find My Phone"><img style="width: 100%; max-width: 380px; margin-bottom: 13px; float: left;" src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/ps_geolocation_2x.jpg" alt="" /></a>
                     </div>
                     <div class="animated fadeInUp" data-effect="fadeInUp">
-                        <a href="/posts/device-manager/" title="Device Manager"><img class="mediaright2" style="width: 100%; max-width: 380px; margin-bottom: 10px; float: left;" src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/ps_dm_2x.jpg" alt="" /></a>
+                        <a href="/posts/device-manager" title="Device Manager"><img class="mediaright2" style="width: 100%; max-width: 380px; margin-bottom: 10px; float: left;" src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/ps_dm_2x.jpg" alt="" /></a>
                     </div>
                     <div class="clearfix"></div>
                 </div>
@@ -157,56 +157,56 @@
 	<div class="page-fullwdth-content">	
 		<ul class="og-grid">
             <li class="animated fadeIn" data-effect="fadeIn">
-                <a href="/posts/device-manager/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2015/01/DM_SmartPhone-Screens-presentation-Mock-up-desktop.jpg" data-title="Device Manager" data-description="<p>Small businesses can deploy, manage, secure, track and support wireless devices with Device Manager. Locate, Track, Text, or Alerts and lock down devices to a team members work-mobile device.</p>">
+                <a href="/posts/device-manager" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2015/01/DM_SmartPhone-Screens-presentation-Mock-up-desktop.jpg" data-title="Device Manager" data-description="<p>Small businesses can deploy, manage, secure, track and support wireless devices with Device Manager. Locate, Track, Text, or Alerts and lock down devices to a team members work-mobile device.</p>">
                     <div class="og-overlay"></div>
                     <span class="og-title">Device Manager</span>
                     <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/4bbe946569d477369d5ca9eec46d21bf/DM_Gallery-Mock-up.jpg" alt="" style="width: 300px;">
                 </a>
             </li>
             <li class="animated fadeIn" data-effect="fadeIn">
-                <a href="/posts/ibeacons-at-toronto-eaton-centre-campaign/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2015/01/img_inside_ibeacon.jpg" data-title="iBeacons at Toronto Eaton Centre Campaign" data-description="<p>Using iBeacons for shopping, payments, way-finding and interacting is amazing. With our partner, Estimote, we use iBeacons for Retail using Mall Maverick solution.</p>">
+                <a href="/posts/ibeacons-at-toronto-eaton-centre-campaign" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2015/01/img_inside_ibeacon.jpg" data-title="iBeacons at Toronto Eaton Centre Campaign" data-description="<p>Using iBeacons for shopping, payments, way-finding and interacting is amazing. With our partner, Estimote, we use iBeacons for Retail using Mall Maverick solution.</p>">
                     <div class="og-overlay"></div>
                     <span class="og-title">iBeacons at Toronto Eaton Centre Campaign</span>
                     <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/4bbe946569d477369d5ca9eec46d21bf/img_ibeacons_small.jpg" alt="" style="width: 300px;">
                 </a>
             </li>
             <li class="animated fadeIn" data-effect="fadeIn">
-                <a href="/posts/geo-location-find-my-phone/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2014/12/img_inside_career_aboutus.jpg" data-title="Geo-Location Find My Phone" data-description="<p>Send a geo-fence text message or geo-locate a phone using our managed services for Geo-Fence Location Messaging, Find-A-Phone and Geo-trigger alerts.Mobile Fringe’s expertise in cellular geo location and messaging solutions is the best in the industry.</p>">
+                <a href="/posts/geo-location-find-my-phone" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2014/12/img_inside_career_aboutus.jpg" data-title="Geo-Location Find My Phone" data-description="<p>Send a geo-fence text message or geo-locate a phone using our managed services for Geo-Fence Location Messaging, Find-A-Phone and Geo-trigger alerts.Mobile Fringe’s expertise in cellular geo location and messaging solutions is the best in the industry.</p>">
                     <div class="og-overlay"></div>
                     <span class="og-title">Geo-Location Find My Phone</span>
                     <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/4bbe946569d477369d5ca9eec46d21bf/rpf-small.jpg" alt="" style="width: 300px;">
                 </a>
             </li>
             <li class="animated fadeIn" data-effect="fadeIn">
-                <a href="/posts/yorkdale-app/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2014/12/Yorkdale_SmartPhone-Screens-presentation-Mock-up.jpg" data-title="Yorkdale Shopping Centre" data-description="<p>Located mid-town Toronto, ON Canada, this app features&nbsp;real time parking availability, fashion trends, mall directions, store information and promotions. Toronto's premier fashion destination featuring 240 stores and services. The Yorkdale app has the following features:&nbsp;</p>">
+                <a href="/posts/yorkdale-app" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2014/12/Yorkdale_SmartPhone-Screens-presentation-Mock-up.jpg" data-title="Yorkdale Shopping Centre" data-description="<p>Located mid-town Toronto, ON Canada, this app features&nbsp;real time parking availability, fashion trends, mall directions, store information and promotions. Toronto's premier fashion destination featuring 240 stores and services. The Yorkdale app has the following features:&nbsp;</p>">
                     <div class="og-overlay"></div>
                     <span class="og-title">Yorkdale Shopping Centre</span>
                     <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/4bbe946569d477369d5ca9eec46d21bf/Yorkdale_Gallery-Mock-up.jpg" alt="" style="width: 300px;">
                 </a>
             </li>
             <li class="animated fadeIn" data-effect="fadeIn">
-                <a href="/posts/amazing-analytics-marketing-reports/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2015/01/img_inside_analitics.jpg" data-title="Amazing Analytics Marketing Reports" data-description="<p>What you see on the outside, sometimes the real beauty lies hidden deep within the “big data”. We recognize that their is a story behind each click so we create amazing web analytics reports for advanced lead generation and business insights. We forge the data quest for our clients to better understand their customer with omni-channel marketing analytics and multi-channel data collection.</p>">
+                <a href="/posts/amazing-analytics-marketing-reports" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2015/01/img_inside_analitics.jpg" data-title="Amazing Analytics Marketing Reports" data-description="<p>What you see on the outside, sometimes the real beauty lies hidden deep within the “big data”. We recognize that their is a story behind each click so we create amazing web analytics reports for advanced lead generation and business insights. We forge the data quest for our clients to better understand their customer with omni-channel marketing analytics and multi-channel data collection.</p>">
                     <div class="og-overlay"></div>
                     <span class="og-title">Amazing Analytics Marketing Reports</span>
                     <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/4bbe946569d477369d5ca9eec46d21bf/img_inside_analitics_small.jpg" alt="" style="width: 300px;">
                 </a>
             </li>
             <li class="animated fadeIn" data-effect="fadeIn">
-                <a href="/posts/north-park/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2014/12/NP_SmartPhone-Screens-presentation-Mock-up.jpg" data-title="NorthPark Center Dallas" data-description="<p>Located in Dallas, TX, this app features unique interactive map and easy-to-navigate, in-mall directions to locate favorite store, dining and entertainment options, push notifications from favorite retailers for a customized shopping experience and a self-guided tour of NorthPark Center’s famous art collection utilizing an interactive map and educational resources.</p>">
+                <a href="/posts/north-park" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2014/12/NP_SmartPhone-Screens-presentation-Mock-up.jpg" data-title="NorthPark Center Dallas" data-description="<p>Located in Dallas, TX, this app features unique interactive map and easy-to-navigate, in-mall directions to locate favorite store, dining and entertainment options, push notifications from favorite retailers for a customized shopping experience and a self-guided tour of NorthPark Center’s famous art collection utilizing an interactive map and educational resources.</p>">
                     <div class="og-overlay"></div>
                     <span class="og-title">NorthPark Center Dallas</span>
                     <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/4bbe946569d477369d5ca9eec46d21bf/NP_Gallery-Mock-up.jpg" alt="" style="width: 300px;" />
                 </a>
             </li>
             <li class="animated fadeIn" data-effect="fadeIn">
-                <a href="/posts/m2m-billing-rogers/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2015/01/m2m-inside.jpg" data-title="Rogers M2M Billing Rogers" data-description="<p>Stay connect with Machine to Machine solutions.&nbsp; With extensive API process experience, our M2M Billing Network Portal has processed millions in transactions. Mobile Fringe collaborated with one of the the largest telecommunications company in North America offering them comprehensive M2M services.</p>">
+                <a href="/posts/m2m-billing-rogers" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2015/01/m2m-inside.jpg" data-title="Rogers M2M Billing Rogers" data-description="<p>Stay connect with Machine to Machine solutions.&nbsp; With extensive API process experience, our M2M Billing Network Portal has processed millions in transactions. Mobile Fringe collaborated with one of the the largest telecommunications company in North America offering them comprehensive M2M services.</p>">
                 <div class="og-overlay"></div>
                 <span class="og-title">Rogers M2M Billing Rogers</span>
                 <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/4bbe946569d477369d5ca9eec46d21bf/m2m-small.jpg" alt="" style="width: 300px;">
             </a>
             </li>
             <li class="animated fadeIn" data-effect="fadeIn">
-                <a href="/posts/kode-kloud-for-developers/" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2014/12/KodeKloude_SmartPhone-Screens-presentation-Mock-up-desktop1.jpg" data-title="Kode Kloud For Developers" data-description="<p>The next generation platform to build, host, and manage web apps in real time, no deployments or server side coding is called KodeKloud.io.&nbsp;Built by developer for developers.</p>">
+                <a href="/posts/kodekloud-for-developers" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2014/12/KodeKloude_SmartPhone-Screens-presentation-Mock-up-desktop1.jpg" data-title="Kode Kloud For Developers" data-description="<p>The next generation platform to build, host, and manage web apps in real time, no deployments or server side coding is called KodeKloud.io.&nbsp;Built by developer for developers.</p>">
                     <div class="og-overlay"></div>
                     <span class="og-title">Kode Kloud For Developers</span>
                     <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/4bbe946569d477369d5ca9eec46d21bf/KodeKloude_Gallery-Mock-up1.jpg" alt="" style="width: 300px;">
