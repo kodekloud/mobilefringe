@@ -174,7 +174,7 @@
         </div>
         <script type='text/javascript' src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js'></script>
         <script src="/application.js"></script>
-        
+        <script type='text/javascript' src='http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/3c6a566470bd84023afe06935df98ea8/jquery.scrollTo.js'></script>
         <script type='text/javascript' src='http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/3c6a566470bd84023afe06935df98ea8/jquery.nav.js'></script>
         <script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/jquery.parallax.js"></script>
         <script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/modernizr.custom.js"></script>
