@@ -151,11 +151,11 @@
                 <footer class="footer white section-wrapper" style="padding-top: 0px;">
                     <nav class="footer-nav">
                         <ul id="menu-secondary-menu" class="">
-                            <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/pages/mobile-fringe-full-client-list" class="no-scroll">Clients List</a></li>
-                            <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/pages/mobile-fringe-our-portfolio" class="no-scroll">Our Apps</a></li>
-                            <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/pages/mobile-fringe-about" class="no-scroll">About Us</a></li>
-                            <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/pages/mobile-fringe-career" class="no-scroll">Work @ Mobile Fringe</a></li>
-                            <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/pages/mobile-fringe-privacy-policy/" class="no-scroll">Privacy Policy</a></li>
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/pages/mobilefringe-full-client-list" class="no-scroll">Clients List</a></li>
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/pages/mobilefringe-our-portfolio" class="no-scroll">Our Apps</a></li>
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/pages/mobilefringe-about" class="no-scroll">About Us</a></li>
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/pages/mobilefringe-career" class="no-scroll">Work @ Mobile Fringe</a></li>
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/pages/mobilefringe-privacy-policy/" class="no-scroll">Privacy Policy</a></li>
                         </ul>
                     </nav>
                     <p class="copyright">© 2014 Mobile Fringe Inc. All rights reserved</p>
