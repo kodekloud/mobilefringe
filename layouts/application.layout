@@ -71,10 +71,10 @@
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="navbar-collapse collapse" id="nav-menu">
                     <ul id="menu-main-menu" class="nav navbar-nav navbar-right navlist">
-                        <li><a href="http://mobilefringe.kodekloud.io#full-support" class="">PRODUCTS</a></li>
-                        <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="//mobilefringe.kodekloud.io/#background-video" class="">MALL MAVERICK</a></li>
-                        <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="//mobilefringe.kodekloud.io//#377-2" class="">DEVELOPMENT</a></li>
-                        <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="//mobilefringe.kodekloud.io//#app-portfolio-mobile-apps" class="">RECENT WORK</a></li>
+                        <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/#full-support" class="">PRODUCTS</a></li>
+                        <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/#background-video" class="">MALL MAVERICK</a></li>
+                        <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/#377-2" class="">DEVELOPMENT</a></li>
+                        <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/#app-portfolio-mobile-apps" class="">RECENT WORK</a></li>
                         <li id="menu-item-354" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown"><a href="#" class="no-scroll dropdown-toggle" data-toggle="dropdown">MORE<b class="caret"></b></a>
                             <ul class="dropdown-menu" role="menu">
                                 <li id="menu-item-458" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/full-client-list" class="no-scroll">CLIENT LIST</a></li>
