@@ -1,8 +1,4 @@
-/*Created 2015-07-21  by Rajbir Karan Singh*/
-
-
-
-
+/*Created 2015-07-21  by Rajbir Karan Singh*/åå
 function renderPostDetails(container, template, collection){
     var item_list = [];
     var item_rendered = [];
