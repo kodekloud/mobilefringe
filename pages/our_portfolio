@@ -23,12 +23,12 @@
     $(document).ready(function(e) {
         function renderAll (){
             var stores = getStoresList();
-            renderStoreList('#og-grid','#store_list_template', stores);
+            renderList('#og-grid','#store_list_template', stores);
         }
         loadMallDataCached(renderAll); 
     })
     
-    function renderStoreList(container, template, collection){
+    function renderList(container, template, collection){
     var item_list = [];
     var item_rendered = [];
     var template_html = $(template).html();
