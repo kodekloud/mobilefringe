@@ -1,0 +1,49 @@
+<style>
+    body{
+        padding-top: 68px;
+    }
+</style>
+<div class="text-center">
+    <h1 class="entry-title">OUR AMAZING CLIENTS</h1>
+    <hr class="title-break">
+</div>
+<ul class="og-grid" id="og-grid">
+    <script id="store_list_template" type="x-tmpl-mustache/text">
+        <li class="animated fadeIn" data-effect="fadeIn" >
+            <a href="{{website}}">
+                <div class="og-overlay"></div>
+                <span class="og-title">{{name}}</span>
+                <img src="{{store_image}}" alt="client logo" style="width: 300px;">
+            </a>
+        </li>
+    </script>
+</ul>
+
+<script>
+    $(document).ready(function(e) {
+        function renderAll (){
+            var stores = getStoresList();
+            renderStoreList('#og-grid','#store_list_template', stores);
+        }
+        loadMallDataCached(renderAll); 
+    })
+    
+    function renderStoreList(container, template, collection){
+    var item_list = [];
+    var item_rendered = [];
+    var template_html = $(template).html();
+    Mustache.parse(template_html);   // optional, speeds up future uses
+    var store_initial="";
+    $.each( collection , function( key, val ) {
+        val.store_image = getImageURL(val.store_front_url);    
+        var rendered = Mustache.render(template_html,val);
+        item_rendered.push(rendered);
+
+    });
+    
+    $(container).show();
+    $(container).html(item_rendered.join(''));
+}
+
+
+</script>
