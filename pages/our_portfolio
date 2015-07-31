@@ -36,7 +36,6 @@
     var store_initial="";
     $.each( collection , function( key, val ) {
         var rendered = Mustache.render(template_html,val);
-        console.log(val)
         item_rendered.push(rendered);
 
     });
