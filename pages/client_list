@@ -13,7 +13,7 @@
             <a href="/posts/device-manager" data-title="Device Manager">
                 <div class="og-overlay"></div>
                 <span class="og-title">Device Manager</span>
-                <img src="{{store_image}}" alt="" style="width: 300px;">
+                <img src="{{store_image}}" alt="client logo" style="width: 300px;">
             </a>
         </li>
     </script>
