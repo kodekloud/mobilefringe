@@ -36,13 +36,8 @@
     var store_initial="";
     $.each( collection , function( key, val ) {
         val.alt_store_front_url = getImageURL(val.store_front_url);    
-        
-        
         var rendered = Mustache.render(template_html,val);
-        var upper_current_initial = current_initial.toUpperCase();
-        if (upper_current_initial.charCodeAt(0) < breaker.charCodeAt(0) && upper_current_initial.charCodeAt(0) >= starter.charCodeAt(0)){
-            item_rendered.push(rendered);
-        }
+        item_rendered.push(rendered);
 
     });
     
