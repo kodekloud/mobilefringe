@@ -23,7 +23,7 @@
     $(document).ready(function(e) {
         function renderAll (){
             var stores = getStoresList();
-            renderStoreList('#client_list_container','#store_list_template', stores, "stores", "A", "M");
+            renderStoreList('#client_list_container','#store_list_template', stores);
         }
         loadMallDataCached(renderAll); 
     })
