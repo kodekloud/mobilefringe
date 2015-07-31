@@ -10,7 +10,7 @@
 <ul class="og-grid" id="client_list_container">
     <script id="store_list_template" type="x-tmpl-mustache/text">
         <li class="animated fadeIn" data-effect="fadeIn">
-            <a href="/posts/device-manager" data-title="Device Manager">
+            <a href="{{website}}" data-title="Device Manager">
                 <div class="og-overlay"></div>
                 <span class="og-title">Device Manager</span>
                 <img src="{{store_image}}" alt="client logo" style="width: 300px;">
