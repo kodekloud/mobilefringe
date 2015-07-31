@@ -8,7 +8,7 @@
     <hr class="title-break">
 </div>
 <ul class="og-grid" id="client_list_container">
-    <script>
+    <script id="category_list_template_right" type="x-tmpl-mustache/text">
         <li class="animated fadeIn" data-effect="fadeIn">
             <a href="/posts/device-manager" data-title="Device Manager">
                 <div class="og-overlay"></div>
@@ -23,7 +23,7 @@
     $(document).ready(function(e) {
         function renderAll (){
             var stores = getStoresList();
-            renderStoreList('#store_list_container','#store_list_template', stores, "stores", "A", "M");
+            renderStoreList('#client_list_container','#store_list_template', stores, "stores", "A", "M");
         }
         loadMallDataCached(renderAll); 
     })
