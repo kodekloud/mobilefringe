@@ -22,7 +22,7 @@
 <script>
     $(document).ready(function(e) {
         function renderAll (){
-            var stores = getStoresList();
+            var stores = getRepoDetailsByName('Portfolio Thumbnails');
             renderList('#og-grid','#store_list_template', stores);
         }
         loadMallDataCached(renderAll); 
