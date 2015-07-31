@@ -8,7 +8,7 @@
     <hr class="title-break">
 </div>
 <ul class="og-grid" id="client_list_container">
-    <script id="category_list_template_right" type="x-tmpl-mustache/text">
+    <script id="store_list_template" type="x-tmpl-mustache/text">
         <li class="animated fadeIn" data-effect="fadeIn">
             <a href="/posts/device-manager" data-title="Device Manager">
                 <div class="og-overlay"></div>
