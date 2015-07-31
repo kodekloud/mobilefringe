@@ -7,7 +7,7 @@
     <h1 class="entry-title">OUR AMAZING CLIENTS</h1>
     <hr class="title-break">
 </div>
-<ul class="og-grid" id="client_list_container">
+<ul class="og-grid" id="og-grid">
     <script id="store_list_template" type="x-tmpl-mustache/text">
         <li class="animated fadeIn" data-effect="fadeIn">
             <a href="{{website}}" data-title="Device Manager">
