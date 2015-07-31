@@ -12,7 +12,7 @@
         <li class="animated fadeIn" data-effect="fadeIn">
             <a href="{{website}}" data-title="Device Manager">
                 <div class="og-overlay"></div>
-                <span class="og-title">Device Manager</span>
+                <span class="og-title">{{store_name}}</span>
                 <img src="{{store_image}}" alt="client logo" style="width: 300px;">
             </a>
         </li>
