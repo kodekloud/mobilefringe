@@ -10,7 +10,7 @@
 <ul class="og-grid" id="og-grid">
     <script id="store_list_template" type="x-tmpl-mustache/text">
         <li class="animated fadeIn" data-effect="fadeIn" >
-            <a href="/{{url}}">
+            <a href="/posts/{{url}}">
                 <div class="og-overlay"></div>
                 <span class="og-title">{{name}}</span>
                 <img src="{{photo_url_abs}}" alt="client logo" style="width: 300px;">
