@@ -13,7 +13,7 @@
             <a href="/{{link}}">
                 <div class="og-overlay"></div>
                 <span class="og-title">{{name}}</span>
-                <img src="{{store_image}}" alt="client logo" style="width: 300px;">
+                <img src="{{photo_url_abs}}" alt="client logo" style="width: 300px;">
             </a>
         </li>
     </script>
