@@ -8,6 +8,7 @@
     <hr class="title-break">
 </div>
 <ul class="og-grid" id="client_list_container">
+    <script>
         <li class="animated fadeIn" data-effect="fadeIn">
             <a href="/posts/device-manager" data-largesrc="http://www.mobilefringe.com/wp-content/uploads/2015/01/DM_SmartPhone-Screens-presentation-Mock-up-desktop.jpg" data-title="Device Manager" data-description="<p>Small businesses can deploy, manage, secure, track and support wireless devices with Device Manager. Locate, Track, Text, or Alerts and lock down devices to a team members work-mobile device.</p>">
                 <div class="og-overlay"></div>
@@ -15,4 +16,5 @@
                 <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/4bbe946569d477369d5ca9eec46d21bf/DM_Gallery-Mock-up.jpg" alt="" style="width: 300px;">
             </a>
         </li>
+    </script>
 </ul>
