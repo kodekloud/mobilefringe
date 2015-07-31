@@ -12,7 +12,7 @@
         <li class="animated fadeIn" data-effect="fadeIn" data-largesrc="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/prod_catalyst_inside.jpg" data-title="Rogers Catalyst Experts" data-description="<p>We are experts in delivering high quality integration applications with speed and precision. We excel in web &amp; mobile web development, account and billing system integration, Rogers Catalyst integration, mobile app development and much more.<strong>Our Rogers projects include:</strong></p>">
             <a href="{{website}}" data-title="Device Manager">
                 <div class="og-overlay"></div>
-                <span class="og-title">{{store_name}}</span>
+                <span class="og-title">{{name}}</span>
                 <img src="{{store_image}}" alt="client logo" style="width: 300px;">
             </a>
         </li>
