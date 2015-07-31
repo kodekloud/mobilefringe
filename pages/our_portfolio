@@ -22,7 +22,7 @@
 <script>
     $(document).ready(function(e) {
         function renderAll (){
-            var stores = getRepoDetailsByName('Portfolio Thumbnails');
+            var stores = getRepoDetailsByName('Portfolio Thumbnails').images;
             renderList('#og-grid','#store_list_template', stores);
         }
         loadMallDataCached(renderAll); 
@@ -36,6 +36,7 @@
     var store_initial="";
     $.each( collection , function( key, val ) {
         var rendered = Mustache.render(template_html,val);
+        console.log(val)
         item_rendered.push(rendered);
 
     });
