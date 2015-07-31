@@ -35,7 +35,7 @@
     Mustache.parse(template_html);   // optional, speeds up future uses
     var store_initial="";
     $.each( collection , function( key, val ) {
-        val.alt_store_front_url = getImageURL(val.store_front_url);    
+        val.store_image = getImageURL(val.store_front_url);    
         var rendered = Mustache.render(template_html,val);
         item_rendered.push(rendered);
 
