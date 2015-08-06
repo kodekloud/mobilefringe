@@ -78,7 +78,7 @@
                         <li id="menu-item-354" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown"><a href="#" class="no-scroll dropdown-toggle" data-toggle="dropdown">MORE<b class="caret"></b></a>
                             <ul class="dropdown-menu" role="menu">
                                 <li id="menu-item-458" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/client_list" class="no-scroll">CLIENT LIST</a></li>
-                                <li id="menu-item-457" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/our-portfolio" class="no-scroll">OUR PORTFOLIO</a></li>
+                                <li id="menu-item-457" class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/our_portfolio" class="no-scroll">OUR PORTFOLIO</a></li>
                             </ul>
                         </li>
                     </ul>
@@ -152,7 +152,7 @@
                     <nav class="footer-nav">
                         <ul id="menu-secondary-menu" class="">
                             <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/client_list" class="no-scroll">Clients List</a></li>
-                            <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/pages/mobilefringe-our-portfolio" class="no-scroll">Our Apps</a></li>
+                            <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/our_portfolio" class="no-scroll">Our Apps</a></li>
                             <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/pages/mobilefringe-about-mobile-fringe" class="no-scroll">About Us</a></li>
                             <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/pages/mobilefringe-iwork-mobilefringe" class="no-scroll">Work @ Mobile Fringe</a></li>
                             <li class=" menu-item menu-item-type-post_type menu-item-object-page none"><a href="/pages/mobilefringe-privacy-policy" class="no-scroll">Privacy Policy</a></li>
