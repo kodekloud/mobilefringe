@@ -3,8 +3,12 @@
 function init(e){
     $('#email_form').submit(function(e){
         e.preventDefault();
-        $.post('http://mobilefringe.mallmaverick.com/custom_email', data)
-    })
+        data = {};
+        data.mailto = "rajbir@mobilefringe.com";
+        data.subject = "Get in touch - Mobile Fringe form";
+        data.custom = "This is test"
+        $.post('http://mobilefringe.mallmaverick.com/custom_email', data);
+    });
 }
 
 function renderPostDetails(container, template, collection){
