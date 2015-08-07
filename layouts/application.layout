@@ -120,6 +120,7 @@
                                                 <div class="form-group">
                                                     <input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit btn btn-lg btn-light btn-default">
                                                 </div>
+                                                <p id="email_sent">Thank you for contacting us.</p>
                                             </div>
                                         </form>
                                     </div>
