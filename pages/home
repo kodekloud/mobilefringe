@@ -262,6 +262,6 @@
 <script src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/cecd90e4a8f75ba0314c8a7d1aaa1dde/jquery.smooth-scroll.min.js"></script>
 <script>
     $(document).ready(function(e){
-        init(e)
-    })
+        init(e);
+    });
 </script>
