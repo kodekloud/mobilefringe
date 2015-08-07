@@ -3,12 +3,11 @@
 function init(e){
     $('#email_form').submit(function(e){
         e.preventDefault();
-        alert("here")
-        // data = {};
-        // data.send_to = "rajbir@mobilefringe.com";
-        // data.subject = "Get in touch - Mobile Fringe form";
-        // data.body = {"email" : $('#yourEmail').val(), "name" : $('#yourName').val(), "message" : $('#yourMessage').val()};
-        // $.post('http://mobilefringe.mallmaverick.com/send_contact_email', data);
+        data = {};
+        data.send_to = "rajbir@mobilefringe.com";
+        data.subject = "Get in touch - Mobile Fringe form";
+        data.body = {"email" : $('#yourEmail').val(), "name" : $('#yourName').val(), "message" : $('#yourMessage').val()};
+        $.post('http://mobilefringe.mallmaverick.com/send_contact_email', data);
     });
 }
 
