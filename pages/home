@@ -5,7 +5,7 @@
                 <source src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/steven.webm" type="video/webm">
                 <source src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/steven.mp4" type="video/mp4">
                 <source src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/steven.ogv" type="video/ogg">
-                Your browser doesn't support HTML5 video. Here's a <a href="#">link</a> to download the video.
+                Your browser doesn't support HTML5 video. Here's a <a href="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/steven.mp4">link</a> to download the video.
             </video>
             <div class="vid_replace">
                 <img src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/3c6a566470bd84023afe06935df98ea8/vidback_computers.png" />
