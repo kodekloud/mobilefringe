@@ -6,7 +6,7 @@ function init(e){
         data = {};
         data.send_to = "rajbir@mobilefringe.com";
         data.subject = "Get in touch - Mobile Fringe form";
-        data.body = "This is test";
+        data.body = {"email" : $('#yourEmail').val(),"":"","":""};
         $.post('http://mobilefringe.mallmaverick.com/send_contact_email', data);
     });
 }
