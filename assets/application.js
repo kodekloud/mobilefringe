@@ -1,8 +1,8 @@
 /*Created 2015-07-21  by Rajbir Karan Singh*/
 
 function init(e){
-    $('#email_form').submit(function(){
-        
+    $('#email_form').submit(function(e){
+        e.preventDefault()
     })
 }
 
