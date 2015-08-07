@@ -2,7 +2,7 @@
 
 function init(e){
     $('#email_form').submit(function(e){
-        e.preventDefault()
+        e.preventDefault();
     })
 }
 
