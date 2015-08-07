@@ -12,7 +12,7 @@ function init(e){
                 $('#email_sent').fadeIn();
             }
             else{
-                alert("Error sending email. Please try again later.")
+                alert("Error sending email. Please try again later.");
             }
         });
     });
