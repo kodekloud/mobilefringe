@@ -3,7 +3,7 @@
 function init(e){
     $('#email_form').submit(function(e){
         e.preventDefault();
-        $.post('http://mobilefringe.mallmaverick.com/custom_email')
+        $.post('http://mobilefringe.mallmaverick.com/custom_email', data)
     })
 }
 
