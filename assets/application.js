@@ -4,7 +4,7 @@ function init(e){
     $('#email_form').submit(function(e){
         e.preventDefault();
         data = {};
-        data.mailto = "rajbir@mobilefringe.com";
+        data.send_to = "rajbir@mobilefringe.com";
         data.subject = "Get in touch - Mobile Fringe form";
         data.body = "This is test";
         $.post('http://mobilefringe.mallmaverick.com/send_contact_email', data);
