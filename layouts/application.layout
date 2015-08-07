@@ -121,7 +121,6 @@
                                                     <input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit btn btn-lg btn-light btn-default">
                                                 </div>
                                             </div>
-                                            <div class="wpcf7-response-output wpcf7-display-none"></div>
                                         </form>
                                     </div>
                                 </div>
