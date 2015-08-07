@@ -1,4 +1,11 @@
 /*Created 2015-07-21  by Rajbir Karan Singh*/
+
+function init(e){
+    $('#email_form').submit(function(){
+        
+    })
+}
+
 function renderPostDetails(container, template, collection){
     var item_list = [];
     var item_rendered = [];
