@@ -103,7 +103,7 @@
                             <div class="col-md-6 mg-sm animated fadeIn" data-effect="fadeIn">
                                 <div class="wpcf7">
                                     <div class="screen-reader-response"></div>
-                                        <form>
+                                        <form id="email_form">
                                             <div class="text-left">
                                                 <div class="form-group">
                                                     <label class="required" for="yourEmail">Email address:</label><br>
