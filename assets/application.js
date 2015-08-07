@@ -8,7 +8,9 @@ function init(e){
         data.subject = "Get in touch - Mobile Fringe form";
         data.body = {"email" : $('#yourEmail').val(), "name" : $('#yourName').val(), "message" : $('#yourMessage').val()};
         $.post('http://mobilefringe.mallmaverick.com/send_contact_email', data, function(data, textStatus, jqXHR){
-            console.log(textStatus)
+            if(textStatus == "success"){
+                $('#email_sent').fadeIn()
+            }
         });
     });
 }
