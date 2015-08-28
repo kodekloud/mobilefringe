@@ -2,7 +2,7 @@
     body{
         padding-top: 68px;
     }
-    .post_side_title img{
+    #mm_page_content img{
         max-width:100%;
     }
 </style>
