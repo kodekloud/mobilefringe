@@ -2,6 +2,9 @@
     body{
         padding-top: 68px;
     }
+    .post_side_title img{
+        max-width:100%;
+    }
 </style>
 <div class="container margin_top_30">
     <div class="row">
