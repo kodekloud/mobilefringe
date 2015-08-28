@@ -67,7 +67,7 @@
             <div class="fill-wrapper">
                 <div class="section-title">
                     <h1 class="white animated fadeInDown" data-effect="fadeInDown">
-                        <a href="http://www.mallmaverick.com"><img class="mmlogo bg-logo alignnone" src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/MMlogo.png" width="459" height="75" style="padding-left: 30px; padding-right: 30px;"></a>
+                        <a href="http://www.mallmaverick.com"><img class="mmlogo bg-logo alignnone" src="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/c58f33f86d365817241ec95fa9780843/MMlogo.png" width="459" height="75" ></a>
                     </h1>
                     <h3 class="subtitle white animated fadeInUp" data-effect="fadeInUp">
                         <a href="http://www.mallmaverick.com" target="blank" style="color: #fff;"> OUR AWARD WINNING DIGITAL CMS - CLICK TO KNOW MORE!</a>
