@@ -434,7 +434,7 @@ display:none;
         padding:0;
     }
     .og-grid li, .og-overlay{
-        height:inherit;
+        height:100% !important;
     }
 }
 
