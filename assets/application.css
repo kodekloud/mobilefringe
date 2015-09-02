@@ -430,4 +430,8 @@ display:none;
     .mmlogo{
         width:90%;
     }
+    #menu-secondary-menu{
+        padding:0;
+    }
 }
+
