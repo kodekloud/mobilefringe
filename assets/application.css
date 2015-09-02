@@ -440,5 +440,8 @@ display:none;
     .og-grid li a img{
         width: 100% !important;
     }
+    #primaris{
+        height:inherit important;
+    }
 }
 
