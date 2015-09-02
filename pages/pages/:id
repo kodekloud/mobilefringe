@@ -37,9 +37,12 @@
                 Subscribe to our newsletter and get information catered to the retail property management industry and updated features.
             </p>
             <br />
-            <input type="text" class="form-control" placeholder="Email" name="cm-iukudj-iukudj" />
-            <br />
-            <input type="submit" value="Subscribe" class="btn btn-inverse" style="margin:0" id="subscribe_newsletter"/>
+            <form action="http://mobilefringe.createsend.com/t/d/s/iukudj/" method="post" id="newsletter_form">
+                <input type="text" class="form-control" placeholder="Email" name="cm-iukudj-iukudj" />
+                <br />
+                <input type="submit" value="Subscribe" class="btn btn-inverse" style="margin:0" id="subscribe_newsletter"/>
+                <p id="success_subscribe" style="display:none">Thank you for subscribing.</p>
+            </form>
         </div>
     </div>
 </div>
