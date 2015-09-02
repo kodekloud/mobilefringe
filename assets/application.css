@@ -433,5 +433,8 @@ display:none;
     #menu-secondary-menu{
         padding:0;
     }
+    .og-grid li, .og-overlay{
+        height:inherit;
+    }
 }
 
