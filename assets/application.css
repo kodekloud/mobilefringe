@@ -436,5 +436,8 @@ display:none;
     .og-grid li, .og-overlay{
         height:100% !important;
     }
+    .og-grid li a img{
+            width: 100% !important;
+    }
 }
 
