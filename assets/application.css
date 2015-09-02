@@ -415,3 +415,9 @@ display:none;
   height: auto;
 }
 }
+
+@media(max-width:800px){
+    .section-title .title{
+        margin-bottom:20px;
+    }
+}
