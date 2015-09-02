@@ -124,7 +124,7 @@ function get_month (id){
     return month;
 }
 
-function (){
+function subscribe(){
     $('#newsletter_form').submit(function(e){
         e.preventDefault();
         $.getJSON(
