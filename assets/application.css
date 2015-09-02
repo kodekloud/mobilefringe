@@ -441,7 +441,7 @@ display:none;
         width: 100% !important;
     }
     #primaris{
-        height:100% !important;
+        display:none;
     }
 }
 
