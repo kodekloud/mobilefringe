@@ -83,6 +83,7 @@ function renderTestimonial(container, template, collection){
 
 
 function get_month (id){
+    val month = "";
     switch(id) {
         case 0:
             month = "Jan";
