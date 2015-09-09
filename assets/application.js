@@ -83,7 +83,7 @@ function renderTestimonial(container, template, collection){
 
 
 function get_month (id){
-    vrl month = "";
+    var month = "";
     switch(id) {
         case 0:
             month = "Jan";
