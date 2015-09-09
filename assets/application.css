@@ -10,6 +10,9 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
 .post-title{
     color: #57b6dd;
 }
+.yield{
+    display:none;
+}
 
 .mmlogo{
     max-width:100%;
