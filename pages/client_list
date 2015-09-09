@@ -21,6 +21,7 @@
 
 <script>
     $(document).ready(function(e) {
+        init(e);
         function renderAll (){
             var stores = getStoresList();
             renderStoreList('#og-grid','#store_list_template', stores);
