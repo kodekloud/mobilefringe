@@ -25,6 +25,7 @@
         function renderAll (){
             var stores = getRepoDetailsByName('Portfolio Thumbnails').images;
             renderList('#og-grid','#store_list_template', stores);
+            show_content();
         }
         loadMallDataCached(renderAll); 
     })
