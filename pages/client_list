@@ -25,6 +25,7 @@
         function renderAll (){
             var stores = getStoresList();
             renderStoreList('#og-grid','#store_list_template', stores);
+            show_content();
         }
         loadMallDataCached(renderAll); 
     })
