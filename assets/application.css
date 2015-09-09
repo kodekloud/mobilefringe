@@ -17,6 +17,11 @@ a, #navigation .navbar-nav li.current-menu-item a, #navigation .navbar-nav > li.
 .size-full{
     max-width:100%;
 }
+.custom_backdrop{
+    opacity:0.5;
+    background:#fff;
+    text-align:center;
+}
 
 .post_container{
     border-bottom: solid #57b6dd 1px;
