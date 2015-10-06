@@ -2,18 +2,22 @@
 <!DOCTYPE html>
 <html lang="en-US">
     <head>
+        <meta property="og:title" content="{{meta_title}}">
+        <meta property="og:description" content="{{meta_description}}">
+        <meta property="og:image" content="{{meta_image}}">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="{{meta_description}}">
+        <meta name="keywords" content="{{meta_keywords}}">
+        <meta name="author" content="">
         <title>{{meta_title}}</title>
-        <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" itemprop="description" content="Mobile Fringe develops the best mobile, tablet and web solutions and software for your business in Toronto" />
-        <meta name="keywords" itemprop="keywords" content="Best mobile developer, best web software in Toronto" />
-        <meta property="og:title" content="Mobile Fringe" />
         <meta property="og:type" content="blog" />
         <meta property="og:url" content="http://www.mobilefringe.com/" />
         <meta property="og:site_name" content="Mobile Fringe" />
-        <meta property="og:description" content="Mobile Solutions &amp; Software" />
         <meta name="twitter:card" content="summary" />
-        <meta name="twitter:description" content="Mobile Solutions &amp; Software" />
+        <meta name="twitter:description" content= "{{meta_description}}" />
         
         <link rel="shortcut icon" href="http://assets.kodekloud.io/sites/55aebd796e6f647ab3000000/3c6a566470bd84023afe06935df98ea8/favicon.png" type="image/x-icon"/>
         <link rel="canonical" href="http://www.mobilefringe.com/" />        
